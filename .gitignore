@@ -1,6 +1,17 @@
-# 排除 misc 目录和无关文件
+# 只追踪 rev1999-pack 目录，忽略其他项目文件
 misc/
 *.log
 *.tmp
 .DS_Store
 Thumbs.db
+__pycache__/
+*.pyc
+*.pyo
+.agents/
+.indextts/
+EverythingIsCrabCheat/
+cookies.txt
+skills-lock.json
+run.bat
+*.exe
+*.dll
