@@ -1,0 +1,6 @@
+# 排除 misc 目录和无关文件
+misc/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
