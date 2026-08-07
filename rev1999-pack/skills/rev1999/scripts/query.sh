@@ -2,17 +2,18 @@
 # 重返未来1999 数据查询脚本
 # 用法: ./query.sh <关键词> [文件类型]
 # 文件类型: all(默认), character, story, system, world, event
+# 优先使用 Python 搜索索引，不可用时降级为 grep
 
 KEYWORD="$1"
 TYPE="${2:-all}"
 
-# 数据路径: 优先使用 REV1999_DATA 环境变量
-# 安装时设置: export REV1999_DATA=/path/to/rev1999-pack/data
-if [ -n "$REV1999_DATA" ]; then
+# 数据路径: 优先使用 REV1999_DATA 环境变量，否则包内路径
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+PACKAGE_DATA="$(cd "$SCRIPT_DIR/../../.." && pwd)/data"
+if [ -n "$REV1999_DATA" ] && [ -d "$REV1999_DATA" ]; then
   BASE="$REV1999_DATA"
 else
-  SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
-  BASE="$(cd "$SCRIPT_DIR/../.." && pwd)/data"
+  BASE="$PACKAGE_DATA"
 fi
 
 if [ ! -d "$BASE" ]; then
@@ -21,6 +22,56 @@ if [ ! -d "$BASE" ]; then
   echo "export REV1999_DATA=/path/to/rev1999-pack/data"
   exit 1
 fi
+
+# 检查 Python 是否可用
+PYTHON_BIN=""
+if command -v python3 >/dev/null 2>&1; then
+  PYTHON_BIN="python3"
+elif command -v python >/dev/null 2>&1; then
+  PYTHON_BIN="python"
+fi
+
+# 检查搜索索引脚本是否存在且索引已构建（先查 BASE，再查包内路径）
+SEARCH_SCRIPT="$(cd "$(dirname "$0")" && pwd)/search_index.py"
+INDEX_FILE="$BASE/.index/inverted_index.pkl"
+if [ ! -f "$INDEX_FILE" ] && [ -f "$PACKAGE_DATA/.index/inverted_index.pkl" ]; then
+  INDEX_FILE="$PACKAGE_DATA/.index/inverted_index.pkl"
+fi
+USE_PYTHON=0
+if [ -n "$PYTHON_BIN" ] && [ -f "$SEARCH_SCRIPT" ] && [ -f "$INDEX_FILE" ]; then
+  USE_PYTHON=1
+fi
+
+# Python 搜索统一使用包内数据目录（索引所在位置）
+PY_BASE="$BASE"
+if [ -f "$PACKAGE_DATA/.index/inverted_index.pkl" ]; then
+  PY_BASE="$PACKAGE_DATA"
+fi
+
+# Python 搜索模式
+if [ "$USE_PYTHON" -eq 1 ]; then
+  case "$TYPE" in
+    all|character|story|system|world|event)
+      "$PYTHON_BIN" "$SEARCH_SCRIPT" search "$KEYWORD" --type "$TYPE" --top 20 --datadir "$PY_BASE"
+      ;;
+    related)
+      "$PYTHON_BIN" "$SEARCH_SCRIPT" related "$KEYWORD" --datadir "$PY_BASE"
+      ;;
+    *)
+      echo "用法: ./query.sh <关键词> [类型]"
+      echo "类型: all, character, story, system, world, event, related"
+      echo "示例: ./query.sh 维尔汀 character"
+      echo "      ./query.sh 暴雨 world"
+      echo "      ./query.sh 维尔汀 related"
+      exit 1
+      ;;
+  esac
+  exit 0
+fi
+
+# 降级模式: grep 搜索
+echo "提示: Python搜索不可用，使用grep降级模式 (运行 search_index.py build 启用索引)"
+echo ""
 
 case "$TYPE" in
   character)
@@ -58,9 +109,19 @@ case "$TYPE" in
     echo "---"
     grep -ri "$KEYWORD" "$BASE/世界观设定/" "$BASE/小径/" 2>/dev/null | head -15
     ;;
+  related)
+    echo "=== 关联搜索: $KEYWORD ==="
+    for dir in 角色 角色列表 主线 支线 世界观设定 小径; do
+      hits=$(grep -rl "$KEYWORD" "$BASE/$dir/" 2>/dev/null | head -3)
+      if [ -n "$hits" ]; then
+        echo "--- $dir ---"
+        echo "$hits"
+      fi
+    done
+    ;;
   *)
     echo "用法: ./query.sh <关键词> [类型]"
-    echo "类型: all, character, story, system, world, event"
+    echo "类型: all, character, story, system, world, event, related"
     echo "示例: ./query.sh 维尔汀 character"
     echo "      ./query.sh 暴雨 world"
     exit 1
