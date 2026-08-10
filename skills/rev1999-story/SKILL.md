@@ -9,6 +9,10 @@ description: 《重返未来1999》剧情时间线技能。当用户询问剧情
 
 本技能用于查询《重返未来1999》的剧情时间线、主线章节、活动剧情和世界观设定。
 
+## 数据根定位（先做，可移植）
+
+以下 `data/...` 均为相对**数据根**的路径（可复制到任意电脑/agent）。定位：①`REV1999_DATA` 环境变量（有效则用）②glob 搜索 `**/雨前精编/README.md`，其所在目录即数据根（与 `skills/` 平级）③`scripts/query.sh`/`query.ps1` 自动推导。Windows 读中文文件先设 `[Console]::OutputEncoding = [System.Text.Encoding]::UTF8`。
+
 ## 数据源
 
 - `data/skill_02_时间线与主线.md` - 时间线和主线剧情（已按《雨前》文本交叉修正）

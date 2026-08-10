@@ -11,6 +11,8 @@ description: 《重返未来1999》OC（原创角色）创作技能。当用户�
 
 ## 数据来源
 
+> **数据根定位（先做，可移植）**：以下 `data/...` 均为相对数据根的路径。①`REV1999_DATA` 环境变量 ②glob 搜索 `**/雨前精编/README.md` 定位数据根（与 `skills/` 平级）③`scripts/query.ps1`/`query.sh` 自动推导。禁止假设 data 在 `skills/rev1999/data/` 下。
+
 角色风格参考: `data/skill_03_角色百科A.md`、`data/skill_04_角色百科B.md`
 创作指南: `data/skill_07_文学风格与创作指南.md`
 术语参考: `data/skill_08_术语词典.md`
