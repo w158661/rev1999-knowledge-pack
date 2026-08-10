@@ -1,0 +1,191 @@
+# 不休荒原/昨日小镇 II
+
+> 来源:  https://res1999.huijiwiki.com/wiki/%E4%B8%8D%E4%BC%91%E8%8D%92%E5%8E%9F%2F%E6%98%A8%E6%97%A5%E5%B0%8F%E9%95%87%20II
+
+[[图: https://huiji-public.huijistatic.com/res1999/uploads/5/57/Bg_ditubeijing.png]
+
+[[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7d/Dikuai_icon.png]
+
+[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/2c/Roomget_blockpackage-3804.png]
+
+[[图: https://huiji-public.huijistatic.com/res1999/uploads/a/aa/Bg_hei.png]
+
+即使离开家乡数十载，人们依然会在深夜的梦中回到此处。
+
+编号ID：3804
+
+所属主题： | 砖石长诗 |
+
+来源： |
+商城
+
+[[图: https://huiji-public.huijistatic.com/res1999/uploads/c/c7/Themesource_2.png]
+
+|
+
+购买价格： |
+
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+
+[[图: https://huiji-public.huijistatic.com/res1999/uploads/c/c6/CurrencyIcon-190006_1.png]
+‌ 400 /
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
+
+[[图: https://huiji-public.huijistatic.com/res1999/uploads/8/81/CurrencyIcon-202_1.png]
+‌ 135
+|
+
+活力值： |
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6e/Jianshezhi.png/22px-Jianshezhi.png]
+8 /个 |
+
+孤屿数量： | 15
+陆地 ×15 |
+
+[[图: https://huiji-public.huijistatic.com/res1999/uploads/5/5b/Room_blockpackage-3804.png]
+
+## 砖石长诗
+
+砖石长诗 Verses in the Brick
+
+[[图: https://huiji-public.huijistatic.com/res1999/uploads/c/c6/Roomget_theme-1702800.png]
+
+3.8
+
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6e/Jianshezhi.png/22px-Jianshezhi.png]
+1005 /
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a9/Icon_zongkuai.png/26px-Icon_zongkuai.png]
+60
+
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/cc/Jianzhu_icon.png/20px-Jianzhu_icon.png]
+5
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/7d/Dikuai_icon.png/20px-Dikuai_icon.png]
+4
+
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+
+[[图: https://huiji-public.huijistatic.com/res1999/uploads/c/c6/CurrencyIcon-190006_1.png]
+‌ 3000 /
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
+
+[[图: https://huiji-public.huijistatic.com/res1999/uploads/8/81/CurrencyIcon-202_1.png]
+‌ 1005
+
+人们捡起往日，也筑起未来，靠一块块石头，靠一千个不曾弥散的梦。
+
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f2/Btn_store_di.png/160px-Btn_store_di.png]
+
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d7/Img_pinzhi_6.png/160px-Img_pinzhi_6.png]
+
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9d/Item_building-13801.png/160px-Item_building-13801.png]
+
+[[图: https://huiji-public.huijistatic.com/res1999/uploads/c/cc/Jianzhu_icon.png]
+庇护穹顶
+
+商城
+
+[[图: https://huiji-public.huijistatic.com/res1999/uploads/c/c7/Themesource_2.png]
+
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f2/Btn_store_di.png/160px-Btn_store_di.png]
+
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d7/Img_pinzhi_6.png/160px-Img_pinzhi_6.png]
+
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/99/Item_building-13802.png/160px-Item_building-13802.png]
+
+[[图: https://huiji-public.huijistatic.com/res1999/uploads/c/cc/Jianzhu_icon.png]
+坍塌餐馆
+
+商城
+
+[[图: https://huiji-public.huijistatic.com/res1999/uploads/c/c7/Themesource_2.png]
+
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f2/Btn_store_di.png/160px-Btn_store_di.png]
+
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/0e/Img_pinzhi_5.png/160px-Img_pinzhi_5.png]
+
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a3/Item_building-13811.png/160px-Item_building-13811.png]
+
+[[图: https://huiji-public.huijistatic.com/res1999/uploads/c/cc/Jianzhu_icon.png]
+拂轻霄
+
+额外
+
+[[图: https://huiji-public.huijistatic.com/res1999/uploads/b/b8/Themesource_4.png]
+
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f2/Btn_store_di.png/160px-Btn_store_di.png]
+
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/0e/Img_pinzhi_5.png/160px-Img_pinzhi_5.png]
+
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f0/Item_building-13812.png/160px-Item_building-13812.png]
+
+[[图: https://huiji-public.huijistatic.com/res1999/uploads/c/cc/Jianzhu_icon.png]
+缀芳馨
+
+额外
+
+[[图: https://huiji-public.huijistatic.com/res1999/uploads/b/b8/Themesource_4.png]
+
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f2/Btn_store_di.png/160px-Btn_store_di.png]
+
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/87/Img_pinzhi_4.png/160px-Img_pinzhi_4.png]
+
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5c/Item_building-13803.png/160px-Item_building-13803.png]
+
+[[图: https://huiji-public.huijistatic.com/res1999/uploads/c/cc/Jianzhu_icon.png]
+无所往阶梯
+
+满赠
+
+[[图: https://huiji-public.huijistatic.com/res1999/uploads/0/07/Themesource_3.png]
+
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f2/Btn_store_di.png/160px-Btn_store_di.png]
+
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/0e/Img_pinzhi_5.png/160px-Img_pinzhi_5.png]
+
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/4e/Item_blockpackage-3801.png/160px-Item_blockpackage-3801.png]
+
+[[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7d/Dikuai_icon.png]
+蓝图叙事
+
+商城
+
+[[图: https://huiji-public.huijistatic.com/res1999/uploads/c/c7/Themesource_2.png]
+
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f2/Btn_store_di.png/160px-Btn_store_di.png]
+
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/0e/Img_pinzhi_5.png/160px-Img_pinzhi_5.png]
+
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/df/Item_blockpackage-3802.png/160px-Item_blockpackage-3802.png]
+
+[[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7d/Dikuai_icon.png]
+似曾相识之地
+
+活动
+
+[[图: https://huiji-public.huijistatic.com/res1999/uploads/b/bd/Themesource_1.png]
+
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f2/Btn_store_di.png/160px-Btn_store_di.png]
+
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/87/Img_pinzhi_4.png/160px-Img_pinzhi_4.png]
+
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/79/Item_blockpackage-3803.png/160px-Item_blockpackage-3803.png]
+
+[[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7d/Dikuai_icon.png]
+昨日小镇 I
+
+活动
+
+[[图: https://huiji-public.huijistatic.com/res1999/uploads/b/bd/Themesource_1.png]
+
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f2/Btn_store_di.png/160px-Btn_store_di.png]
+
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/87/Img_pinzhi_4.png/160px-Img_pinzhi_4.png]
+
+[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9c/Item_blockpackage-3804.png/160px-Item_blockpackage-3804.png]
+
+[[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7d/Dikuai_icon.png]
+昨日小镇 II
+
+商城
+
+[[图: https://huiji-public.huijistatic.com/res1999/uploads/c/c7/Themesource_2.png]

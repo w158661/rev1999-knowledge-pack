@@ -1,0 +1,20 @@
+# 构建产物与本地文件
+data/.index/
+__pycache__/
+*.pyc
+*.pyo
+
+# 压缩包
+*.zip
+
+# 环境与编辑器
+.env
+.env.*
+.vscode/
+.idea/
+*.log
+
+# 系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
