@@ -183,7 +183,7 @@
 - 写错专有名词=最严重的幻觉
 
 **铁律4：搜索优先，记忆靠后**
-- 需要具体信息时，先用 `scripts/query.sh` 或 `search_index.py` 搜索原始数据
+- 需要具体信息时，先用 `skills/rev1999/scripts/query.sh` 或 `skills/rev1999/scripts/search_index.py` 搜索原始数据
 - 搜索结果优先于模型记忆
 - 模型记忆可能包含幻觉，数据文件不会
 
