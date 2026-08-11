@@ -1,6 +1,6 @@
 ﻿# 重返未来1999 数据查询脚本 (Windows PowerShell 版)
 # 用法: .\query.ps1 <关键词> [文件类型]
-# 文件类型: all(默认), character, story, system, world, event, related
+# 文件类型: all(默认), character, story, system, world, event, stage, related
 # 与 query.sh 功能等价，供 Windows 环境使用。
 
 param(
@@ -80,6 +80,11 @@ switch ($Type) {
         Search-In @("$Base\skill_05_支线活动.md") "知识文档"
         Search-In @("$Base\扩充\04_活动版本深度全解.md") "扩充卷(深度)"
     }
+    "stage" {
+        Write-Host "=== 搜索战斗关卡: $Keyword ===" -ForegroundColor Yellow
+        Search-In @("$Base\战斗关卡\*.md", "$Base\战斗关卡\*\*.md", "$Base\战斗关卡\*\*\*.md") "战斗关卡原始数据" 30
+        Search-In @("$Base\扩充\34_战斗关卡汇总索引.md", "$Base\扩充\28_*.md", "$Base\扩充\29_*.md", "$Base\扩充\30_*.md", "$Base\扩充\31_*.md", "$Base\扩充\32_*.md", "$Base\扩充\33_*.md") "关卡深度索引(扩充28~34)" 30
+    }
     "related" {
         Write-Host "=== 关联搜索: $Keyword ===" -ForegroundColor Yellow
         foreach ($dir in @("角色", "角色列表", "主线", "支线", "世界观设定", "小径", "雨前精编", "扩充")) {
@@ -92,7 +97,8 @@ switch ($Type) {
         Search-In @("$Base\角色", "$Base\角色列表") "角色数据" 15
         Search-In @("$Base\主线", "$Base\支线") "剧情数据" 15
         Search-In @("$Base\世界观设定", "$Base\小径") "世界观数据" 15
-        Search-In @("$Base\雨前精编", "$Base\扩充") "扩充卷(深度)" 25
+        Search-In @("$Base\雨前精编\*.md", "$Base\扩充\*.md") "扩充卷(深度)" 25
+        Search-In @("$Base\战斗关卡\*.md", "$Base\战斗关卡\*\*.md", "$Base\战斗关卡\*\*\*.md") "战斗关卡" 15
     }
 }
 
