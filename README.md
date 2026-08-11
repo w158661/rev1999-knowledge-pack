@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/版本-v2.4-blue" alt="版本">
-  <img src="https://img.shields.io/badge/数据文件-6263-green" alt="数据文件">
+  <img src="https://img.shields.io/badge/版本-v2.5-blue" alt="版本">
+  <img src="https://img.shields.io/badge/数据文件-6235-green" alt="数据文件">
   <img src="https://img.shields.io/badge/技能-8-orange" alt="技能数">
-  <img src="https://img.shields.io/badge/深度扩充-75-purple" alt="扩充卷">
+  <img src="https://img.shields.io/badge/深度扩充-77-purple" alt="扩充卷">
   <img src="https://img.shields.io/badge/许可-CC%20BY--NC--SA%204.0-lightgrey" alt="许可">
 </p>
 
@@ -48,7 +48,7 @@ rev1999-pack/
 │   ├── rev1999-story/    # 剧情时间线
 │   ├── rev1999-write/    # 写作辅助
 │   └── rev1999-query/    # 数据快速查询
-├── data/                # 6263 个数据文件 / 38 个子目录
+├── data/                # 6235 个数据文件 / 38 个子目录
 │   ├── skill_*.md       # 15 个知识文档
 │   ├── analysis_*.txt   # 16 个分析文件
 │   ├── 扩充/            # 75 个深度精读扩充卷
@@ -127,10 +127,10 @@ bash skills/rev1999/scripts/query.sh "黄昏的音序" stage   # 活动名直达
 | 荒原 | 445 | 家园系统（建筑/孤屿/装潢/主题） |
 | 人工梦游 | 463 | 浅眠10/深眠371/醒梦68/怪梦栖所12 |
 | 衣着 | 294 | 皮肤/服装描述 |
-| 扩充 | 75 | 深度精读扩充卷（含 36~40 实测/调研系列） |
+| 扩充 | 77 | 深度精读扩充卷（含 36~42 实测/调研/种族/链接系列） |
 | 角色列表 | 141 | 角色数据/机制 |
 | 小径 | 113 | 氛围文本/世界观细节 |
-| 活动 | 84 | 版本活动 |
+| 活动 | 54 | 版本活动 |
 | 鬃毛邮报 | 75 | 游戏模式 |
 | 角色 | 52 | 角色故事/文学 |
 | UTTU | 41 | UTTU挑战 |
@@ -148,7 +148,7 @@ bash skills/rev1999/scripts/query.sh "黄昏的音序" stage   # 活动名直达
 | 模型适配 | 2 | 模型适配总纲与分模型方案 |
 | 文档 | 4 | 爬取记录/普查 |
 | 其余 | ~30 | 心相/征集/签到/沙盘/收藏/配音等 |
-| **合计** | **6263** | 38 个子目录（2026-08-11 实测口径） |
+| **合计** | **6235** | 38 个子目录（2026-08-11 实测口径，含战斗关卡1836/其他2236/同人参考7） |
 
 ## 知识文档
 
