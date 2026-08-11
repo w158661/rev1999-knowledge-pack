@@ -117,6 +117,9 @@ bash skills/rev1999/scripts/query.sh "37" all
 # 直接grep
 grep -ri "阿尔卡纳" $REV1999_DATA/skill_*.md
 grep -ri "灵感" $REV1999_DATA/世界观设定/
+
+# 全库校验（结构/编码/引用完整性）
+python scripts/verify_pack.py
 ```
 
 ## 数据目录

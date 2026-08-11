@@ -182,7 +182,7 @@ def _jieba_tokenize(text):
 
 
 def _simple_tokenize(text):
-    """无jieba时的降级方案：字符二元组 + 专有名词匹配"""
+    """无jieba时的降级方案：字符二元组 + 专有名词匹配（含中文停用字过滤）"""
     tokens = set()
     # 1. 匹配专有名词
     for term in SPECIAL_TERMS:
@@ -198,16 +198,20 @@ def _simple_tokenize(text):
             if len(seg) >= 1:
                 tokens.add(seg.lower())
         else:
-            # 中文：按字符拆分一元和二元
+            # 中文：按字符拆分一元和二元（过滤停用字）
             chars = list(seg)
             for c in chars:
-                if c.strip():
+                if c.strip() and c not in _STOP_CHARS:
                     tokens.add(c)
             for i in range(len(chars) - 1):
                 bigram = chars[i] + chars[i + 1]
-                if bigram.strip():
+                if bigram.strip() and not (chars[i] in _STOP_CHARS and chars[i + 1] in _STOP_CHARS):
                     tokens.add(bigram)
     return list(tokens)
+
+
+# 中文停用字（单字高频虚词，降低索引噪声）
+_STOP_CHARS = set('的了在是和我与也都而或及于之其且以为等中上下里个有无不就又被把让从对到说吗呢啊吧这那')
 
 
 # ============================================================

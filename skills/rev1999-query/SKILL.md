@@ -63,6 +63,17 @@ grep -ri "关键词" $REV1999_DATA/skill_*.md
 grep -ri "关键词" $REV1999_DATA/扩充/
 ```
 
+### 方法1c：战斗关卡搜索
+```bash
+grep -ri "关键词" $REV1999_DATA/战斗关卡/
+# 或 query.ps1/query.sh 的 stage 类型
+```
+
+> **检索优先级建议（重要）**：
+> 1. **日常查询用 grep / query.ps1 / query.sh**——快、无需构建、结果可读。
+> 2. **深度语义检索用 search_index.py**——`python scripts/search_index.py build --datadir <数据根>` 构建后 `search ...` 可用；注意全库（6000+文件）构建产物约数百MB、加载较慢（数十秒级），适合离线构建后复用，不适合每次会话重建；查询时若超时，改用 grep 兜底。
+> 3. **快速角色定位**：先查 roleplay 技能书签表（20高频角色四跳直达），再查 `扩充/00_扩充卷速查.md` 选卷。
+
 ### 方法2：按目录搜索
 ```bash
 # 角色

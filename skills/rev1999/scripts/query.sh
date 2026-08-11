@@ -59,7 +59,7 @@ if [ "$USE_PYTHON" -eq 1 ]; then
       ;;
     *)
       echo "用法: ./query.sh <关键词> [类型]"
-      echo "类型: all, character, story, system, world, event, related"
+      echo "类型: all, character, story, system, world, event, stage, related"
       echo "示例: ./query.sh 维尔汀 character"
       echo "      ./query.sh 暴雨 world"
       echo "      ./query.sh 维尔汀 related"
@@ -80,6 +80,8 @@ case "$TYPE" in
     grep -ri "$KEYWORD" "$BASE/skill_03_角色百科A.md" "$BASE/skill_04_角色百科B.md" 2>/dev/null | head -30
     echo "--- 雨前精编(权威) ---"
     grep -ri "$KEYWORD" "$BASE/雨前精编/04_角色生平精编.md" 2>/dev/null | head -30
+    echo "--- 扩充卷(权威) ---"
+    grep -ri "$KEYWORD" "$BASE/扩充/06_角色档案全量.md" "$BASE/扩充/24_造像深度全解.md" 2>/dev/null | head -20
     ;;
   story)
     echo "=== 搜索剧情 ==="
@@ -87,6 +89,8 @@ case "$TYPE" in
     grep -ri "$KEYWORD" "$BASE/skill_02_时间线与主线.md" "$BASE/skill_05_支线活动.md" 2>/dev/null | head -30
     echo "--- 雨前精编(权威) ---"
     grep -ri "$KEYWORD" "$BASE/雨前精编/02_主线剧情精编.md" "$BASE/雨前精编/03_支线剧情精编.md" 2>/dev/null | head -30
+    echo "--- 扩充卷(深度) ---"
+    grep -ri "$KEYWORD" "$BASE/扩充/01_主线剧情深度全解.md" "$BASE/扩充/02_支线剧情深度全解.md" "$BASE/扩充/11_全剧情时间线总表.md" 2>/dev/null | head -20
     ;;
   system)
     echo "=== 搜索游戏系统 ==="
@@ -100,9 +104,17 @@ case "$TYPE" in
     echo "--- 雨前精编(权威) ---"
     grep -ri "$KEYWORD" "$BASE/雨前精编/01_世界观与组织.md" 2>/dev/null | head -30
     ;;
+  stage)
+    echo "=== 搜索战斗关卡 ==="
+    grep -ri "$KEYWORD" "$BASE/战斗关卡/" 2>/dev/null | head -40
+    echo "--- 关卡深度索引(扩充28~34) ---"
+    grep -ri "$KEYWORD" "$BASE/扩充/34_战斗关卡汇总索引.md" "$BASE/扩充/28_"*.md "$BASE/扩充/29_"*.md "$BASE/扩充/30_"*.md "$BASE/扩充/31_"*.md "$BASE/扩充/32_"*.md "$BASE/扩充/33_"*.md 2>/dev/null | head -30
+    ;;
   event)
     echo "=== 搜索活动 ==="
     grep -ri "$KEYWORD" "$BASE/轩事/" "$BASE/活动/" 2>/dev/null | head -50
+    echo "--- 战斗关卡 ---"
+    grep -ri "$KEYWORD" "$BASE/战斗关卡/" 2>/dev/null | head -20
     grep -ri "$KEYWORD" "$BASE/skill_05_支线活动.md" 2>/dev/null | head -30
     ;;
   all)
@@ -116,10 +128,14 @@ case "$TYPE" in
     grep -ri "$KEYWORD" "$BASE/世界观设定/" "$BASE/小径/" 2>/dev/null | head -15
     echo "--- 雨前精编(权威) ---"
     grep -ri "$KEYWORD" "$BASE/雨前精编/" 2>/dev/null | head -25
+    echo "--- 扩充卷(深度) ---"
+    grep -ri "$KEYWORD" "$BASE/扩充/" 2>/dev/null | head -25
+    echo "--- 战斗关卡 ---"
+    grep -ri "$KEYWORD" "$BASE/战斗关卡/" 2>/dev/null | head -15
     ;;
   related)
     echo "=== 关联搜索: $KEYWORD ==="
-    for dir in 角色 角色列表 主线 支线 世界观设定 小径 雨前精编; do
+    for dir in 角色 角色列表 主线 支线 世界观设定 小径 雨前精编 扩充 战斗关卡; do
       hits=$(grep -rl "$KEYWORD" "$BASE/$dir/" 2>/dev/null | head -3)
       if [ -n "$hits" ]; then
         echo "--- $dir ---"
@@ -129,7 +145,7 @@ case "$TYPE" in
     ;;
   *)
     echo "用法: ./query.sh <关键词> [类型]"
-    echo "类型: all, character, story, system, world, event, related"
+    echo "类型: all, character, story, system, world, event, stage, related"
     echo "示例: ./query.sh 维尔汀 character"
     echo "      ./query.sh 暴雨 world"
     exit 1
