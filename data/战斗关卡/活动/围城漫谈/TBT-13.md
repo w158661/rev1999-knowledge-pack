@@ -1,0 +1,400 @@
+# TBT-13
+
+> 来源:  https://res1999.huijiwiki.com/wiki/TBT-13
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9a/Btn_zuo.png/18px-Btn_zuo.png]
+TBT-13
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9a/Btn_zuo.png/18px-Btn_zuo.png]
+
+TBT13
+
+## 《饮食录》
+
+《饮食录》
+
+The Food Directory
+
+迎风破浪与随波逐流者共进。
+那位倦怠的选手也许会成为突破点。
+
+ID: 1601113
+
+基本信息INFORMATION
+
+等级 /
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
+Lv.45
+
+回合上限 / 15
+
+战斗消耗 /
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/8/8f/CurrencyIcon-204_1.png]
+‌ 0
+
+敌我人数 / 3 : 4
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/25/Img_completed.png]
+
+BATTLE
+围城漫谈
+
+THE STORY OF A BESIEGED TOWN
+
+目标GOAL
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f4/Star_liang.png/16px-Star_liang.png]
+击败全部敌人
+
+附加条件ENVIRONMENT
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/2e/Btn_watch_nor.png/20px-Btn_watch_nor.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d2/Btn_watch_selected.png/20px-Btn_watch_selected.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/b0/Rule-213.png/14px-Rule-213.png]
+[我方]吸血造成的回复效果大幅降低
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/b5/Rule-106.png/14px-Rule-106.png]
+[敌方]回合结束时，造成伤害提升3%（效果可叠加，不可驱散）
+
+仅供参考
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/ba/Rule-104.png/14px-Rule-104.png]
+[全体]行动后，消耗5层[剖析]状态异常 受到本源创伤提高1%，不可驱散，最多叠加999层，行动后消耗5层
+
+奖励REWARD
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/14/CurrencyItem-100605.png/100px-CurrencyItem-100605.png]
+
+3500
+
+敌方ENEMY
+
+点击查看详情
+
+NO.1
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9e/MonsterHeadIcon-303001.png/50px-MonsterHeadIcon-303001.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1b/Bg_xuanzhong.png/70px-Bg_xuanzhong.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/00/MonsterHeadIcon-305801.png/50px-MonsterHeadIcon-305801.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1b/Bg_xuanzhong.png/70px-Bg_xuanzhong.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/a/ac/Spine_static-303001_lalaquan.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/3/3e/Spine_static-305801_ailike.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9e/MonsterHeadIcon-303001.png/50px-MonsterHeadIcon-303001.png]
+
+倦怠的泳者
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c3/Dmgtype2.png/20px-Dmgtype2.png]
+
+生命：
+77476
+♀
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fa/Icon_att_102.png/20px-Icon_att_102.png]
+攻击
+
+1001
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c0/Icon_att_103.png/20px-Icon_att_103.png]
+现实防御
+
+501
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1f/Icon_att_105.png/20px-Icon_att_105.png]
+暴击技巧
+
+144
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9f/Icon_att_104.png/20px-Icon_att_104.png]
+精神防御
+
+451
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/10/Icon_att_201.png/20px-Icon_att_201.png]
+暴击率
+
+5.9%1.1% + 4.8%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/Icon_att_202.png/20px-Icon_att_202.png]
+抗暴率
+
+0.0%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5e/Icon_att_203.png/20px-Icon_att_203.png]
+暴击创伤
+
+117.2%110.0% + 7.2%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6f/Icon_att_204.png/20px-Icon_att_204.png]
+暴击防御
+
+29.8%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/76/Icon_att_205.png/20px-Icon_att_205.png]
+创伤加成
+
+10.9%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/cc/Icon_att_206.png/20px-Icon_att_206.png]
+受创减免
+
+24.6%
+
+随波逐流的小小泳者。
+对泉水精灵而言，泳池是个能够享受微风与阳光、不必担心打扰的好地方。
+
+“太吵啦！”Ⅱ
+
+- 每回合开始时，在[坚定]状态增益 闪避非至终的仪式的精神创伤攻击[隐蔽]状态增益 闪避非至终的仪式的现实创伤攻击之间切换
+
+小水花
+
+- 受到攻击后，随机赋予己方全体[减益集合]被动 共有10种效果：暴击防御-30%，现实防御-20%，精神防御-20%，攻击-10%，抗暴率-20%，受创减免-20%，[封印]控制 无法使用至终的仪式，[致盲]状态异常 单体攻击时，创伤加成-30%，[失准]状态异常 群体攻击时，创伤加成-30%，[裂伤Ⅰ]状态异常 被攻击时，额外受到使用者攻击*20%的本源创伤中的1种效果，持续2回合
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bc/Bg_diandian.png/18px-Bg_diandian.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/6/67/Card_dz.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/3/30/Skill-30300131.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/92/Qm.png/80px-Qm.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+另一版本的传说
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5f/Kp_04.png/13px-Kp_04.png]
+
+单体攻击，造成400%精神创伤；命中时使其激情-2
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bc/Bg_diandian.png/18px-Bg_diandian.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/75/Card001.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/e3/Skill-30300111.png/66px-Skill-30300111.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7a/Attribute_black.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/e/e7/Attribute_2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/Xx1.png/20px-Xx1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+“春日精灵”
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/0e/Kp_01.png/12px-Kp_01.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/84/Jnk_gj2.png/12px-Jnk_gj2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/00/Kp_02.png/13px-Kp_02.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/84/Jnk_gj2.png/12px-Jnk_gj2.png]
+
+群体攻击，对2名敌方造成150%精神创伤
+群体攻击，对2名敌方造成225%精神创伤
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bc/Bg_diandian.png/18px-Bg_diandian.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/75/Card001.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/db/Skill-30300121.png/66px-Skill-30300121.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7a/Attribute_black.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/15/Attribute_6.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/Xx1.png/20px-Xx1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+春日精灵
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/0e/Kp_01.png/12px-Kp_01.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/2b/Jnk_gj6.png/12px-Jnk_gj6.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/00/Kp_02.png/13px-Kp_02.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/2b/Jnk_gj6.png/12px-Jnk_gj6.png]
+
+群体治疗，使己方全体回复使用者攻击*80%生命
+群体治疗，使己方全体回复使用者攻击*120%生命
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/00/MonsterHeadIcon-305801.png/50px-MonsterHeadIcon-305801.png]
+
+努力的泳者
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/64/Dmgtype1.png/20px-Dmgtype1.png]
+
+生命：
+75707
+♀
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fa/Icon_att_102.png/20px-Icon_att_102.png]
+攻击
+
+1078
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c0/Icon_att_103.png/20px-Icon_att_103.png]
+现实防御
+
+487
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1f/Icon_att_105.png/20px-Icon_att_105.png]
+暴击技巧
+
+164
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9f/Icon_att_104.png/20px-Icon_att_104.png]
+精神防御
+
+451
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/10/Icon_att_201.png/20px-Icon_att_201.png]
+暴击率
+
+12.0%6.5% + 5.5%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/Icon_att_202.png/20px-Icon_att_202.png]
+抗暴率
+
+0.0%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5e/Icon_att_203.png/20px-Icon_att_203.png]
+暴击创伤
+
+118.2%110.0% + 8.2%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6f/Icon_att_204.png/20px-Icon_att_204.png]
+暴击防御
+
+17.5%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/76/Icon_att_205.png/20px-Icon_att_205.png]
+创伤加成
+
+19.0%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/cc/Icon_att_206.png/20px-Icon_att_206.png]
+受创减免
+
+14.5%
+
+勤奋练习的小小泳者。
+尽管她更习惯作为船长站在船头指挥，但每个维京勇士都知道，自身受到波浪的眷顾——这是一切冒险的第一步。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c2/SpecialBuff-103.png/32px-SpecialBuff-103.png]
+
+1
+
+连续行动Ⅰ
+行动点+1
+
+维京式训练Ⅱ
+
+- 每回合开始时，在[隐蔽]状态增益 闪避非至终的仪式的现实创伤攻击[坚定]状态增益 闪避非至终的仪式的精神创伤攻击之间切换
+
+勇士的呐喊
+
+- 受到攻击后，随机赋予自身[增益集合]被动 共有14种效果：攻击+10%，创伤加成+15%，暴击率+20%，穿透率+20%，术法威力+15%，精神防御+15%，现实防御+15%，受创回复+20%，受创减免+15%，暴击防御+20%，仪式威力+15%，[痊愈Ⅰ]状态增益 回合开始时，回复10%最大生命，[反震Ⅰ]反制 被攻击时，反弹使用者攻击*30%的本源创伤（优先赋予未拥有的效果）中的1种效果，持续4回合
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bc/Bg_diandian.png/18px-Bg_diandian.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/6/67/Card_dz.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/d/d5/Skill-30580131.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/92/Qm.png/80px-Qm.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+荣耀归于维京主
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5f/Kp_04.png/13px-Kp_04.png]
+
+单体攻击，驱散目标[属性提升][状态增益][反制]赋予持续的反制状态，被攻击时触发效果，造成450%现实创伤；并使其陷入[缴械]控制 无法使用攻击类普通咒语1回合
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bc/Bg_diandian.png/18px-Bg_diandian.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/75/Card001.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Skill-30580111.png/66px-Skill-30580111.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7a/Attribute_black.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/5/5c/Attribute_1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/Xx1.png/20px-Xx1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+沉重战斧
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/0e/Kp_01.png/12px-Kp_01.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/77/Jnk_gj1.png/12px-Jnk_gj1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/00/Kp_02.png/13px-Kp_02.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/7f/Jnk_gj3.png/12px-Jnk_gj3.png]
+
+单体攻击，造成200%现实创伤
+单体攻击，造成200%现实创伤；命中时使其抗暴率、暴击防御降低25%，持续1回合
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bc/Bg_diandian.png/18px-Bg_diandian.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/75/Card001.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f1/Skill-30580121.png/66px-Skill-30580121.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7a/Attribute_black.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/5/5c/Attribute_1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/Xx1.png/20px-Xx1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+木质龙船
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/0e/Kp_01.png/12px-Kp_01.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/77/Jnk_gj1.png/12px-Jnk_gj1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/00/Kp_02.png/13px-Kp_02.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/77/Jnk_gj1.png/12px-Jnk_gj1.png]
+
+群体攻击，对2名敌方造成120%现实创伤；本次攻击穿透率提升30%
+群体攻击，对2名敌方造成180%现实创伤；本次攻击穿透率提升30%

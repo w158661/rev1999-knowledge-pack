@@ -1,0 +1,699 @@
+# Sim-15
+
+> 来源:  https://res1999.huijiwiki.com/wiki/Sim-15
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9a/Btn_zuo.png/18px-Btn_zuo.png]
+Sim-15
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9a/Btn_zuo.png/18px-Btn_zuo.png]
+
+Sim15
+
+## ?
+
+?
+
+sim
+
+ID: 991015
+
+基本信息INFORMATION
+
+等级 /
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/36/Dongxi_da_003.png/30px-Dongxi_da_003.png]
+Lv.1
+
+回合上限 / 20
+
+战斗消耗 /
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/8/8f/CurrencyIcon-204_1.png]
+‌ 0
+
+敌我人数 / 3 : 3
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/25/Img_completed.png]
+
+BATTLE
+薄霭湖畔
+
+MISTY LAKESIDE
+
+目标GOAL
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f4/Star_liang.png/16px-Star_liang.png]
+击败全部敌人
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f4/Star_liang.png/16px-Star_liang.png]
+15回合内胜利
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f4/Star_liang.png/16px-Star_liang.png]
+12回合内胜利
+
+附加条件ENVIRONMENT
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/ac/Rule-103.png/14px-Rule-103.png]
+[我方]释放至终的仪式造成克制攻击时，本次攻击造成伤害提升30%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/39/Rule-107.png/14px-Rule-107.png]
+[敌方]受到现实创伤类型的攻击时，受到伤害降低30%
+
+奖励REWARD
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c9/Bg_kong.png/200px-Bg_kong.png]
+
+敌方ENEMY
+
+点击查看详情
+
+NO.1
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/e8/MonsterHeadIcon-650102.png/50px-MonsterHeadIcon-650102.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1b/Bg_xuanzhong.png/70px-Bg_xuanzhong.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/e8/MonsterHeadIcon-650102.png/50px-MonsterHeadIcon-650102.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1b/Bg_xuanzhong.png/70px-Bg_xuanzhong.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/4c/MonsterHeadIcon-650101.png/50px-MonsterHeadIcon-650101.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1b/Bg_xuanzhong.png/70px-Bg_xuanzhong.png]
+
+NO.2
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/e8/MonsterHeadIcon-650102.png/50px-MonsterHeadIcon-650102.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1b/Bg_xuanzhong.png/70px-Bg_xuanzhong.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/4c/MonsterHeadIcon-650101.png/50px-MonsterHeadIcon-650101.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1b/Bg_xuanzhong.png/70px-Bg_xuanzhong.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/4c/MonsterHeadIcon-650101.png/50px-MonsterHeadIcon-650101.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1b/Bg_xuanzhong.png/70px-Bg_xuanzhong.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/6/6a/Spine_static-650102_xuesheng2.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/6/6a/Spine_static-650102_xuesheng2.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/6/62/Spine_static-650101_xuesheng1.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/6/62/Spine_static-650101_xuesheng1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/e8/MonsterHeadIcon-650102.png/50px-MonsterHeadIcon-650102.png]
+
+机灵的在校生
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/64/Dmgtype1.png/20px-Dmgtype1.png]
+
+Intelligent Student
+
+生命：
+10163
+♀
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fa/Icon_att_102.png/20px-Icon_att_102.png]
+攻击
+
+1300
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c0/Icon_att_103.png/20px-Icon_att_103.png]
+现实防御
+
+528
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1f/Icon_att_105.png/20px-Icon_att_105.png]
+暴击技巧
+
+162
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9f/Icon_att_104.png/20px-Icon_att_104.png]
+精神防御
+
+528
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/10/Icon_att_201.png/20px-Icon_att_201.png]
+暴击率
+
+6.8%1.4% + 5.4%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/Icon_att_202.png/20px-Icon_att_202.png]
+抗暴率
+
+0.0%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5e/Icon_att_203.png/20px-Icon_att_203.png]
+暴击创伤
+
+118.1%110.0% + 8.1%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6f/Icon_att_204.png/20px-Icon_att_204.png]
+暴击防御
+
+40.3%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/76/Icon_att_205.png/20px-Icon_att_205.png]
+创伤加成
+
+8.1%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/cc/Icon_att_206.png/20px-Icon_att_206.png]
+受创减免
+
+24.0%
+
+第一防线学校在校生。
+相比于考试，她更擅长开展小团体的恶作剧活动。
+
+共荣秩序
+
+- 退场时，使其他友方获得1层[坚固]状态增益 被攻击时，受创减免+25%（生效后减少1层）
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bc/Bg_diandian.png/18px-Bg_diandian.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/6/67/Card_dz.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/a/a8/Skill-1504.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/92/Qm.png/80px-Qm.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+在学习之外
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5f/Kp_04.png/13px-Kp_04.png]
+
+群体攻击，对敌方全体造成300%精神创伤；为生命百分比最低的己方单体回复使用者攻击*100%生命
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bc/Bg_diandian.png/18px-Bg_diandian.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/75/Card001.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/aa/Skill-1501.png/66px-Skill-1501.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7a/Attribute_black.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/e/e7/Attribute_2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/Xx1.png/20px-Xx1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+术法练习
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/0e/Kp_01.png/12px-Kp_01.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/84/Jnk_gj2.png/12px-Jnk_gj2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/00/Kp_02.png/13px-Kp_02.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/84/Jnk_gj2.png/12px-Jnk_gj2.png]
+
+单体攻击，造成200%精神创伤
+单体攻击，造成250%精神创伤；命中时使其激情-1
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bc/Bg_diandian.png/18px-Bg_diandian.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/75/Card001.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a8/Skill-1502.png/66px-Skill-1502.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7a/Attribute_black.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/e/e7/Attribute_2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/Xx1.png/20px-Xx1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+课业笔记
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/0e/Kp_01.png/12px-Kp_01.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/84/Jnk_gj2.png/12px-Jnk_gj2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/00/Kp_02.png/13px-Kp_02.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/84/Jnk_gj2.png/12px-Jnk_gj2.png]
+
+群体攻击，对2名敌方造成110%精神创伤；使生命百分比最低的己方单体回复使用者攻击*40%生命
+群体攻击，对2名敌方造成165%精神创伤；使生命百分比最低的己方单体回复使用者攻击*60%生命
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/e8/MonsterHeadIcon-650102.png/50px-MonsterHeadIcon-650102.png]
+
+守礼的在校生
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/64/Dmgtype1.png/20px-Dmgtype1.png]
+
+Polite Student
+
+生命：
+10651
+♀
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fa/Icon_att_102.png/20px-Icon_att_102.png]
+攻击
+
+1268
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c0/Icon_att_103.png/20px-Icon_att_103.png]
+现实防御
+
+528
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1f/Icon_att_105.png/20px-Icon_att_105.png]
+暴击技巧
+
+216
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9f/Icon_att_104.png/20px-Icon_att_104.png]
+精神防御
+
+528
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/10/Icon_att_201.png/20px-Icon_att_201.png]
+暴击率
+
+15.2%8.0% + 7.2%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/Icon_att_202.png/20px-Icon_att_202.png]
+抗暴率
+
+0.0%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5e/Icon_att_203.png/20px-Icon_att_203.png]
+暴击创伤
+
+120.8%110.0% + 10.8%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6f/Icon_att_204.png/20px-Icon_att_204.png]
+暴击防御
+
+6.1%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/76/Icon_att_205.png/20px-Icon_att_205.png]
+创伤加成
+
+29.3%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/cc/Icon_att_206.png/20px-Icon_att_206.png]
+受创减免
+
+12.0%
+
+第一防线学校在校生。
+她常被认为是个乖孩子，这一误解为她带来了诸多便利。
+
+共荣秩序
+
+- 退场时，使其他友方获得1层[坚固]状态增益 被攻击时，受创减免+25%（生效后减少1层）
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bc/Bg_diandian.png/18px-Bg_diandian.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/6/67/Card_dz.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/a/a8/Skill-1504.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/92/Qm.png/80px-Qm.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+在课堂之外
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5f/Kp_04.png/13px-Kp_04.png]
+
+群体攻击，对敌方全体造成240%现实创伤；本次攻击暴击率、暴击创伤提升50%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bc/Bg_diandian.png/18px-Bg_diandian.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/75/Card001.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/aa/Skill-1501.png/66px-Skill-1501.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7a/Attribute_black.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/5/5c/Attribute_1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/Xx1.png/20px-Xx1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+术法温习
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/0e/Kp_01.png/12px-Kp_01.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/77/Jnk_gj1.png/12px-Jnk_gj1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/00/Kp_02.png/13px-Kp_02.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/77/Jnk_gj1.png/12px-Jnk_gj1.png]
+
+单体攻击，造成160%现实创伤；暴击时，本次攻击穿透率提升50%
+单体攻击，造成240%现实创伤；暴击时，本次攻击穿透率提升50%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bc/Bg_diandian.png/18px-Bg_diandian.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/75/Card001.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/ab/Skill-1503.png/66px-Skill-1503.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7a/Attribute_black.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/b/b7/Attribute_4.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/Xx1.png/20px-Xx1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+学业笔记
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/0e/Kp_01.png/12px-Kp_01.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/89/Jnk_gj4.png/12px-Jnk_gj4.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/00/Kp_02.png/13px-Kp_02.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/89/Jnk_gj4.png/12px-Jnk_gj4.png]
+
+群体增强，使己方全体造成伤害提升15%，受到伤害减少15%，持续2回合
+群体增强，使己方全体造成伤害提升20%，受到伤害减少20%，持续2回合
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/4c/MonsterHeadIcon-650101.png/50px-MonsterHeadIcon-650101.png]
+
+聪明的在校生
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/64/Dmgtype1.png/20px-Dmgtype1.png]
+
+Outstanding Student
+
+生命：
+11892
+♂
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fa/Icon_att_102.png/20px-Icon_att_102.png]
+攻击
+
+1202
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c0/Icon_att_103.png/20px-Icon_att_103.png]
+现实防御
+
+570
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1f/Icon_att_105.png/20px-Icon_att_105.png]
+暴击技巧
+
+361
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9f/Icon_att_104.png/20px-Icon_att_104.png]
+精神防御
+
+570
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/10/Icon_att_201.png/20px-Icon_att_201.png]
+暴击率
+
+25.4%13.4% + 12.0%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/Icon_att_202.png/20px-Icon_att_202.png]
+抗暴率
+
+0.0%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5e/Icon_att_203.png/20px-Icon_att_203.png]
+暴击创伤
+
+128.1%110.0% + 18.1%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6f/Icon_att_204.png/20px-Icon_att_204.png]
+暴击防御
+
+6.1%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/76/Icon_att_205.png/20px-Icon_att_205.png]
+创伤加成
+
+12.5%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/cc/Icon_att_206.png/20px-Icon_att_206.png]
+受创减免
+
+8.1%
+
+第一防线学校在校生。
+良好的成绩让他自豪，平民的出身令他自卑。
+
+共荣秩序
+
+- 退场时，使其他友方获得1层[坚固]状态增益 被攻击时，受创减免+25%（生效后减少1层）
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bc/Bg_diandian.png/18px-Bg_diandian.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/6/67/Card_dz.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/a/a8/Skill-1504.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/92/Qm.png/80px-Qm.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+在学习之外
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5f/Kp_04.png/13px-Kp_04.png]
+
+群体攻击，对敌方全体造成250%现实创伤；命中时赋予其1层[麻痹]状态异常 叠加到2层时，变为眩晕或使已存在的眩晕持续时间+1
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bc/Bg_diandian.png/18px-Bg_diandian.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/75/Card001.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/aa/Skill-1501.png/66px-Skill-1501.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7a/Attribute_black.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/5/5c/Attribute_1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/Xx1.png/20px-Xx1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+术法练习
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/0e/Kp_01.png/12px-Kp_01.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/77/Jnk_gj1.png/12px-Jnk_gj1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/00/Kp_02.png/13px-Kp_02.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/7f/Jnk_gj3.png/12px-Jnk_gj3.png]
+
+单体攻击，造成200%现实创伤
+单体攻击，造成200%现实创伤；命中时使其陷入[缴械]控制 无法使用攻击类普通咒语状态1回合
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bc/Bg_diandian.png/18px-Bg_diandian.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/75/Card001.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a8/Skill-1502.png/66px-Skill-1502.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7a/Attribute_black.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/5/5c/Attribute_1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/Xx1.png/20px-Xx1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+课业笔记
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/0e/Kp_01.png/12px-Kp_01.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/77/Jnk_gj1.png/12px-Jnk_gj1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/00/Kp_02.png/13px-Kp_02.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/77/Jnk_gj1.png/12px-Jnk_gj1.png]
+
+群体攻击，对2名敌方造成120%现实创伤；本次攻击穿透率提升30%
+群体攻击，对2名敌方造成180%现实创伤；本次攻击穿透率提升30%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/4c/MonsterHeadIcon-650101.png/50px-MonsterHeadIcon-650101.png]
+
+自信的在校生
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c3/Dmgtype2.png/20px-Dmgtype2.png]
+
+Confident Student
+
+生命：
+11892
+♂
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fa/Icon_att_102.png/20px-Icon_att_102.png]
+攻击
+
+1202
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c0/Icon_att_103.png/20px-Icon_att_103.png]
+现实防御
+
+570
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1f/Icon_att_105.png/20px-Icon_att_105.png]
+暴击技巧
+
+184
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9f/Icon_att_104.png/20px-Icon_att_104.png]
+精神防御
+
+570
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/10/Icon_att_201.png/20px-Icon_att_201.png]
+暴击率
+
+7.5%1.4% + 6.1%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/Icon_att_202.png/20px-Icon_att_202.png]
+抗暴率
+
+0.0%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5e/Icon_att_203.png/20px-Icon_att_203.png]
+暴击创伤
+
+119.2%110.0% + 9.2%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6f/Icon_att_204.png/20px-Icon_att_204.png]
+暴击防御
+
+40.3%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/76/Icon_att_205.png/20px-Icon_att_205.png]
+创伤加成
+
+8.1%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/cc/Icon_att_206.png/20px-Icon_att_206.png]
+受创减免
+
+24.0%
+
+第一防线学校在校生。
+他一直认为自己是最惹人注目的那一个，只是天赋尚且不显。
+
+共荣秩序
+
+- 退场时，使其他友方获得1层[坚固]状态增益 被攻击时，受创减免+25%（生效后减少1层）
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bc/Bg_diandian.png/18px-Bg_diandian.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/6/67/Card_dz.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/a/a8/Skill-1504.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/92/Qm.png/80px-Qm.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+在课堂之外
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5f/Kp_04.png/13px-Kp_04.png]
+
+群体攻击，对敌方全体造成200%精神创伤；命中时赋予其1层[麻痹]状态异常 叠加到2层时，变为眩晕或使已存在的眩晕持续时间+1
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bc/Bg_diandian.png/18px-Bg_diandian.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/75/Card001.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/aa/Skill-1501.png/66px-Skill-1501.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7a/Attribute_black.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/e/e7/Attribute_2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/Xx1.png/20px-Xx1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+术法温习
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/0e/Kp_01.png/12px-Kp_01.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/84/Jnk_gj2.png/12px-Jnk_gj2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/00/Kp_02.png/13px-Kp_02.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/7f/Jnk_gj3.png/12px-Jnk_gj3.png]
+
+单体攻击，造成200%精神创伤
+单体攻击，造成200%精神创伤；命中时使其陷入[缄默]控制 无法使用增益、减益、治疗、反制类普通咒语状态1回合
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bc/Bg_diandian.png/18px-Bg_diandian.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/75/Card001.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/ab/Skill-1503.png/66px-Skill-1503.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7a/Attribute_black.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/b/b7/Attribute_4.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/Xx1.png/20px-Xx1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+学业笔记
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/0e/Kp_01.png/12px-Kp_01.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/89/Jnk_gj4.png/12px-Jnk_gj4.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/00/Kp_02.png/13px-Kp_02.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/89/Jnk_gj4.png/12px-Jnk_gj4.png]
+
+群体增强，使己方全体现实防御、精神防御提升15%，持续2回合
+群体增强，使己方全体现实防御、精神防御提升25%，持续2回合

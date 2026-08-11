@@ -1,0 +1,405 @@
+# TBT-06
+
+> 来源:  https://res1999.huijiwiki.com/wiki/TBT-06
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9a/Btn_zuo.png/18px-Btn_zuo.png]
+TBT-06
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9a/Btn_zuo.png/18px-Btn_zuo.png]
+
+TBT06
+
+## 《东方术杖考》
+
+《东方术杖考》
+
+A Study of Eastern Wands
+
+捉鬼讲求控制。
+敌方被控制时受到的创伤提高。
+
+ID: 1601106
+
+基本信息INFORMATION
+
+等级 /
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
+Lv.35
+
+回合上限 / 15
+
+战斗消耗 /
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/8/8f/CurrencyIcon-204_1.png]
+‌ 0
+
+敌我人数 / 4 : 4
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/25/Img_completed.png]
+
+BATTLE
+围城漫谈
+
+THE STORY OF A BESIEGED TOWN
+
+目标GOAL
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f4/Star_liang.png/16px-Star_liang.png]
+击败全部敌人
+
+附加条件ENVIRONMENT
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/2e/Btn_watch_nor.png/20px-Btn_watch_nor.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d2/Btn_watch_selected.png/20px-Btn_watch_selected.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/b0/Rule-213.png/14px-Rule-213.png]
+[我方]吸血造成的回复效果大幅降低
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/b5/Rule-106.png/14px-Rule-106.png]
+[敌方]回合结束时，造成伤害提升1%（效果可叠加，不可驱散）
+
+仅供参考
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/ba/Rule-104.png/14px-Rule-104.png]
+[全体]行动后，消耗5层[剖析]状态异常 受到本源创伤提高1%，不可驱散，最多叠加999层，行动后消耗5层
+
+奖励REWARD
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/14/CurrencyItem-100605.png/100px-CurrencyItem-100605.png]
+
+3000
+
+敌方ENEMY
+
+点击查看详情
+
+NO.1
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/90/MonsterHeadIcon-670302.png/50px-MonsterHeadIcon-670302.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1b/Bg_xuanzhong.png/70px-Bg_xuanzhong.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/68/MonsterHeadIcon-410701.png/50px-MonsterHeadIcon-410701.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1b/Bg_xuanzhong.png/70px-Bg_xuanzhong.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/68/MonsterHeadIcon-410701.png/50px-MonsterHeadIcon-410701.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1b/Bg_xuanzhong.png/70px-Bg_xuanzhong.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/68/MonsterHeadIcon-410701.png/50px-MonsterHeadIcon-410701.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1b/Bg_xuanzhong.png/70px-Bg_xuanzhong.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/5/5b/Spine_static-670302_guixinniang.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7f/Spine_static-410701_youlingmojing.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/90/MonsterHeadIcon-670302.png/50px-MonsterHeadIcon-670302.png]
+
+鬼新娘
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c3/Dmgtype2.png/20px-Dmgtype2.png]
+
+Bride of May
+
+生命：
+44488
+♀
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fa/Icon_att_102.png/20px-Icon_att_102.png]
+攻击
+
+1139
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c0/Icon_att_103.png/20px-Icon_att_103.png]
+现实防御
+
+502
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1f/Icon_att_105.png/20px-Icon_att_105.png]
+暴击技巧
+
+192
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9f/Icon_att_104.png/20px-Icon_att_104.png]
+精神防御
+
+465
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/10/Icon_att_201.png/20px-Icon_att_201.png]
+暴击率
+
+12.2%5.8% + 6.4%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/Icon_att_202.png/20px-Icon_att_202.png]
+抗暴率
+
+0.0%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5e/Icon_att_203.png/20px-Icon_att_203.png]
+暴击创伤
+
+119.6%110.0% + 9.6%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6f/Icon_att_204.png/20px-Icon_att_204.png]
+暴击防御
+
+15.5%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/76/Icon_att_205.png/20px-Icon_att_205.png]
+创伤加成
+
+17.1%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/cc/Icon_att_206.png/20px-Icon_att_206.png]
+受创减免
+
+13.0%
+
+游荡于森林的鬼魂。
+一枚银指环，一束捧花，一个誓言。啊，一汪摇曳的棺椁。
+
+新婚誓词
+
+- 场上有友方存活时，自身受到伤害降低50%
+
+怨恨枷锁
+
+- 当自身未处于[控制]眩晕，石化，噩梦，冰冻，缴械，缄默，封印等限制角色行动的效果时，受到伤害降低20%；当自身处于[控制]眩晕，石化，噩梦，冰冻，缴械，缄默，封印等限制角色行动的效果时，受到伤害提升100%
+
+迟来的婚礼
+
+- 回合结束时，若未处于[控制]眩晕，石化，噩梦，冰冻，缴械，缄默，封印等限制角色行动的效果，则自身获得1点激情
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bc/Bg_diandian.png/18px-Bg_diandian.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/6/67/Card_dz.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/e/e4/Skill-2104.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/92/Qm.png/80px-Qm.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+永无休止的婚礼
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5f/Kp_04.png/13px-Kp_04.png]
+
+群体攻击，对敌方全体造成300%精神创伤；命中时使目标的所有[状态异常]延长1回合
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bc/Bg_diandian.png/18px-Bg_diandian.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/75/Card001.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/ec/Skill-2102.png/66px-Skill-2102.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7a/Attribute_black.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/e/e7/Attribute_2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/Xx1.png/20px-Xx1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+嚎哭
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/0e/Kp_01.png/12px-Kp_01.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/84/Jnk_gj2.png/12px-Jnk_gj2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/00/Kp_02.png/13px-Kp_02.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/84/Jnk_gj2.png/12px-Jnk_gj2.png]
+
+群体攻击，对2名敌方造成120%精神创伤；若目标处于[状态异常]，则额外造成50%精神创伤
+群体攻击，对2名敌方造成150%精神创伤；若目标处于[状态异常]，则额外造成50%精神创伤
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bc/Bg_diandian.png/18px-Bg_diandian.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/75/Card001.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/ec/Skill-2102.png/66px-Skill-2102.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7a/Attribute_black.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/26/Attribute_3.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/Xx1.png/20px-Xx1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+赠礼
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/0e/Kp_01.png/12px-Kp_01.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/7f/Jnk_gj3.png/12px-Jnk_gj3.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/00/Kp_02.png/13px-Kp_02.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/7f/Jnk_gj3.png/12px-Jnk_gj3.png]
+
+群体攻击，对2名敌方造成120%精神创伤；攻击后赋予目标1层[忧惧]状态异常 受到的精神创伤提升25%（生效后减少1层）
+群体攻击，对2名敌方造成150%精神创伤；攻击后赋予目标1层[忧惧]状态异常 受到的精神创伤提升25%（生效后减少1层）
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/68/MonsterHeadIcon-410701.png/50px-MonsterHeadIcon-410701.png]
+
+幽灵树精
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/64/Dmgtype1.png/20px-Dmgtype1.png]
+
+Aegeirus
+
+生命：
+18762
+?
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fa/Icon_att_102.png/20px-Icon_att_102.png]
+攻击
+
+968
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c0/Icon_att_103.png/20px-Icon_att_103.png]
+现实防御
+
+395
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1f/Icon_att_105.png/20px-Icon_att_105.png]
+暴击技巧
+
+177
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9f/Icon_att_104.png/20px-Icon_att_104.png]
+精神防御
+
+395
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/10/Icon_att_201.png/20px-Icon_att_201.png]
+暴击率
+
+11.7%5.8% + 5.9%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/Icon_att_202.png/20px-Icon_att_202.png]
+抗暴率
+
+0.0%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5e/Icon_att_203.png/20px-Icon_att_203.png]
+暴击创伤
+
+118.9%110.0% + 8.9%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6f/Icon_att_204.png/20px-Icon_att_204.png]
+暴击防御
+
+15.5%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/76/Icon_att_205.png/20px-Icon_att_205.png]
+创伤加成
+
+17.1%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/cc/Icon_att_206.png/20px-Icon_att_206.png]
+受创减免
+
+13.0%
+
+生活于树木根部位置的树精。
+它们生来便与树木相连，并与树木一起死去。
+
+怨恨枷锁
+
+- 当自身未处于[控制]眩晕，石化，噩梦，冰冻，缴械，缄默，封印等限制角色行动的效果时，受到伤害降低20%；当自身处于[控制]眩晕，石化，噩梦，冰冻，缴械，缄默，封印等限制角色行动的效果时，受到伤害提升100%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bc/Bg_diandian.png/18px-Bg_diandian.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/6/67/Card_dz.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/Skill-1204.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/92/Qm.png/80px-Qm.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+幽暗的怨恨
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5f/Kp_04.png/13px-Kp_04.png]
+
+群体攻击，对敌方全体造成250%现实创伤；命中时使其现实防御、精神防御降低25%，持续2回合
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bc/Bg_diandian.png/18px-Bg_diandian.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/75/Card001.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/ba/Skill-1201.png/66px-Skill-1201.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7a/Attribute_black.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/5/5c/Attribute_1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/Xx1.png/20px-Xx1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+诅咒灵
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/0e/Kp_01.png/12px-Kp_01.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/77/Jnk_gj1.png/12px-Jnk_gj1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/00/Kp_02.png/13px-Kp_02.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/7f/Jnk_gj3.png/12px-Jnk_gj3.png]
+
+单体攻击，造成200%现实创伤
+单体攻击，造成200%现实创伤；命中时使其陷入[缴械]控制 无法使用攻击类普通咒语状态1回合
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bc/Bg_diandian.png/18px-Bg_diandian.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/75/Card001.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d2/Skill-1202.png/66px-Skill-1202.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7a/Attribute_black.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/5/5c/Attribute_1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/Xx1.png/20px-Xx1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+穿魂烟
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/0e/Kp_01.png/12px-Kp_01.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/77/Jnk_gj1.png/12px-Jnk_gj1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/00/Kp_02.png/13px-Kp_02.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/77/Jnk_gj1.png/12px-Jnk_gj1.png]
+
+群体攻击，对2名敌方造成150%现实创伤
+群体攻击，对2名敌方造成150%现实创伤；使自身激情+1

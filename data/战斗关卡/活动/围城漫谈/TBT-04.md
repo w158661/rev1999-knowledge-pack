@@ -1,0 +1,261 @@
+# TBT-04
+
+> 来源:  https://res1999.huijiwiki.com/wiki/TBT-04
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9a/Btn_zuo.png/18px-Btn_zuo.png]
+TBT-04
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9a/Btn_zuo.png/18px-Btn_zuo.png]
+
+TBT04
+
+## 《东方术杖考》
+
+《东方术杖考》
+
+A Study of Eastern Wands
+
+此处的敌人数量众多，带来腐败。
+
+ID: 1601104
+
+基本信息INFORMATION
+
+等级 /
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
+Lv.25
+
+回合上限 / 15
+
+战斗消耗 /
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/8/8f/CurrencyIcon-204_1.png]
+‌ 0
+
+敌我人数 / 3 : 4
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/25/Img_completed.png]
+
+BATTLE
+围城漫谈
+
+THE STORY OF A BESIEGED TOWN
+
+目标GOAL
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f4/Star_liang.png/16px-Star_liang.png]
+击败全部敌人
+
+附加条件ENVIRONMENT
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/2e/Btn_watch_nor.png/20px-Btn_watch_nor.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d2/Btn_watch_selected.png/20px-Btn_watch_selected.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/b0/Rule-213.png/14px-Rule-213.png]
+[我方]吸血造成的回复效果大幅降低
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/b5/Rule-106.png/14px-Rule-106.png]
+[敌方]回合结束时，造成伤害提升1%（效果可叠加，不可驱散）
+
+仅供参考
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/ba/Rule-104.png/14px-Rule-104.png]
+[全体]行动后，消耗5层[剖析]状态异常 受到本源创伤提高1%，不可驱散，最多叠加999层，行动后消耗5层
+
+奖励REWARD
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/14/CurrencyItem-100605.png/100px-CurrencyItem-100605.png]
+
+2800
+
+敌方ENEMY
+
+点击查看详情
+
+NO.1
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/MonsterHeadIcon-670201.png/50px-MonsterHeadIcon-670201.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1b/Bg_xuanzhong.png/70px-Bg_xuanzhong.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/MonsterHeadIcon-670201.png/50px-MonsterHeadIcon-670201.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1b/Bg_xuanzhong.png/70px-Bg_xuanzhong.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/MonsterHeadIcon-670201.png/50px-MonsterHeadIcon-670201.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1b/Bg_xuanzhong.png/70px-Bg_xuanzhong.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/MonsterHeadIcon-670201.png/50px-MonsterHeadIcon-670201.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1b/Bg_xuanzhong.png/70px-Bg_xuanzhong.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/MonsterHeadIcon-670201.png/50px-MonsterHeadIcon-670201.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1b/Bg_xuanzhong.png/70px-Bg_xuanzhong.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/MonsterHeadIcon-670201.png/50px-MonsterHeadIcon-670201.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1b/Bg_xuanzhong.png/70px-Bg_xuanzhong.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/d/d7/Spine_static-670201_jiangshixinlang.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/MonsterHeadIcon-670201.png/50px-MonsterHeadIcon-670201.png]
+
+活死人
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/64/Dmgtype1.png/20px-Dmgtype1.png]
+
+The Undead
+
+生命：
+17386
+♂
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fa/Icon_att_102.png/20px-Icon_att_102.png]
+攻击
+
+892
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c0/Icon_att_103.png/20px-Icon_att_103.png]
+现实防御
+
+393
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1f/Icon_att_105.png/20px-Icon_att_105.png]
+暴击技巧
+
+141
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9f/Icon_att_104.png/20px-Icon_att_104.png]
+精神防御
+
+364
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/10/Icon_att_201.png/20px-Icon_att_201.png]
+暴击率
+
+9.8%5.1% + 4.7%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/Icon_att_202.png/20px-Icon_att_202.png]
+抗暴率
+
+0.0%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5e/Icon_att_203.png/20px-Icon_att_203.png]
+暴击创伤
+
+117.1%110.0% + 7.1%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6f/Icon_att_204.png/20px-Icon_att_204.png]
+暴击防御
+
+13.6%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/76/Icon_att_205.png/20px-Icon_att_205.png]
+创伤加成
+
+15.2%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/cc/Icon_att_206.png/20px-Icon_att_206.png]
+受创减免
+
+11.4%
+
+墓园的主人。
+一枚新纽扣，一份家事，一个谎言。啊，一场愉快的恶报。
+
+污毒
+
+- 攻击后，赋予目标1层[污染]状态异常 行动后受到使用者攻击*20%的本源创伤（可以叠加），持续1回合；退场时，净化敌方全体的[污染]状态异常 行动后受到使用者攻击*20%的本源创伤（可以叠加）状态
+
+污染蔓延
+
+- 造成的[污染]状态异常 行动后受到使用者攻击*20%的本源创伤（可以叠加）状态持续回合+1
+
+亡者的意志
+
+- 友方退场时，自身回复已损失生命的20%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bc/Bg_diandian.png/18px-Bg_diandian.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/6/67/Card_dz.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/e/e4/Skill-2104.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/92/Qm.png/80px-Qm.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+亲密接触
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5f/Kp_04.png/13px-Kp_04.png]
+
+单体攻击，造成500%现实创伤；命中时赋予其2层[污染]状态异常 行动后受到使用者攻击*20%的本源创伤（可以叠加），持续1回合
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bc/Bg_diandian.png/18px-Bg_diandian.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/75/Card001.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/ec/Skill-2102.png/66px-Skill-2102.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7a/Attribute_black.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/5/5c/Attribute_1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/Xx1.png/20px-Xx1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+血溅
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/0e/Kp_01.png/12px-Kp_01.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/77/Jnk_gj1.png/12px-Jnk_gj1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/00/Kp_02.png/13px-Kp_02.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/77/Jnk_gj1.png/12px-Jnk_gj1.png]
+
+群体攻击，对2名敌方造成120%现实创伤；若目标处于[状态异常]，则额外造成50%现实创伤
+群体攻击，对2名敌方造成150%现实创伤；若目标处于[状态异常]，则额外造成50%现实创伤
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bc/Bg_diandian.png/18px-Bg_diandian.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/75/Card001.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/ec/Skill-2102.png/66px-Skill-2102.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7a/Attribute_black.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/5/5c/Attribute_1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/Xx1.png/20px-Xx1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+邀约
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/0e/Kp_01.png/12px-Kp_01.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/77/Jnk_gj1.png/12px-Jnk_gj1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/00/Kp_02.png/13px-Kp_02.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/77/Jnk_gj1.png/12px-Jnk_gj1.png]
+
+群体攻击，对2名敌方造成120%现实创伤；若自身血量低于50%，则额外造成50%现实创伤
+群体攻击，对2名敌方造成150%现实创伤；若自身血量低于50%，则额外造成50%现实创伤

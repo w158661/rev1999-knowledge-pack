@@ -1,0 +1,580 @@
+# TBT-19
+
+> 来源:  https://res1999.huijiwiki.com/wiki/TBT-19
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9a/Btn_zuo.png/18px-Btn_zuo.png]
+TBT-19
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9a/Btn_zuo.png/18px-Btn_zuo.png]
+
+TBT19
+
+## 《魔精地理志》
+
+《魔精地理志》
+
+The Geographical Chronicle of Critters
+
+你的对手……他们正为数字着迷——你可以利用那些规则。
+
+ID: 1601119
+
+基本信息INFORMATION
+
+等级 /
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
+Lv.50
+
+回合上限 / 15
+
+战斗消耗 /
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/8/8f/CurrencyIcon-204_1.png]
+‌ 0
+
+敌我人数 / 4 : 4
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/25/Img_completed.png]
+
+BATTLE
+围城漫谈
+
+THE STORY OF A BESIEGED TOWN
+
+目标GOAL
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f4/Star_liang.png/16px-Star_liang.png]
+击败全部敌人
+
+附加条件ENVIRONMENT
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/2e/Btn_watch_nor.png/20px-Btn_watch_nor.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d2/Btn_watch_selected.png/20px-Btn_watch_selected.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/b0/Rule-213.png/14px-Rule-213.png]
+[我方]吸血造成的回复效果大幅降低
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/b5/Rule-106.png/14px-Rule-106.png]
+[敌方]回合结束时，造成伤害提升2%（效果可叠加，不可驱散）
+
+仅供参考
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/ba/Rule-104.png/14px-Rule-104.png]
+[全体]行动后，消耗5层[剖析]状态异常 受到本源创伤提高1%，不可驱散，最多叠加999层，行动后消耗5层
+
+奖励REWARD
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/14/CurrencyItem-100605.png/100px-CurrencyItem-100605.png]
+
+3600
+
+敌方ENEMY
+
+点击查看详情
+
+NO.1
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f8/MonsterHeadIcon-306602.png/50px-MonsterHeadIcon-306602.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1b/Bg_xuanzhong.png/70px-Bg_xuanzhong.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/2c/MonsterHeadIcon-307902.png/50px-MonsterHeadIcon-307902.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1b/Bg_xuanzhong.png/70px-Bg_xuanzhong.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/ca/MonsterHeadIcon-690113.png/50px-MonsterHeadIcon-690113.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1b/Bg_xuanzhong.png/70px-Bg_xuanzhong.png]
+
+P.S.
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/10/MonsterHeadIcon-690116.png/50px-MonsterHeadIcon-690116.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1b/Bg_xuanzhong.png/70px-Bg_xuanzhong.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/a/af/Spine_static-306602_37.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/f/fd/Spine_static-690116_lupaiguai.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/2b/Spine_static-307902_6.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/70/Spine_static-690113_lupaiguai.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f8/MonsterHeadIcon-306602.png/50px-MonsterHeadIcon-306602.png]
+
+求索之数
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c3/Dmgtype2.png/20px-Dmgtype2.png]
+
+生命：
+94921
+♀
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fa/Icon_att_102.png/20px-Icon_att_102.png]
+攻击
+
+1209
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c0/Icon_att_103.png/20px-Icon_att_103.png]
+现实防御
+
+520
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1f/Icon_att_105.png/20px-Icon_att_105.png]
+暴击技巧
+
+386
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9f/Icon_att_104.png/20px-Icon_att_104.png]
+精神防御
+
+520
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/10/Icon_att_201.png/20px-Icon_att_201.png]
+暴击率
+
+52.9%40.0% + 12.9%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/Icon_att_202.png/20px-Icon_att_202.png]
+抗暴率
+
+0.0%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5e/Icon_att_203.png/20px-Icon_att_203.png]
+暴击创伤
+
+166.2%146.9% + 19.3%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6f/Icon_att_204.png/20px-Icon_att_204.png]
+暴击防御
+
+10.5%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/76/Icon_att_205.png/20px-Icon_att_205.png]
+创伤加成
+
+8.3%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/cc/Icon_att_206.png/20px-Icon_att_206.png]
+受创减免
+
+6.4%
+
+一个数字，属于纯粹的求索者。
+她的目光只望向永恒之中，再无其他。
+
+本源的运算
+
+- 自身使用咒语后，使自身灵光+1；
+其他友方额外行动后，使自身灵光+1；
+灵光到达5时，消耗5点灵光释放[补充算式]群体攻击，对敌方全体造成120%精神创伤，额外附加自身攻击*40%的本源创伤，本次攻击视为1次追击，不会获得灵光
+
+本源的运算Ⅱ
+
+- 进入战斗时，暴击创伤提升15%
+
+本源的运算Ⅲ
+
+- 进入战斗时，暴击率提升20%；自身所有咒语附加的本源创伤可以暴击
+
+召唤
+
+- 奇数回合结束时，召唤上行之道
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bc/Bg_diandian.png/18px-Bg_diandian.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/6/67/Card_dz.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/95/Skill-30660131.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/92/Qm.png/80px-Qm.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+数与几何的王国
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5f/Kp_04.png/13px-Kp_04.png]
+
+群体增强，赋予己方全体2层[数维的感知]状态增益 攻击提升10%（攻击后减少1层）；自身获得2层[启迪]状态增益 咒语附加的本源伤害提高100%（生效后减少1层）；使自身灵光+2
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bc/Bg_diandian.png/18px-Bg_diandian.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/75/Card001.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/30/Skill-30660111.png/66px-Skill-30660111.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7a/Attribute_black.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/e/e7/Attribute_2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/Xx1.png/20px-Xx1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+三角正论
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/0e/Kp_01.png/12px-Kp_01.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/84/Jnk_gj2.png/12px-Jnk_gj2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/00/Kp_02.png/13px-Kp_02.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/84/Jnk_gj2.png/12px-Jnk_gj2.png]
+
+单体攻击，造成140%精神创伤；额外附加自身攻击*40%的本源创伤
+单体攻击，造成210%精神创伤；额外附加自身攻击*60%的本源创伤
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bc/Bg_diandian.png/18px-Bg_diandian.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/75/Card001.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c2/Skill-30660121.png/66px-Skill-30660121.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7a/Attribute_black.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/e/e7/Attribute_2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/Xx1.png/20px-Xx1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+曲线映射
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/0e/Kp_01.png/12px-Kp_01.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/84/Jnk_gj2.png/12px-Jnk_gj2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/00/Kp_02.png/13px-Kp_02.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/84/Jnk_gj2.png/12px-Jnk_gj2.png]
+
+群体攻击，对2名敌方造成70%精神创伤；额外附加自身攻击*40%的本源创伤；并额外赋予自身1层[坚固]状态增益 被攻击时，受创减免+25%（生效后减少1层）
+群体攻击，对2名敌方造成105%精神创伤；额外附加自身攻击*60%的本源创伤；并额外赋予自身1层[坚固]状态增益 被攻击时，受创减免+25%（生效后减少1层）
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/ca/MonsterHeadIcon-690113.png/50px-MonsterHeadIcon-690113.png]
+
+下行之道
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/64/Dmgtype1.png/20px-Dmgtype1.png]
+
+Sign (Back)
+
+生命：
+5
+?
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fa/Icon_att_102.png/20px-Icon_att_102.png]
+攻击
+
+1100
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c0/Icon_att_103.png/20px-Icon_att_103.png]
+现实防御
+
+0
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1f/Icon_att_105.png/20px-Icon_att_105.png]
+暴击技巧
+
+0
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9f/Icon_att_104.png/20px-Icon_att_104.png]
+精神防御
+
+0
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/10/Icon_att_201.png/20px-Icon_att_201.png]
+暴击率
+
+0.0%0.0% + 0.0%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/Icon_att_202.png/20px-Icon_att_202.png]
+抗暴率
+
+0.0%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5e/Icon_att_203.png/20px-Icon_att_203.png]
+暴击创伤
+
+0.0%0.0% + 0.0%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6f/Icon_att_204.png/20px-Icon_att_204.png]
+暴击防御
+
+0.0%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/76/Icon_att_205.png/20px-Icon_att_205.png]
+创伤加成
+
+0.0%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/cc/Icon_att_206.png/20px-Icon_att_206.png]
+受创减免
+
+0.0%
+
+一枚路标，指向下方。
+道路有无数条，该向哪里去——我们可以把它视作一个哲学问题。
+
+细微的豁口
+
+- 不会受到任何状态影响，不会受到治疗，且受到的所有伤害固定为1
+
+寻路
+
+- 不会受到任何状态影响，受到的所有伤害固定为1
+
+下行
+
+- 己方行动后，全场角色灵光-1
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/60/No_skills.png/200px-No_skills.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/2c/MonsterHeadIcon-307902.png/50px-MonsterHeadIcon-307902.png]
+
+维持之数
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c3/Dmgtype2.png/20px-Dmgtype2.png]
+
+生命：
+119029
+♂
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fa/Icon_att_102.png/20px-Icon_att_102.png]
+攻击
+
+1183
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c0/Icon_att_103.png/20px-Icon_att_103.png]
+现实防御
+
+520
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1f/Icon_att_105.png/20px-Icon_att_105.png]
+暴击技巧
+
+168
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9f/Icon_att_104.png/20px-Icon_att_104.png]
+精神防御
+
+577
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/10/Icon_att_201.png/20px-Icon_att_201.png]
+暴击率
+
+35.6%30.0% + 5.6%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/Icon_att_202.png/20px-Icon_att_202.png]
+抗暴率
+
+0.0%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5e/Icon_att_203.png/20px-Icon_att_203.png]
+暴击创伤
+
+128.4%120.0% + 8.4%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6f/Icon_att_204.png/20px-Icon_att_204.png]
+暴击防御
+
+31.6%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/76/Icon_att_205.png/20px-Icon_att_205.png]
+创伤加成
+
+11.5%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/cc/Icon_att_206.png/20px-Icon_att_206.png]
+受创减免
+
+26.0%
+
+一个数字，属于领衔的维持者。
+他的数字早已注定，但他能做的比等待更多。
+
+知识的崇奉
+
+- 灵光上限+1；回合结束时，任意1名己方成员处于4种及以上[属性提升][状态增益][反制]赋予持续的反制状态，被攻击时触发效果时，使自身灵光+1；攻击处于[属性削弱][状态异常][控制]眩晕，石化，噩梦，冰冻，缴械，缄默，封印等限制角色行动的效果的目标时，造成伤害提升16%
+
+知识的崇奉Ⅱ
+
+- 进入战斗时，造成伤害提升8%
+
+知识的崇奉Ⅲ
+
+- 释放至终的仪式前，随机赋予敌方全体[减益集合]被动 共有6种效果：暴击防御-30%，现实防御-20%，精神防御-20%，[致盲]状态异常 单体攻击时，创伤加成-30%，[失准]状态异常 群体攻击时，创伤加成-30%，[裂伤Ⅰ]状态异常 被攻击时，额外受到使用者攻击*20%的本源创伤（优先赋予未拥有的效果）中的2种效果，持续2回合；每回合开始时，随机赋予己方全体[增益集合]被动 共有6种效果：穿透率+20%，术法威力+15%，精神防御+15%，现实防御+15%，[痊愈Ⅰ]状态增益 回合开始时，回复10%最大生命，[反震Ⅰ]反制 被攻击时，反弹使用者攻击*30%的本源创伤（优先赋予未拥有的效果）中的1种效果，持续2回合
+
+召唤
+
+- 偶数回合结束时，召唤下行之道
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bc/Bg_diandian.png/18px-Bg_diandian.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/6/67/Card_dz.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/b/b4/Skill-30790131.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/92/Qm.png/80px-Qm.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Nltbg2.png/14px-Nltbg2.png]
+
+亘古亘今的启示
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5f/Kp_04.png/13px-Kp_04.png]
+
+单体攻击，造成700%精神创伤；灵光6点及以上时，消耗6点灵光，若目标每处于1种[属性削弱][状态异常][控制]眩晕，石化，噩梦，冰冻，缴械，缄默，封印等限制角色行动的效果，对其额外提升75%精神创伤，最多额外提升4次
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bc/Bg_diandian.png/18px-Bg_diandian.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/75/Card001.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1a/Skill-30790111.png/66px-Skill-30790111.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7a/Attribute_black.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/26/Attribute_3.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/Xx1.png/20px-Xx1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+律与戒
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/0e/Kp_01.png/12px-Kp_01.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/7f/Jnk_gj3.png/12px-Jnk_gj3.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/00/Kp_02.png/13px-Kp_02.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/7f/Jnk_gj3.png/12px-Jnk_gj3.png]
+
+群体攻击，对2名敌方造成120%精神创伤；攻击后随机赋予目标[减益集合]被动 共有6种效果：暴击防御-30%，现实防御-20%，精神防御-20%，[致盲]状态异常 单体攻击时，创伤加成-30%，[失准]状态异常 群体攻击时，创伤加成-30%，[裂伤Ⅰ]状态异常 被攻击时，额外受到使用者攻击*20%的本源创伤（优先赋予未拥有的效果）中的2种效果，持续2回合；灵光4点及以下时，使自身灵光+1
+群体攻击，对2名敌方造成175%精神创伤；攻击后随机赋予目标[减益集合]被动 共有6种效果：暴击防御-30%，现实防御-20%，精神防御-20%，[致盲]状态异常 单体攻击时，创伤加成-30%，[失准]状态异常 群体攻击时，创伤加成-30%，[裂伤Ⅰ]状态异常 被攻击时，额外受到使用者攻击*20%的本源创伤（优先赋予未拥有的效果）中的2种效果，持续2回合；灵光4点及以下时，使自身灵光+2
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bc/Bg_diandian.png/18px-Bg_diandian.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/75/Card001.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/20/Skill-30790121.png/66px-Skill-30790121.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7a/Attribute_black.png]
+
+[图: https://huiji-public.huijistatic.com/res1999/uploads/b/b7/Attribute_4.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/Xx1.png/20px-Xx1.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/Xx2.png/20px-Xx2.png]
+
+职与责
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/0e/Kp_01.png/12px-Kp_01.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/89/Jnk_gj4.png/12px-Jnk_gj4.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/00/Kp_02.png/13px-Kp_02.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/89/Jnk_gj4.png/12px-Jnk_gj4.png]
+
+单体增强，驱散目标随机2种[属性削弱][状态异常][控制]眩晕，石化，噩梦，冰冻，缴械，缄默，封印等限制角色行动的效果；并随机赋予目标[增益集合]被动 共有6种效果：穿透率+20%，术法威力+15%，精神防御+15%，现实防御+15%，[痊愈Ⅰ]状态增益 回合开始时，回复10%最大生命，[反震Ⅰ]反制 被攻击时，反弹使用者攻击*30%的本源创伤（优先赋予未拥有的效果）中的2种效果，持续2回合；灵光5点及以上时，消耗5点灵光，使目标进入[咒语强化Ⅰ]状态增益 回合开始时，随机1张咒语阶次+1状态2回合
+单体增强，驱散目标随机4种[属性削弱][状态异常][控制]眩晕，石化，噩梦，冰冻，缴械，缄默，封印等限制角色行动的效果；并随机赋予目标[增益集合]被动 共有6种效果：穿透率+20%，术法威力+15%，精神防御+15%，现实防御+15%，[痊愈Ⅰ]状态增益 回合开始时，回复10%最大生命，[反震Ⅰ]反制 被攻击时，反弹使用者攻击*30%的本源创伤（优先赋予未拥有的效果）中的2种效果，持续2回合；灵光5点及以上时，消耗5点灵光，使目标进入[咒语强化Ⅰ]状态增益 回合开始时，随机1张咒语阶次+1状态2回合
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/10/MonsterHeadIcon-690116.png/50px-MonsterHeadIcon-690116.png]
+
+上行之道
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/64/Dmgtype1.png/20px-Dmgtype1.png]
+
+Sign (Straight)
+
+生命：
+5
+?
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fa/Icon_att_102.png/20px-Icon_att_102.png]
+攻击
+
+1100
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c0/Icon_att_103.png/20px-Icon_att_103.png]
+现实防御
+
+0
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1f/Icon_att_105.png/20px-Icon_att_105.png]
+暴击技巧
+
+0
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9f/Icon_att_104.png/20px-Icon_att_104.png]
+精神防御
+
+0
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/10/Icon_att_201.png/20px-Icon_att_201.png]
+暴击率
+
+0.0%0.0% + 0.0%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/Icon_att_202.png/20px-Icon_att_202.png]
+抗暴率
+
+0.0%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5e/Icon_att_203.png/20px-Icon_att_203.png]
+暴击创伤
+
+0.0%0.0% + 0.0%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6f/Icon_att_204.png/20px-Icon_att_204.png]
+暴击防御
+
+0.0%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/76/Icon_att_205.png/20px-Icon_att_205.png]
+创伤加成
+
+0.0%
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/cc/Icon_att_206.png/20px-Icon_att_206.png]
+受创减免
+
+0.0%
+
+一枚路标，指向上方。
+道路有无数条，该向哪里去——我们可以把它视作一个哲学问题。
+
+细微的豁口
+
+- 不会受到任何状态影响，不会受到治疗，且受到的所有伤害固定为1
+
+寻路
+
+- 不会受到任何状态影响，受到的所有伤害固定为1
+
+上行
+
+- 己方行动后，全场角色灵光+1
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/60/No_skills.png/200px-No_skills.png]

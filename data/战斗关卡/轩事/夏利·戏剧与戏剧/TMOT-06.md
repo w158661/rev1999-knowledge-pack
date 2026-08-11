@@ -1,0 +1,322 @@
+# TMOT-06
+
+> 来源:  https://res1999.huijiwiki.com/wiki/TMOT-06
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9a/Btn_zuo.png/18px-Btn_zuo.png]
+TMOT-06
+
+TMOT06
+
+## 戏剧性
+
+戏剧性
+
+The Beauty of Theatrics
+
+头像
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/2e/Btn_watch_nor.png/20px-Btn_watch_nor.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d2/Btn_watch_selected.png/20px-Btn_watch_selected.png]
+
+背景图
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/2e/Btn_watch_nor.png/20px-Btn_watch_nor.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d2/Btn_watch_selected.png/20px-Btn_watch_selected.png]
+
+这是一场戏剧的结束，也是一场戏剧的开始。
+
+ID: 190206
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/4e/Cg-zhongshijijiedao_ye.png/600px-Cg-zhongshijijiedao_ye.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8b/HeadIconSmall-301701.png/23px-HeadIconSmall-301701.png]
+
+夏利：
+
+……
+
+骑兵们灰溜溜地离开了城镇。
+
+伴随着城门的落下，钟楼的钟声再度响起。
+
+只是，这次的钟声变得缓慢而悠长。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8b/HeadIconSmall-301701.png/23px-HeadIconSmall-301701.png]
+
+夏利：
+
+走……
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8b/HeadIconSmall-301701.png/23px-HeadIconSmall-301701.png]
+
+夏利：
+
+走了……？
+
+仿佛被抽走了身上所有的力气一般，夏利倒退了两步。
+
+她大口地喘息着，仿佛一条脱了水的鱼。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8b/HeadIconSmall-301701.png/23px-HeadIconSmall-301701.png]
+
+夏利：
+
+他们……真的走了？！
+
+伴随着她的动作，她身旁的人群与街道两旁正在燃烧着的房屋也开始摇曳。
+
+最后，景象变为了破碎的泡沫，露出了“街道”的真实容貌。
+
+——象征着节日的火堆依旧在广场上熊熊燃烧，火光将周围变为了白昼。
+
+但消失的人群仅仅只是一小部分，更多的人，依旧站在她的身后。
+
+——是的，这并非幻影，而是真实之物。
+
+沉寂了片刻，人群之中爆发出了巨大的欢呼声。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/53/HeadIconSmall-561101.png/23px-HeadIconSmall-561101.png]
+
+老人：
+
+我，我们做到了！我不敢相信，我们居然真的赶走了他们！
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/34/HeadIconSmall-561201.png/23px-HeadIconSmall-561201.png]
+
+商贩：
+
+万岁！
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5b/HeadIconSmall-301201.png/23px-HeadIconSmall-301201.png]
+
+弄臣：
+
+完美的演出！夏利团长，完美的演出！
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5b/HeadIconSmall-301201.png/23px-HeadIconSmall-301201.png]
+
+弄臣：
+
+啊——这等杰出的表演，真是让人心潮澎湃！
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8b/HeadIconSmall-301701.png/23px-HeadIconSmall-301701.png]
+
+夏利：
+
+不，不要再提了！
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8b/HeadIconSmall-301701.png/23px-HeadIconSmall-301701.png]
+
+夏利：
+
+呜呜……我、我快吓死了，一想到刚刚的事情，我就止不住颤抖。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9f/HeadIconSmall-560901.png/23px-HeadIconSmall-560901.png]
+
+杰弗里：
+
+您、您真的办到了，您真的吓退了护国公的骑兵们！
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8b/HeadIconSmall-301701.png/23px-HeadIconSmall-301701.png]
+
+夏利：
+
+不……我，我什么也没有做！我甚至还有可能会连累到大家！
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8b/HeadIconSmall-301701.png/23px-HeadIconSmall-301701.png]
+
+夏利：
+
+要不是大家……恐怕我拙劣的把戏早就被拆穿了……
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/53/HeadIconSmall-561101.png/23px-HeadIconSmall-561101.png]
+
+老人：
+
+无需自谦，是你给予了我们反抗的勇气，我们是在你的号召下，才走到了一起的。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9f/HeadIconSmall-560901.png/23px-HeadIconSmall-560901.png]
+
+杰弗里：
+
+这是完完全全的胜利，夏利团长。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9f/HeadIconSmall-560901.png/23px-HeadIconSmall-560901.png]
+
+杰弗里：
+
+你让他们狠狠地吃了一个哑巴亏，替市民们好好教训了他们一顿。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8b/HeadIconSmall-301701.png/23px-HeadIconSmall-301701.png]
+
+夏利：
+
+真，真的吗……？
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5b/HeadIconSmall-301201.png/23px-HeadIconSmall-301201.png]
+
+弄臣：
+
+杰弗里先生说得没错。这些士兵回去之后，必然会隐瞒今天所发生的事情。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5b/HeadIconSmall-301201.png/23px-HeadIconSmall-301201.png]
+
+弄臣：
+
+暴君的走狗们依赖欺瞒的手段汲取着权力，他们唯恐人们发现自身虚弱的本质。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9f/HeadIconSmall-560901.png/23px-HeadIconSmall-560901.png]
+
+杰弗里：
+
+支撑着他们行动的动力是利益，他们不会去宣扬这件事情，这样做只会吃力不讨好。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8b/HeadIconSmall-301701.png/23px-HeadIconSmall-301701.png]
+
+夏利：
+
+太、太好了，我们做到了！
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5b/HeadIconSmall-301201.png/23px-HeadIconSmall-301201.png]
+
+弄臣：
+
+不过，夏利团长，我还是要提醒您一件事情。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5b/HeadIconSmall-301201.png/23px-HeadIconSmall-301201.png]
+
+弄臣：
+
+虽然我能够理解您的心情，但请您不要忘记了一件更为重要的事情。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8b/HeadIconSmall-301701.png/23px-HeadIconSmall-301701.png]
+
+夏利：
+
+更为重要的事……
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8b/HeadIconSmall-301701.png/23px-HeadIconSmall-301701.png]
+
+夏利：
+
+——啊！
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5b/HeadIconSmall-301201.png/23px-HeadIconSmall-301201.png]
+
+弄臣：
+
+刚刚的演出不过是开幕的热场。接下来，才是真正的、最为重要的演出。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5b/HeadIconSmall-301201.png/23px-HeadIconSmall-301201.png]
+
+弄臣：
+
+希冀着欢愉的人们已经接踵而来，请登上舞台，回应人们的请求吧。
+
+伴随着钟声，观众们自各个方向聚集到了广场之上。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5b/HeadIconSmall-301201.png/23px-HeadIconSmall-301201.png]
+
+弄臣：
+
+他们的脸上带着期待，期待着一场与节日相匹配的演出。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/63/Cg-at_xialishangtai.png/600px-Cg-at_xialishangtai.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8b/HeadIconSmall-301701.png/23px-HeadIconSmall-301701.png]
+
+夏利：
+
+……是，是的！弄臣先生，您说得对！现在开始，才是最重要的表演！
+
+她深吸了一口气，脸上的神色重新变得严肃了起来。
+
+这是她迈向舞台时的神情，一如既往。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c8/HeadIconSmall-301702.png/23px-HeadIconSmall-301702.png]
+
+夏利：
+
+让我们开始吧，弄臣。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c8/HeadIconSmall-301702.png/23px-HeadIconSmall-301702.png]
+
+夏利：
+
+让我们回应与观众的诺言，告诉所有人，属于我们的戏剧不会在这里终结。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c8/HeadIconSmall-301702.png/23px-HeadIconSmall-301702.png]
+
+夏利：
+
+因为，这些戏剧所带来的片刻欢愉，足以留下更为长久的余韵。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c8/HeadIconSmall-301702.png/23px-HeadIconSmall-301702.png]
+
+夏利：
+
+它足以战胜苦难，足以战胜胆怯，足以战胜米诺斯的贪欲。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c8/HeadIconSmall-301702.png/23px-HeadIconSmall-301702.png]
+
+夏利：
+
+是的，即便是幻影，人们所经历的一切，也绝非是毫无意义的泡沫。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/03/Cg-dubaiyongheiping.png/600px-Cg-dubaiyongheiping.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5b/HeadIconSmall-301201.png/23px-HeadIconSmall-301201.png]
+
+弄臣：
+
+故事到这里就结束了，不知道您对这个故事是否满意呢，维尔汀小姐？
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5b/HeadIconSmall-301201.png/23px-HeadIconSmall-301201.png]
+
+弄臣：
+
+您看，这就是戏剧的真谛所在。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5b/HeadIconSmall-301201.png/23px-HeadIconSmall-301201.png]
+
+弄臣：
+
+无论它真实与否，人们总能在其中得到一点东西。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5b/HeadIconSmall-301201.png/23px-HeadIconSmall-301201.png]
+
+弄臣：
+
+对了，您对剧团所演出的剧目是否感到好奇？
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5b/HeadIconSmall-301201.png/23px-HeadIconSmall-301201.png]
+
+弄臣：
+
+要我说，对于圣诞节而言，它作为剧目未免有点太早了，距离它真正登场的时机还有十多天。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5b/HeadIconSmall-301201.png/23px-HeadIconSmall-301201.png]
+
+弄臣：
+
+但对于这样一个故事来说，以喜剧作为结尾恐怕是再合适不过了。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5b/HeadIconSmall-301201.png/23px-HeadIconSmall-301201.png]
+
+弄臣：
+
+我很好奇……您是怎么看待它的？
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5b/HeadIconSmall-301201.png/23px-HeadIconSmall-301201.png]
+
+弄臣：
+
+噢，不必回答我，我想您早已心里有数了。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5b/HeadIconSmall-301201.png/23px-HeadIconSmall-301201.png]
+
+弄臣：
+
+——但无论如何，我都希望您能够喜欢这个故事。

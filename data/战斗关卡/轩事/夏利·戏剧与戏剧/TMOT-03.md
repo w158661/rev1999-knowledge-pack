@@ -1,0 +1,279 @@
+# TMOT-03
+
+> 来源:  https://res1999.huijiwiki.com/wiki/TMOT-03
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9a/Btn_zuo.png/18px-Btn_zuo.png]
+TMOT-03
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9a/Btn_zuo.png/18px-Btn_zuo.png]
+
+TMOT03
+
+## 发丝与铅粉
+
+发丝与铅粉
+
+The Golden Hair And The Cerussa
+
+头像
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/2e/Btn_watch_nor.png/20px-Btn_watch_nor.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d2/Btn_watch_selected.png/20px-Btn_watch_selected.png]
+
+背景图
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/2e/Btn_watch_nor.png/20px-Btn_watch_nor.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d2/Btn_watch_selected.png/20px-Btn_watch_selected.png]
+
+一束发丝，一捧铅粉以及一袋利齿子儿。
+
+ID: 190203
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/4e/Cg-zhongshijijiedao_ye.png/600px-Cg-zhongshijijiedao_ye.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9f/HeadIconSmall-560901.png/23px-HeadIconSmall-560901.png]
+
+杰弗里：
+
+这不可能！节庆应该是保密的才对……
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/3f/HeadIconSmall-560701.png/23px-HeadIconSmall-560701.png]
+
+士兵：
+
+情况属实！根据回报，骑兵们的目的地就是这里！
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9f/HeadIconSmall-560901.png/23px-HeadIconSmall-560901.png]
+
+杰弗里：
+
+难不成……是有人向护国公泄露了秘密？
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5b/HeadIconSmall-301201.png/23px-HeadIconSmall-301201.png]
+
+弄臣：
+
+啊，可悲又可恨的珂麦托【Comaetho】，夺走了我们的发丝，这叫我们如何是好。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8b/HeadIconSmall-301701.png/23px-HeadIconSmall-301701.png]
+
+夏利：
+
+怎，怎么办！
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8b/HeadIconSmall-301701.png/23px-HeadIconSmall-301701.png]
+
+夏利：
+
+那可是护国公的骑兵……呜呜！
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8b/HeadIconSmall-301701.png/23px-HeadIconSmall-301701.png]
+
+夏利：
+
+逃走……弄臣先生，我们必须赶快逃走！
+
+杰弗里深吸了一口气，重新恢复了平静。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9f/HeadIconSmall-560901.png/23px-HeadIconSmall-560901.png]
+
+杰弗里：
+
+赶快去通知市长先生，让他想办法去拖住骑兵们。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9f/HeadIconSmall-560901.png/23px-HeadIconSmall-560901.png]
+
+杰弗里：
+
+同时，按照先前的计划，提前结束节庆活动，让演出者们沿着准备好的密道逃走。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/3f/HeadIconSmall-560701.png/23px-HeadIconSmall-560701.png]
+
+士兵：
+
+遵命！
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9f/HeadIconSmall-560901.png/23px-HeadIconSmall-560901.png]
+
+杰弗里：
+
+……
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9f/HeadIconSmall-560901.png/23px-HeadIconSmall-560901.png]
+
+杰弗里：
+
+正如您听到的，夏利团长还请赶快离开吧。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9f/HeadIconSmall-560901.png/23px-HeadIconSmall-560901.png]
+
+杰弗里：
+
+我对此感到非常抱歉，出现这种情况，是我们都不愿意看见的。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9f/HeadIconSmall-560901.png/23px-HeadIconSmall-560901.png]
+
+杰弗里：
+
+要是被骑兵发现你们的行踪，可就麻烦了。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8b/HeadIconSmall-301701.png/23px-HeadIconSmall-301701.png]
+
+夏利：
+
+我，我明白了。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8b/HeadIconSmall-301701.png/23px-HeadIconSmall-301701.png]
+
+夏利：
+
+弄臣先生，我们必须立刻通知大家离开这里！
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8b/HeadIconSmall-301701.png/23px-HeadIconSmall-301701.png]
+
+夏利：
+
+否则要不了多久，我们就会被追上的！
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5b/HeadIconSmall-301201.png/23px-HeadIconSmall-301201.png]
+
+弄臣：
+
+夏利团长，您所言极是。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5b/HeadIconSmall-301201.png/23px-HeadIconSmall-301201.png]
+
+弄臣：
+
+追兵们会以最快的速度追上我们，绞死我们，将我们的尸骸高悬于旗杆之上。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5b/HeadIconSmall-301201.png/23px-HeadIconSmall-301201.png]
+
+弄臣：
+
+“届时，鸦群将会分食我们的皮肉，像是一场最为神圣的仪式。”
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5b/HeadIconSmall-301201.png/23px-HeadIconSmall-301201.png]
+
+弄臣：
+
+何等不堪的结尾，可真教人害怕——还是尽早逃跑为妙。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/b6/Cg-linzhongxiuqichu_ye.png/600px-Cg-linzhongxiuqichu_ye.png]
+
+距离演出预定开始的时间所剩无几，两人返回剧团时，众人正在进行最终的准备。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/e2/HeadIconSmall-561301.png/23px-HeadIconSmall-561301.png]
+
+剧团成员Ⅰ：
+
+团长？弄臣？你们怎么回来了？
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8b/HeadIconSmall-301701.png/23px-HeadIconSmall-301701.png]
+
+夏利：
+
+各位……
+
+剧团成员们对即将发生的事情一无所知，仍旧沉浸在欢乐的氛围之中。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a8/HeadIconSmall-561401.png/23px-HeadIconSmall-561401.png]
+
+剧团成员Ⅱ：
+
+你们回来得正好，大家已经准备好演出所需要的东西了。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/e2/HeadIconSmall-561301.png/23px-HeadIconSmall-561301.png]
+
+剧团成员Ⅰ：
+
+就差你们了，哈哈哈！
+
+演出服被珍重地从箱中取出，连同着化妆品一起被传递到每个人的手中。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5b/HeadIconSmall-301201.png/23px-HeadIconSmall-301201.png]
+
+弄臣：
+
+哎呀哎呀，真是一派喜庆的景象。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5b/HeadIconSmall-301201.png/23px-HeadIconSmall-301201.png]
+
+弄臣：
+
+这也难怪，任何演员都应当为即将登上的舞台而激动欢呼。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5b/HeadIconSmall-301201.png/23px-HeadIconSmall-301201.png]
+
+弄臣：
+
+只可惜，他们还未曾意识到，命运是一只泥泞的手掌，将会给予人们以失落的滋味。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8b/HeadIconSmall-301701.png/23px-HeadIconSmall-301701.png]
+
+夏利：
+
+……
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8b/HeadIconSmall-301701.png/23px-HeadIconSmall-301701.png]
+
+夏利：
+
+各位，请听我说……
+
+低弱的声音在被众人注意到之前，就已经被淹没在了热切的讨论之中。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/e2/HeadIconSmall-561301.png/23px-HeadIconSmall-561301.png]
+
+剧团成员Ⅰ：
+
+要我说，这次的剧目保准会让所有观众大吃一惊！
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a8/HeadIconSmall-561401.png/23px-HeadIconSmall-561401.png]
+
+剧团成员Ⅱ：
+
+——虽然这次舞台的条件有点简陋得过了头。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/e2/HeadIconSmall-561301.png/23px-HeadIconSmall-561301.png]
+
+剧团成员Ⅰ：
+
+嘿，你可真挑剔。现在这个年头，有机会给你表演就不错了，别挑挑拣拣的。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8b/HeadIconSmall-301701.png/23px-HeadIconSmall-301701.png]
+
+夏利：
+
+……
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a8/HeadIconSmall-561401.png/23px-HeadIconSmall-561401.png]
+
+剧团成员Ⅱ：
+
+我可没挑剔！我昨晚一直没睡好，就是期待着今天的表演呢。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/e2/HeadIconSmall-561301.png/23px-HeadIconSmall-561301.png]
+
+剧团成员Ⅰ：
+
+看出来了，铅粉都没遮住你的黑眼圈——再多抹点，别让观众看出来了。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8b/HeadIconSmall-301701.png/23px-HeadIconSmall-301701.png]
+
+众人：
+
+哈哈哈哈哈！
+
+化妆时扬起的铅粉在烛光下熠熠生辉，将夏利想要说出来的话又重新推回了嘴里。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5b/HeadIconSmall-301201.png/23px-HeadIconSmall-301201.png]
+
+弄臣：
+
+您在犹豫什么，夏利团长？
+
+面具上露出了一个诡异的微笑。
+
+它带着嘲弄，带着讽刺——这是不应该属于“弄臣”的情绪。

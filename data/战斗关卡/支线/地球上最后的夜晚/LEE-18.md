@@ -1,0 +1,367 @@
+# LEE-18
+
+> 来源:  https://res1999.huijiwiki.com/wiki/LEE-18
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9a/Btn_zuo.png/18px-Btn_zuo.png]
+LEE-18
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9a/Btn_zuo.png/18px-Btn_zuo.png]
+
+LEE18
+
+## 二十七岁俱乐部
+
+二十七岁俱乐部
+
+The 27 Club
+
+头像
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/2e/Btn_watch_nor.png/20px-Btn_watch_nor.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d2/Btn_watch_selected.png/20px-Btn_watch_selected.png]
+
+背景图
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/2e/Btn_watch_nor.png/20px-Btn_watch_nor.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d2/Btn_watch_selected.png/20px-Btn_watch_selected.png]
+
+摇滚不死。
+
+ID: 2410118
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1f/Cg-jiankongshi.png/600px-Cg-jiankongshi.png]
+
+拥挤的监控室里，一人一玻璃缸面面相觑。
+
+乌尔里希：
+
+你说什么？
+
+未曾预料过的宣言令玻璃缸里的磁流体也停止了旋转。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/HeadIconSmall-302510.png/23px-HeadIconSmall-302510.png]
+
+星锑：
+
+我说，我拒绝承担“人工暴雨”实验的善后工作。
+
+乌尔里希：
+
+……
+
+乌尔里希：
+
+星锑研究员，你只是还没有意识到这项实验的意义！
+
+乌尔里希：
+
+我们搞清楚了“暴雨”的基础结构，甚至还模拟出“人工暴雨”，尽管还有不少完善空间，但这可是实打实地把理论研究推进到了应用层面！
+
+乌尔里希：
+
+而现在，我们终于能够把它运用在“暴雨”本身的研究上。
+
+乌尔里希：
+
+稳定性材料绝不是一场空谈，“星锑”天文望远镜的实证就赤裸裸地摆在每一个人的面前！
+
+乌尔里希：
+
+好好想一想，星锑。
+
+乌尔里希：
+
+我们已经站在后“暴雨”时代的分界线上了！
+
+顽固分子低垂着脑袋，似乎对组长的训示置若罔闻。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/HeadIconSmall-302510.png/23px-HeadIconSmall-302510.png]
+
+星锑：
+
+乌尔里希组长……
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/HeadIconSmall-302510.png/23px-HeadIconSmall-302510.png]
+
+星锑：
+
+你从一开始就打算独自实验吗？
+
+乌尔里希：
+
+……
+
+乌尔里希：
+
+难道你在担心实验经费的事吗？
+
+乌尔里希：
+
+别担心，你同样在项目人员名单中，在实验中造成的一切材料或是个人财产的损耗，拉普拉斯都会为你全额报销！
+
+乌尔里希：
+
+不论成功与否，对“人工暴雨”实验的协助都能够让你得到一个更高的评级，它当然也会让你得到一笔梦寐以求的报酬。
+
+乌尔里希还想再说些什么，却突然对上一副更加认真的脸。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/HeadIconSmall-302510.png/23px-HeadIconSmall-302510.png]
+
+星锑：
+
+打住，打住！
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/HeadIconSmall-302510.png/23px-HeadIconSmall-302510.png]
+
+星锑：
+
+乌尔里希组长，你是不是搞错了什么？
+
+乌尔里希：
+
+啊……？
+
+两个茫然的脑袋怔怔对望。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/HeadIconSmall-302510.png/23px-HeadIconSmall-302510.png]
+
+星锑：
+
+我和你一样，同样是科算中心的一员，同样隶属于“暴雨”专项研究小组。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/HeadIconSmall-302510.png/23px-HeadIconSmall-302510.png]
+
+星锑：
+
+同样是“暴雨”的亲历者。
+
+乌尔里希从未见过如此郑重的星锑。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/HeadIconSmall-302510.png/23px-HeadIconSmall-302510.png]
+
+星锑：
+
+我也应该真正地参与“人工暴雨”的实验，不是为你处理后事——
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/HeadIconSmall-302510.png/23px-HeadIconSmall-302510.png]
+
+星锑：
+
+而是作为一位实验者。
+
+乌尔里希：
+
+……你总能给我惊喜，星锑研究员。
+
+磁流体无奈地拍了拍脑袋。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/HeadIconSmall-302510.png/23px-HeadIconSmall-302510.png]
+
+星锑：
+
+我的形象有这么糟糕吗？
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/HeadIconSmall-302510.png/23px-HeadIconSmall-302510.png]
+
+星锑：
+
+既然我提前预支了工资，我就一定会履行研究员的职责！
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/HeadIconSmall-302510.png/23px-HeadIconSmall-302510.png]
+
+星锑：
+
+更何况——
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/HeadIconSmall-302510.png/23px-HeadIconSmall-302510.png]
+
+星锑：
+
+热心肠的摇滚海盗绝对不会将任何一个同伴独自扔在危险之中。
+
+结实的手按在星锑的肩上。
+
+乌尔里希：
+
+我敬佩你的勇气。
+
+乌尔里希：
+
+但在“人工暴雨”的实验上，你应该相信你的组长能搞定这一切！
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/HeadIconSmall-302510.png/23px-HeadIconSmall-302510.png]
+
+星锑：
+
+……
+
+乌尔里希：
+
+这是命令，星锑。
+
+玻璃缸的意志显然比顽石更加坚决。
+
+它推开门，示意星锑离开这间临时实验室。
+
+乌尔里希：
+
+你负责通过舷窗观测我的实验状态，并记录相关实验数据。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/HeadIconSmall-302510.png/23px-HeadIconSmall-302510.png]
+
+星锑：
+
+好吧。
+
+临别的目光扫过实验箱里的一份份材料。
+
+铂金通灵板、幼龙舌管、火蛾脂粉、许多张一模一样的复制唱片……
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/52/HeadIconSmall-302501.png/23px-HeadIconSmall-302501.png]
+
+星锑：
+
+乌尔里希组长，你听摇滚吗？
+
+乌尔里希：
+
+你在说什么乱七八糟的？现在可不是分享音乐的时候！
+
+乌尔里希：
+
+我希望这是你最后一个莫名其妙的问题了——
+
+乌尔里希：
+
+比起摇滚乐，棕色噪音更能让我的磁流体得到充分的舒展与锻炼。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/52/HeadIconSmall-302501.png/23px-HeadIconSmall-302501.png]
+
+星锑：
+
+这正是我不能把它交给你的原因。
+
+乌尔里希：
+
+什……么？
+
+逻辑跳跃的话语差点儿令组长宕机。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/HeadIconSmall-302510.png/23px-HeadIconSmall-302510.png]
+
+星锑：
+
+如果我对眼前的翻印行为置之不理……
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/HeadIconSmall-302510.png/23px-HeadIconSmall-302510.png]
+
+星锑：
+
+如果我容许了盗版唱片对于音乐的亵渎……
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/HeadIconSmall-302510.png/23px-HeadIconSmall-302510.png]
+
+星锑：
+
+倘若我放弃了眼下如此具有摇滚精神的冒险……
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/HeadIconSmall-302510.png/23px-HeadIconSmall-302510.png]
+
+星锑：
+
+——我将永远失去加入27岁俱乐部的机会！
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/51/HeadIconSmall-515601.png/23px-HeadIconSmall-515601.png]
+
+乌尔里希：
+
+摇滚……俱乐部……？
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/HeadIconSmall-302510.png/23px-HeadIconSmall-302510.png]
+
+星锑：
+
+最适合摇滚巨星离世的年龄便是27岁，其次就是现在！
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/e1/Cg-2_4_at_baoyushiyan.png/600px-Cg-2_4_at_baoyushiyan.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/HeadIconSmall-302510.png/23px-HeadIconSmall-302510.png]
+
+星锑：
+
+这是我的唱片，我必须为它负责。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/HeadIconSmall-302510.png/23px-HeadIconSmall-302510.png]
+
+星锑：
+
+也许我们会倒下。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/HeadIconSmall-302510.png/23px-HeadIconSmall-302510.png]
+
+星锑：
+
+会变成谁也认不出的古怪模样。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/HeadIconSmall-302510.png/23px-HeadIconSmall-302510.png]
+
+星锑：
+
+但……
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/12/HeadIconSmall-302510.png/23px-HeadIconSmall-302510.png]
+
+星锑：
+
+摇滚永远不死！
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/63/HeadIconSmall-515611.png/23px-HeadIconSmall-515611.png]
+
+乌尔里希：
+
+……
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/51/HeadIconSmall-515601.png/23px-HeadIconSmall-515601.png]
+
+乌尔里希：
+
+…………
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/50/HeadIconSmall-515610.png/23px-HeadIconSmall-515610.png]
+
+乌尔里希：
+
+！
+
+乌尔里希：
+
+这正是人类所独有的辉光。
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/1f/Cg-jiankongshi.png/600px-Cg-jiankongshi.png]
+
+乌尔里希：
+
+向你的实验精神与摇滚精神致敬！
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/51/HeadIconSmall-515601.png/23px-HeadIconSmall-515601.png]
+
+乌尔里希：
+
+我宣布——
+
+乌尔里希：
+
+实验项目：“人工暴雨”下的稳定性材料试验
+
+乌尔里希：
+
+实验场地：“自由海风号”广播室临时实验室
+
+乌尔里希：
+
+实验人员：乌尔里希，星锑
+
+乌尔里希：
+
+实验开始。
