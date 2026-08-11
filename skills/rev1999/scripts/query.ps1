@@ -30,7 +30,7 @@ Write-Host "数据根: $dataRoot"
 $targets = $null
 $skillOnly = $false
 switch ($type) {
-    'character' { $targets = @('角色列表','角色','轩事','造像','主线','雨前精编') }
+    'character' { $targets = @('角色列表','角色','轩事','造像','主线','雨前精编','其他') }
     'world'     { $targets = @('世界观设定','小径','官方资料') }
     'story'     { $targets = @('主线','支线','活动','剧情时间线','第三扇门','局外演绎','雨前精编') }
     'stage'     { $targets = @('战斗关卡') }
