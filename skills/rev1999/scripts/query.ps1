@@ -87,8 +87,20 @@ switch ($Type) {
     }
     "related" {
         Write-Host "=== 关联搜索: $Keyword ===" -ForegroundColor Yellow
-        foreach ($dir in @("角色", "角色列表", "主线", "支线", "世界观设定", "小径", "雨前精编", "扩充")) {
-            Search-In @((Join-Path $Base $dir)) "$dir" 3
+        foreach ($dir in @("角色", "角色列表", "主线", "支线", "世界观设定", "小径", "雨前精编", "扩充", "战斗关卡")) {
+            $hits = @()
+            $pat = Join-Path $Base ($dir + '\*.md')
+            if (Test-Path $pat) {
+                $hits += Select-String -Path $pat -Pattern $Keyword -Encoding UTF8 | Select-Object -First 3
+            }
+            $nested = Join-Path $Base ($dir + '\*\*.md')
+            if (Test-Path $nested) {
+                $hits += Select-String -Path $nested -Pattern $Keyword -Encoding UTF8 | Select-Object -First 3
+            }
+            if ($hits.Count -gt 0) {
+                Write-Host "--- $dir ---" -ForegroundColor Cyan
+                $hits | Select-Object -ExpandProperty Path -Unique | ForEach-Object { Write-Host (Split-Path $_ -Leaf) }
+            }
         }
     }
     default {
