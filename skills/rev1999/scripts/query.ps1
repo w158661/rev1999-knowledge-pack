@@ -76,7 +76,7 @@ elseif ($targets) {
     $files += Get-ChildItem $dataRoot -File | Where-Object { $_.Extension -in '.md', '.txt' }
     Get-ChildItem $dataRoot -Directory | ForEach-Object { $files += Get-ChildItem $_.FullName -Recurse -File -Include *.md,*.txt -ErrorAction SilentlyContinue }
 }
-$files = $files | Where-Object { $_.Name -notlike 'all_pages.md' }
+$files = $files | Where-Object { $_.Name -notlike 'all_pages.md' -and $_.Name -notlike '*其他活动.md' }
 
 $hit = 0
 foreach ($f in $files) {
@@ -84,6 +84,7 @@ foreach ($f in $files) {
         $c = [System.IO.File]::ReadAllText($f.FullName, [System.Text.Encoding]::UTF8)
         if ($c.Contains($keyword)) {
             $hit++
+            if ($hit -gt 20) { Write-Host "...(共超过20条命中，仅显示前20条)"; break }
             $rel = $f.FullName.Substring($dataRoot.Length + 1)
             Write-Host "[$rel]"
             $lines = $c -split "`n"
@@ -92,13 +93,13 @@ foreach ($f in $files) {
                     $s = [Math]::Max(0, $i - 1); $e = [Math]::Min($lines.Count - 1, $i + 1)
                     for ($j = $s; $j -le $e; $j++) {
                         $t = $lines[$j].Trim()
+                        if ($t.Length -gt 200) { $t = $t.Substring(0, 200) + "...(截断)" }
                         if ($t) { Write-Host "  $t" }
                     }
                     break
                 }
             }
-            if ($hit -ge 20) { Write-Host "...(已达20条上限)"; break }
         }
     } catch {}
 }
-Write-Host "命中文件数: $hit"
+Write-Host "命中文件数: $hit (超出20条请换更精确关键词或加类型过滤)"

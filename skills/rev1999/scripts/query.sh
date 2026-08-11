@@ -64,14 +64,16 @@ case "$TYPE" in
 esac
 
 if [ "$TYPE" = "skill" ]; then
-  find "$DATA_ROOT" -maxdepth 1 -type f \( -name "skill_*.md" -o -name "analysis_*.txt" \) -exec grep -Hn -- "$KEYWORD" {} + | grep -v "all_pages" | head -n 40
+  find "$DATA_ROOT" -maxdepth 1 -type f \( -name "skill_*.md" -o -name "analysis_*.txt" \) -exec grep -Hn -- "$KEYWORD" {} + | grep -v "all_pages" | grep -v "其他活动" | head -n 20
 elif [ ${#SEARCH[@]} -gt 0 ]; then
   ARGS=()
   for d in "${SEARCH[@]}"; do
     [ -d "$DATA_ROOT/$d" ] && ARGS+=("$DATA_ROOT/$d")
   done
   if [ ${#ARGS[@]} -eq 0 ]; then echo "命中文件数: 0"; exit 0; fi
-  grep -rn --include="*.md" --include="*.txt" --exclude="all_pages.md" "$KEYWORD" "${ARGS[@]}" | head -n 40
+  grep -rn --include="*.md" --include="*.txt" --exclude="all_pages.md" --exclude="*其他活动.md" "$KEYWORD" "${ARGS[@]}" | head -n 20
+  echo "（超出20条请换更精确关键词或加类型过滤）"
 else
-  grep -rn --include="*.md" --include="*.txt" --exclude="all_pages.md" "$KEYWORD" "$DATA_ROOT" | head -n 40
+  grep -rn --include="*.md" --include="*.txt" --exclude="all_pages.md" --exclude="*其他活动.md" "$KEYWORD" "$DATA_ROOT" | head -n 20
+  echo "（超出20条请换更精确关键词或加类型过滤）"
 fi
