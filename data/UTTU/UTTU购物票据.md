@@ -2,10 +2,10 @@
 
 > 来源:  https://res1999.huijiwiki.com/wiki/UTTU%E8%B4%AD%E7%89%A9%E7%A5%A8%E6%8D%AE
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/0/08/CurrencyItem-214.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/0/08/CurrencyItem-214.png]
 
 UTTU购物票据
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/91/CurrencyIcon-214_1.png/24px-CurrencyIcon-214_1.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/91/CurrencyIcon-214_1.png/24px-CurrencyIcon-214_1.png]
 
 编号ID：2#1112
 

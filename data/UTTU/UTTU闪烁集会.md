@@ -25,16 +25,16 @@ UTTU闪烁集会中，大多数关卡可携带“名人卡”，且可在特定�
 UTTU闪烁集会中有如下几类可参与关卡（往期可能不全都有）：
 
 - UTTU超级市场：集会的中心，可以在其中阅读“闪烁总刊”，即参与挑战，完成可解锁相关文本及剧情，并获得大量
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 UTTU购物票据由《UTTU》杂志提供的票据，可于[市场货架]处进行兑换。
 仅限[UTTU闪烁集会-昨日金杯]活动举办期间使用。。
 
 - UTTU零售：可以在其中阅读“闪烁侧刊”，即花费
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f9/CurrencyItem-100102.png/100px-CurrencyItem-100102.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f9/CurrencyItem-100102.png/100px-CurrencyItem-100102.png]
 可阅次数此为“闪烁侧刊”扉页上的一句友善的提醒。可用于挑战UTTU零售。
 仅限[UTTU闪烁集会]举办期间使用。
 活动期间每日5：00（UTC+8）自动获得5次（活动期间每天5:00自动获得5次，最多储存10次。），并选择挑战篇章（系列卡组）进行战斗，可随机获得系列中的几张名人卡。完成“精读条例”可额外掉落。
@@ -67,19 +67,19 @@ Trophy of the Past Glory
 闪烁集会
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/ac/Item_heroskin-302803.png/100px-Item_heroskin-302803.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/ac/Item_heroskin-302803.png/100px-Item_heroskin-302803.png]
 胡士托的回声绅士的躁动，富含维生素C的靡靡之音。
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/da/Item-170101.png/100px-Item-170101.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/da/Item-170101.png/100px-Item-170101.png]
 怪盗蒙太奇一段过往的掠影，一些时代的片段，一份珍贵的纪念。谨以此物，为见证诸多故事的朋友们献上诚挚的敬意。
 可于个人信息界面作为头像使用。
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d7/Banner_%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF.png/400px-Banner_%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d7/Banner_%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF.png/400px-Banner_%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF.png]
 
 |
 
@@ -90,19 +90,19 @@ A Night Visit to the Lake
 闪烁集会
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/2f/Item_heroskin-300603.png/100px-Item_heroskin-300603.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/2f/Item_heroskin-300603.png/100px-Item_heroskin-300603.png]
 第六感只工作，不玩闹，聪明雀儿也……
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/4f/Item-170201.png/100px-Item-170201.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/4f/Item-170201.png/100px-Item-170201.png]
 绿湖妖谭一段过往的掠影，一些时代的片段，一份珍贵的纪念。谨以此物，为见证诸多故事的朋友们献上诚挚的敬意。
 可于个人信息界面作为头像使用。
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/4d/Banner_%E5%A4%9C%E8%AE%BF%E5%B9%BD%E6%BD%AD.png/400px-Banner_%E5%A4%9C%E8%AE%BF%E5%B9%BD%E6%BD%AD.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/4d/Banner_%E5%A4%9C%E8%AE%BF%E5%B9%BD%E6%BD%AD.png/400px-Banner_%E5%A4%9C%E8%AE%BF%E5%B9%BD%E6%BD%AD.png]
 
 |
 
@@ -113,19 +113,19 @@ The First Epic
 闪烁集会
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/e3/Item_heroskin-303503.png/100px-Item_heroskin-303503.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/e3/Item_heroskin-303503.png/100px-Item_heroskin-303503.png]
 远峰的巡游错误的登山路线，正确的观赏落日时间。
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/b6/Item-170301.png/100px-Item-170301.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/b6/Item-170301.png/100px-Item-170301.png]
 新首府一段过往的掠影，一些时代的片段，一份珍贵的纪念。谨以此物，为见证诸多故事的朋友们献上诚挚的敬意。
 可于个人信息界面作为头像使用。
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8e/Banner_%E6%9C%80%E5%88%9D%E7%9A%84%E8%AF%97.png/400px-Banner_%E6%9C%80%E5%88%9D%E7%9A%84%E8%AF%97.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8e/Banner_%E6%9C%80%E5%88%9D%E7%9A%84%E8%AF%97.png/400px-Banner_%E6%9C%80%E5%88%9D%E7%9A%84%E8%AF%97.png]
 
 |
 
@@ -136,19 +136,19 @@ Wandering on the Shore
 闪烁集会
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f0/Item_heroskin-303002.png/100px-Item_heroskin-303002.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f0/Item_heroskin-303002.png/100px-Item_heroskin-303002.png]
 二律背反数学是一座永远可以探究的巨大城堡。
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8b/Item-170401.png/100px-Item-170401.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8b/Item-170401.png/100px-Item-170401.png]
 真理的帆一段过往的掠影，一些时代的片段，一份珍贵的纪念。谨以此物，为见证诸多故事的朋友们献上诚挚的敬意。
 可于个人信息界面作为头像使用。
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/54/Banner_%E6%B5%B7%E5%B2%B8%E6%BC%AB%E6%AD%A5.png/400px-Banner_%E6%B5%B7%E5%B2%B8%E6%BC%AB%E6%AD%A5.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/54/Banner_%E6%B5%B7%E5%B2%B8%E6%BC%AB%E6%AD%A5.png/400px-Banner_%E6%B5%B7%E5%B2%B8%E6%BC%AB%E6%AD%A5.png]
 
 |
 
@@ -159,19 +159,19 @@ The Epic of Runners
 闪烁集会
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5f/Item_heroskin-305002.png/100px-Item_heroskin-305002.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/5f/Item_heroskin-305002.png/100px-Item_heroskin-305002.png]
 盛装舞步速度与优雅当然可以得兼。
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a4/Item-170501.png/100px-Item-170501.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a4/Item-170501.png/100px-Item-170501.png]
 原初之梦一段过往的掠影，一些时代的片段，一份珍贵的纪念。谨以此物，为见证诸多故事的朋友们献上诚挚的敬意。
 可于个人信息界面作为头像使用。
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/92/Banner_%E8%B7%91%E8%80%85%E5%8F%B2%E8%AF%97.png/400px-Banner_%E8%B7%91%E8%80%85%E5%8F%B2%E8%AF%97.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/92/Banner_%E8%B7%91%E8%80%85%E5%8F%B2%E8%AF%97.png/400px-Banner_%E8%B7%91%E8%80%85%E5%8F%B2%E8%AF%97.png]
 
 |
 
@@ -185,19 +185,19 @@ The Story of a Besieged Town
 闪烁集会
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fd/Item_heroskin-301303.png/100px-Item_heroskin-301303.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fd/Item_heroskin-301303.png/100px-Item_heroskin-301303.png]
 山中一日此处有一首诗。
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/79/Item-170601.png/100px-Item-170601.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/79/Item-170601.png/100px-Item-170601.png]
 竹雾将尽一段过往的掠影，一些时代的片段，一份珍贵的纪念。谨以此物，为见证诸多故事的朋友们献上诚挚的敬意。
 可于个人信息界面作为头像使用。
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a0/Banner_%E5%9B%B4%E5%9F%8E%E6%BC%AB%E8%B0%88.png/400px-Banner_%E5%9B%B4%E5%9F%8E%E6%BC%AB%E8%B0%88.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a0/Banner_%E5%9B%B4%E5%9F%8E%E6%BC%AB%E8%B0%88.png/400px-Banner_%E5%9B%B4%E5%9F%8E%E6%BC%AB%E8%B0%88.png]
 
 |
 
@@ -211,18 +211,18 @@ Wandering on the Shore
 闪烁集会
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bb/Item_heroskin-302702.png/100px-Item_heroskin-302702.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bb/Item_heroskin-302702.png/100px-Item_heroskin-302702.png]
 战地生命线今日的早晨从一则振奋人心的战时新闻开始。
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/09/Item-173004.png/100px-Item-173004.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/09/Item-173004.png/100px-Item-173004.png]
 花儿将铭记一段过往的掠影，一些时代的片段，一份珍贵的纪念。谨以此物，为见证诸多故事的朋友们献上诚挚的敬意。
 可于个人信息界面作为头像使用。
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Banner_%E6%AE%8B%E5%9E%A3%E6%96%B0%E8%AF%B4.jpg/400px-Banner_%E6%AE%8B%E5%9E%A3%E6%96%B0%E8%AF%B4.jpg]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/86/Banner_%E6%AE%8B%E5%9E%A3%E6%96%B0%E8%AF%B4.jpg/400px-Banner_%E6%AE%8B%E5%9E%A3%E6%96%B0%E8%AF%B4.jpg]
 
 |

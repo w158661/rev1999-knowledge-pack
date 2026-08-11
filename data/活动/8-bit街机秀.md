@@ -2,7 +2,7 @@
 
 > 来源:  https://res1999.huijiwiki.com/wiki/8-bit%E8%A1%97%E6%9C%BA%E7%A7%80
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/23/Banner_8-bit%E8%A1%97%E6%9C%BA%E7%A7%80.jpg/800px-Banner_8-bit%E8%A1%97%E6%9C%BA%E7%A7%80.jpg]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/23/Banner_8-bit%E8%A1%97%E6%9C%BA%E7%A7%80.jpg/800px-Banner_8-bit%E8%A1%97%E6%9C%BA%E7%A7%80.jpg]
 
 【远征记】
 【活动公告】
@@ -15,40 +15,40 @@
 这是3.3开放的活动。
 前往导航栏可查看其他版本的同系列活动
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d6/8-bit%E8%A1%97%E6%9C%BA%E7%A7%80_title.png/200px-8-bit%E8%A1%97%E6%9C%BA%E7%A7%80_title.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d6/8-bit%E8%A1%97%E6%9C%BA%E7%A7%80_title.png/200px-8-bit%E8%A1%97%E6%9C%BA%E7%A7%80_title.png]
 
 8-bit街机秀（8-Bit Arcade Remix）是3.3版本的一个限时街机清版玩法。完成活动将奖励养成材料、
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8e/Item-481005.png/100px-Item-481005.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8e/Item-481005.png/100px-Item-481005.png]
 共鸣晶匣贮藏着共鸣晶体的木匣。开启后可从中挑选指定的高阶共鸣晶体，用以提升角色共鸣。内含
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/92/Item-120001.png/100px-Item-120001.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/92/Item-120001.png/100px-Item-120001.png]
 迂回的啸鸣 ×1 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/0b/Item-120002.png/100px-Item-120002.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/0b/Item-120002.png/100px-Item-120002.png]
 交错的战栗 ×1 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/39/Item-120003.png/100px-Item-120003.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/39/Item-120003.png/100px-Item-120003.png]
 虚伪的呓语 ×1 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/36/Item-120004.png/100px-Item-120004.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/36/Item-120004.png/100px-Item-120004.png]
 嘶哑的回音 ×1 |
 
 、芭妮芭妮主题衣着
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/4d/Item_heroskin-301403.png/100px-Item_heroskin-301403.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/4d/Item_heroskin-301403.png/100px-Item_heroskin-301403.png]
 侍者的一天窗外阳光正好，该开始今天的工作了。和头像
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f1/Item-173404.png/100px-Item-173404.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f1/Item-173404.png/100px-Item-173404.png]
 方块狂潮一段过往的掠影，一些时代的片段，一份珍贵的纪念。谨以此物，为见证诸多故事的朋友们献上诚挚的敬意。
 可于个人信息界面作为头像使用。。
 
@@ -133,7 +133,7 @@
 
 ## 缪斯的二手卡带[编辑]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/29/Main_icon.svg/16px-Main_icon.svg.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/29/Main_icon.svg/16px-Main_icon.svg.png]
 主条目：8-bit街机秀/缪斯的二手卡带
 
 查看投币手、像素生物、缪斯秘宝和色块详情。
@@ -277,30 +277,30 @@
 奖励
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/e7/CurrencyItem-203.png/100px-CurrencyItem-203.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/e7/CurrencyItem-203.png/100px-CurrencyItem-203.png]
 
 40000
 ‌ |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/31/Item-115041.png/100px-Item-115041.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/31/Item-115041.png/100px-Item-115041.png]
 
 6
 ‌ |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/30/Equipment_icon-1004.png/100px-Equipment_icon-1004.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/30/Equipment_icon-1004.png/100px-Equipment_icon-1004.png]
 
 5
 ‌ |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f1/Item-110303.png/100px-Item-110303.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f1/Item-110303.png/100px-Item-110303.png]
 
 2
 
@@ -317,30 +317,30 @@
 奖励
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a2/CurrencyItem-205.png/100px-CurrencyItem-205.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a2/CurrencyItem-205.png/100px-CurrencyItem-205.png]
 
 40000
 ‌ |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/16/Item-115042.png/100px-Item-115042.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/1/16/Item-115042.png/100px-Item-115042.png]
 
 6
 ‌ |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/35/Item-110602.png/100px-Item-110602.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/35/Item-110602.png/100px-Item-110602.png]
 
 5
 ‌ |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a0/CurrencyItem-190006.png/100px-CurrencyItem-190006.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a0/CurrencyItem-190006.png/100px-CurrencyItem-190006.png]
 
 80
 
@@ -357,28 +357,28 @@
 奖励
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/e7/CurrencyItem-203.png/100px-CurrencyItem-203.png]
-
-40000
-‌ |
-
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
-
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f1/Item-173404.png/100px-Item-173404.png]
-‌ |
-
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
-
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a2/CurrencyItem-205.png/100px-CurrencyItem-205.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/e7/CurrencyItem-203.png/100px-CurrencyItem-203.png]
 
 40000
 ‌ |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6a/Item-120011.png/100px-Item-120011.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f1/Item-173404.png/100px-Item-173404.png]
+‌ |
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a2/CurrencyItem-205.png/100px-CurrencyItem-205.png]
+
+40000
+‌ |
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6a/Item-120011.png/100px-Item-120011.png]
 
 5
 
@@ -395,30 +395,30 @@
 奖励
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/30/Equipment_icon-1004.png/100px-Equipment_icon-1004.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/30/Equipment_icon-1004.png/100px-Equipment_icon-1004.png]
 
 5
 ‌ |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/49/Item-115043.png/100px-Item-115043.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/49/Item-115043.png/100px-Item-115043.png]
 
 6
 ‌ |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d6/Item-110802.png/100px-Item-110802.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d6/Item-110802.png/100px-Item-110802.png]
 
 5
 ‌ |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a0/CurrencyItem-190006.png/100px-CurrencyItem-190006.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a0/CurrencyItem-190006.png/100px-CurrencyItem-190006.png]
 
 80
 
@@ -435,30 +435,30 @@
 奖励
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/e7/CurrencyItem-203.png/100px-CurrencyItem-203.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/e7/CurrencyItem-203.png/100px-CurrencyItem-203.png]
 
 40000
 ‌ |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/47/Item-110403.png/100px-Item-110403.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/47/Item-110403.png/100px-Item-110403.png]
 
 2
 ‌ |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a2/CurrencyItem-205.png/100px-CurrencyItem-205.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a2/CurrencyItem-205.png/100px-CurrencyItem-205.png]
 
 40000
 ‌ |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/4d/Item_heroskin-301403.png/100px-Item_heroskin-301403.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/4d/Item_heroskin-301403.png/100px-Item_heroskin-301403.png]
 
 |
 
@@ -473,30 +473,30 @@
 奖励
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/30/Equipment_icon-1004.png/100px-Equipment_icon-1004.png]
-
-5
-‌ |
-
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
-
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/56/Item-180001.png/100px-Item-180001.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/30/Equipment_icon-1004.png/100px-Equipment_icon-1004.png]
 
 5
 ‌ |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/35/Item-110602.png/100px-Item-110602.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/56/Item-180001.png/100px-Item-180001.png]
 
 5
 ‌ |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a0/CurrencyItem-190006.png/100px-CurrencyItem-190006.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/35/Item-110602.png/100px-Item-110602.png]
+
+5
+‌ |
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a0/CurrencyItem-190006.png/100px-CurrencyItem-190006.png]
 
 80
 
@@ -513,30 +513,30 @@
 奖励
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/e7/CurrencyItem-203.png/100px-CurrencyItem-203.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/e7/CurrencyItem-203.png/100px-CurrencyItem-203.png]
 
 40000
 ‌ |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/98/Item-120012.png/100px-Item-120012.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/98/Item-120012.png/100px-Item-120012.png]
 
 3
 ‌ |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a2/CurrencyItem-205.png/100px-CurrencyItem-205.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a2/CurrencyItem-205.png/100px-CurrencyItem-205.png]
 
 40000
 ‌ |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f9/Item-110203.png/100px-Item-110203.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f9/Item-110203.png/100px-Item-110203.png]
 
 2
 
@@ -553,30 +553,30 @@
 奖励
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d6/Item-110802.png/100px-Item-110802.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d6/Item-110802.png/100px-Item-110802.png]
 
 5
 ‌ |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8e/Item-481005.png/100px-Item-481005.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8e/Item-481005.png/100px-Item-481005.png]
 
 1
 ‌ |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/e7/CurrencyItem-203.png/100px-CurrencyItem-203.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/e7/CurrencyItem-203.png/100px-CurrencyItem-203.png]
 
 40000
 ‌ |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/56/Item-180001.png/100px-Item-180001.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/56/Item-180001.png/100px-Item-180001.png]
 
 5
 
@@ -593,30 +593,30 @@
 奖励
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a2/CurrencyItem-205.png/100px-CurrencyItem-205.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a2/CurrencyItem-205.png/100px-CurrencyItem-205.png]
 
 40000
 ‌ |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6a/Item-120011.png/100px-Item-120011.png]
-
-5
-‌ |
-
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
-
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/35/Item-110602.png/100px-Item-110602.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6a/Item-120011.png/100px-Item-120011.png]
 
 5
 ‌ |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/36/Item-110103.png/100px-Item-110103.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/35/Item-110602.png/100px-Item-110602.png]
+
+5
+‌ |
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/36/Item-110103.png/100px-Item-110103.png]
 
 2
 
@@ -633,30 +633,30 @@
 奖励
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d6/Item-110802.png/100px-Item-110802.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d6/Item-110802.png/100px-Item-110802.png]
 
 5
 ‌ |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/98/Item-120012.png/100px-Item-120012.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/98/Item-120012.png/100px-Item-120012.png]
 
 3
 ‌ |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/7a/Item-110803.png/100px-Item-110803.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/7a/Item-110803.png/100px-Item-110803.png]
 
 2
 ‌ |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/4c/Item-120013.png/100px-Item-120013.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/4c/Item-120013.png/100px-Item-120013.png]
 
 3
 
@@ -664,56 +664,56 @@
 
 ## 成就[编辑]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/0/06/Achievement_badgeicon-41280501.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/0/06/Achievement_badgeicon-41280501.png]
 
 像素级操作
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8f/Achievement_detailtitledec.png/180px-Achievement_detailtitledec.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8f/Achievement_detailtitledec.png/180px-Achievement_detailtitledec.png]
 
 参与8-bit街机秀并完成一次局内流程
 好消息：这里有源源不断的奖励。
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/09/Achievement_icon1.png/30px-Achievement_icon1.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/09/Achievement_icon1.png/30px-Achievement_icon1.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/c/cb/Achievement_badgeicon-41280502.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/c/cb/Achievement_badgeicon-41280502.png]
 
 像素级操作
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8f/Achievement_detailtitledec.png/180px-Achievement_detailtitledec.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8f/Achievement_detailtitledec.png/180px-Achievement_detailtitledec.png]
 
 以普通难度通关8-bit街机秀一次
 坏消息：带不走的统统销毁。
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/77/Achievement_icon2.png/30px-Achievement_icon2.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/77/Achievement_icon2.png/30px-Achievement_icon2.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/3/31/Achievement_badgeicon-41280503.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/3/31/Achievement_badgeicon-41280503.png]
 
 像素级操作
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8f/Achievement_detailtitledec.png/180px-Achievement_detailtitledec.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8f/Achievement_detailtitledec.png/180px-Achievement_detailtitledec.png]
 
 以困难难度通关8-bit街机秀一次
 所有游戏都如此，享受过程吧！
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/3b/Achievement_icon3.png/30px-Achievement_icon3.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/3b/Achievement_icon3.png/30px-Achievement_icon3.png]
 
 ## 多媒体[编辑]
 
 -
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d6/8-bit%E8%A1%97%E6%9C%BA%E7%A7%80_title.png/473px-8-bit%E8%A1%97%E6%9C%BA%E7%A7%80_title.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d6/8-bit%E8%A1%97%E6%9C%BA%E7%A7%80_title.png/473px-8-bit%E8%A1%97%E6%9C%BA%E7%A7%80_title.png]
 
 标题
 
 -
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/3a/V3a3_eliminate_enter_fullbg.png/432px-V3a3_eliminate_enter_fullbg.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/3a/V3a3_eliminate_enter_fullbg.png/432px-V3a3_eliminate_enter_fullbg.png]
 
 活动背景图
 
 -
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f0/8-bit%E8%A1%97%E6%9C%BA%E7%A7%80_%E7%8E%A9%E6%B3%95.jpg/19px-8-bit%E8%A1%97%E6%9C%BA%E7%A7%80_%E7%8E%A9%E6%B3%95.jpg]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f0/8-bit%E8%A1%97%E6%9C%BA%E7%A7%80_%E7%8E%A9%E6%B3%95.jpg/19px-8-bit%E8%A1%97%E6%9C%BA%E7%A7%80_%E7%8E%A9%E6%B3%95.jpg]
 
 玩法
 
@@ -738,19 +738,19 @@
 26/01/01 - 01/22
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/4d/Item_heroskin-301403.png/100px-Item_heroskin-301403.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/4d/Item_heroskin-301403.png/100px-Item_heroskin-301403.png]
 侍者的一天窗外阳光正好，该开始今天的工作了。
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f1/Item-173404.png/100px-Item-173404.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f1/Item-173404.png/100px-Item-173404.png]
 方块狂潮一段过往的掠影，一些时代的片段，一份珍贵的纪念。谨以此物，为见证诸多故事的朋友们献上诚挚的敬意。
 可于个人信息界面作为头像使用。
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/23/Banner_8-bit%E8%A1%97%E6%9C%BA%E7%A7%80.jpg/400px-Banner_8-bit%E8%A1%97%E6%9C%BA%E7%A7%80.jpg]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/23/Banner_8-bit%E8%A1%97%E6%9C%BA%E7%A7%80.jpg/400px-Banner_8-bit%E8%A1%97%E6%9C%BA%E7%A7%80.jpg]
 
 |
 
@@ -761,19 +761,19 @@
 26/04/30 - 06/11
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/2f/Item_heroskin-311803.png/100px-Item_heroskin-311803.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/2f/Item_heroskin-311803.png/100px-Item_heroskin-311803.png]
 永恒的沉默在广袤的寂静中，凡人得赐爱与相认的权力。
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/30/Item-173801.png/100px-Item-173801.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/30/Item-173801.png/100px-Item-173801.png]
 缪斯三世的冒险岛一段过往的掠影，一些时代的片段，一份珍贵的纪念。谨以此物，为见证诸多故事的朋友们献上诚挚的敬意。
 可于个人信息界面作为头像使用。
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d8/Banner_8-bit%E8%A1%97%E6%9C%BA%E7%A7%80%C2%B7%E6%B2%99%E6%BB%A9%E8%BF%9E%E5%87%BB%E6%88%98.jpg/400px-Banner_8-bit%E8%A1%97%E6%9C%BA%E7%A7%80%C2%B7%E6%B2%99%E6%BB%A9%E8%BF%9E%E5%87%BB%E6%88%98.jpg]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d8/Banner_8-bit%E8%A1%97%E6%9C%BA%E7%A7%80%C2%B7%E6%B2%99%E6%BB%A9%E8%BF%9E%E5%87%BB%E6%88%98.jpg/400px-Banner_8-bit%E8%A1%97%E6%9C%BA%E7%A7%80%C2%B7%E6%B2%99%E6%BB%A9%E8%BF%9E%E5%87%BB%E6%88%98.jpg]
 
 |
 

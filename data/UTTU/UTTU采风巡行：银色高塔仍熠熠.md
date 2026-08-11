@@ -2,7 +2,7 @@
 
 > 来源:  https://res1999.huijiwiki.com/wiki/UTTU%E9%87%87%E9%A3%8E%E5%B7%A1%E8%A1%8C%EF%BC%9A%E9%93%B6%E8%89%B2%E9%AB%98%E5%A1%94%E4%BB%8D%E7%86%A0%E7%86%A0
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/4c/Banner_%E9%93%B6%E8%89%B2%E9%AB%98%E5%A1%94%E4%BB%8D%E7%86%A0%E7%86%A0.jpg/800px-Banner_%E9%93%B6%E8%89%B2%E9%AB%98%E5%A1%94%E4%BB%8D%E7%86%A0%E7%86%A0.jpg]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/4c/Banner_%E9%93%B6%E8%89%B2%E9%AB%98%E5%A1%94%E4%BB%8D%E7%86%A0%E7%86%A0.jpg/800px-Banner_%E9%93%B6%E8%89%B2%E9%AB%98%E5%A1%94%E4%BB%8D%E7%86%A0%E7%86%A0.jpg]
 
 【活动公告】
 
@@ -11,12 +11,12 @@
 活动时间：2026/04/02 05:00 - 04/09 04:59
 开启条件：通关主线故事1ST-16
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/de/%E9%93%B6%E8%89%B2%E9%AB%98%E5%A1%94%E4%BB%8D%E7%86%A0%E7%86%A0_title.png/200px-%E9%93%B6%E8%89%B2%E9%AB%98%E5%A1%94%E4%BB%8D%E7%86%A0%E7%86%A0_title.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/de/%E9%93%B6%E8%89%B2%E9%AB%98%E5%A1%94%E4%BB%8D%E7%86%A0%E7%86%A0_title.png/200px-%E9%93%B6%E8%89%B2%E9%AB%98%E5%A1%94%E4%BB%8D%E7%86%A0%E7%86%A0_title.png]
 
 UTTU采风巡行：银色高塔仍熠熠（UTTU Scouting Trip）是3.6版本更新前的一次预热小活动。完成活动任务可领取
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6f/CurrencyItem-202.png/100px-CurrencyItem-202.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6f/CurrencyItem-202.png/100px-CurrencyItem-202.png]
 纯雨滴神秘学界昂贵无比的货币。可用于征集与恢复细胞活性。 ×400、苦目糖果和养成素材，还可解锁与3.6版本相关的情报。
 
 ## 活动内容[编辑]
@@ -46,21 +46,21 @@ UTTU采风巡行：银色高塔仍熠熠（UTTU Scouting Trip）是3.6版本更�
 
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6f/CurrencyItem-202.png/100px-CurrencyItem-202.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6f/CurrencyItem-202.png/100px-CurrencyItem-202.png]
 
 80
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/eb/Item-100101.png/100px-Item-100101.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/eb/Item-100101.png/100px-Item-100101.png]
 
 1
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/06/Item-110703.png/100px-Item-110703.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/06/Item-110703.png/100px-Item-110703.png]
 
 2
 
@@ -81,21 +81,21 @@ UTTU采风巡行：银色高塔仍熠熠（UTTU Scouting Trip）是3.6版本更�
 
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6f/CurrencyItem-202.png/100px-CurrencyItem-202.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6f/CurrencyItem-202.png/100px-CurrencyItem-202.png]
 
 80
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/eb/Item-100101.png/100px-Item-100101.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/eb/Item-100101.png/100px-Item-100101.png]
 
 1
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/25/Item-111103.png/100px-Item-111103.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/25/Item-111103.png/100px-Item-111103.png]
 
 2
 
@@ -114,21 +114,21 @@ UTTU采风巡行：银色高塔仍熠熠（UTTU Scouting Trip）是3.6版本更�
 
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6f/CurrencyItem-202.png/100px-CurrencyItem-202.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6f/CurrencyItem-202.png/100px-CurrencyItem-202.png]
 
 80
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/eb/Item-100101.png/100px-Item-100101.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/eb/Item-100101.png/100px-Item-100101.png]
 
 1
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d5/Item-110503.png/100px-Item-110503.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d5/Item-110503.png/100px-Item-110503.png]
 
 2
 
@@ -149,21 +149,21 @@ UTTU采风巡行：银色高塔仍熠熠（UTTU Scouting Trip）是3.6版本更�
 
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6f/CurrencyItem-202.png/100px-CurrencyItem-202.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6f/CurrencyItem-202.png/100px-CurrencyItem-202.png]
 
 80
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/eb/Item-100101.png/100px-Item-100101.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/eb/Item-100101.png/100px-Item-100101.png]
 
 1
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/47/Item-110403.png/100px-Item-110403.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/47/Item-110403.png/100px-Item-110403.png]
 
 2
 
@@ -178,21 +178,21 @@ UTTU采风巡行：银色高塔仍熠熠（UTTU Scouting Trip）是3.6版本更�
 
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6f/CurrencyItem-202.png/100px-CurrencyItem-202.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6f/CurrencyItem-202.png/100px-CurrencyItem-202.png]
 
 80
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/eb/Item-100101.png/100px-Item-100101.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/eb/Item-100101.png/100px-Item-100101.png]
 
 1
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f1/Item-110303.png/100px-Item-110303.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f1/Item-110303.png/100px-Item-110303.png]
 
 2
 
@@ -202,25 +202,25 @@ UTTU采风巡行：银色高塔仍熠熠（UTTU Scouting Trip）是3.6版本更�
 
 -
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/2b/UTTU%E9%87%87%E9%A3%8E%E5%B7%A1%E8%A1%8C%EF%BC%9A%E9%93%B6%E8%89%B2%E9%AB%98%E5%A1%94%E4%BB%8D%E7%86%A0%E7%86%A0.jpg/320px-UTTU%E9%87%87%E9%A3%8E%E5%B7%A1%E8%A1%8C%EF%BC%9A%E9%93%B6%E8%89%B2%E9%AB%98%E5%A1%94%E4%BB%8D%E7%86%A0%E7%86%A0.jpg]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/2b/UTTU%E9%87%87%E9%A3%8E%E5%B7%A1%E8%A1%8C%EF%BC%9A%E9%93%B6%E8%89%B2%E9%AB%98%E5%A1%94%E4%BB%8D%E7%86%A0%E7%86%A0.jpg/320px-UTTU%E9%87%87%E9%A3%8E%E5%B7%A1%E8%A1%8C%EF%BC%9A%E9%93%B6%E8%89%B2%E9%AB%98%E5%A1%94%E4%BB%8D%E7%86%A0%E7%86%A0.jpg]
 
 宣传图
 
 -
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/de/%E9%93%B6%E8%89%B2%E9%AB%98%E5%A1%94%E4%BB%8D%E7%86%A0%E7%86%A0_title.png/640px-%E9%93%B6%E8%89%B2%E9%AB%98%E5%A1%94%E4%BB%8D%E7%86%A0%E7%86%A0_title.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/de/%E9%93%B6%E8%89%B2%E9%AB%98%E5%A1%94%E4%BB%8D%E7%86%A0%E7%86%A0_title.png/640px-%E9%93%B6%E8%89%B2%E9%AB%98%E5%A1%94%E4%BB%8D%E7%86%A0%E7%86%A0_title.png]
 
 标题
 
 -
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/V3a5_warmup_pic1.png/145px-V3a5_warmup_pic1.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/V3a5_warmup_pic1.png/145px-V3a5_warmup_pic1.png]
 
 相关图片1
 
 -
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/39/V3a5_warmup_pic2.png/160px-V3a5_warmup_pic2.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/39/V3a5_warmup_pic2.png/160px-V3a5_warmup_pic2.png]
 
 相关图片2
 

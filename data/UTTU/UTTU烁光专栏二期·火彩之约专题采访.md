@@ -2,19 +2,19 @@
 
 > 来源:  https://res1999.huijiwiki.com/wiki/UTTU%E7%83%81%E5%85%89%E4%B8%93%E6%A0%8F%E4%BA%8C%E6%9C%9F%C2%B7%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/ec/H5-UTTU%E7%83%81%E5%85%89%E4%B8%93%E6%A0%8F%E4%BA%8C%E6%9C%9F%C2%B7%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF.jpg/300px-H5-UTTU%E7%83%81%E5%85%89%E4%B8%93%E6%A0%8F%E4%BA%8C%E6%9C%9F%C2%B7%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF.jpg]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/ec/H5-UTTU%E7%83%81%E5%85%89%E4%B8%93%E6%A0%8F%E4%BA%8C%E6%9C%9F%C2%B7%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF.jpg/300px-H5-UTTU%E7%83%81%E5%85%89%E4%B8%93%E6%A0%8F%E4%BA%8C%E6%9C%9F%C2%B7%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF.jpg]
 
 “火彩之约专题采访”宣传图
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF_title.png/200px-%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF_title.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF_title.png/200px-%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF_title.png]
 
 活动时间：2025/12/12 00:00 - 12/23 23:59
 开启条件：游戏等级≥5
 
 UTTU烁光专栏二期·火彩之约专题采访是与闪魂Shining Soul联动商品“UTTU烁光专栏二期典藏卡”的预热H5活动。参与“火彩之约”专栏采访，完成任务共可获得
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6f/CurrencyItem-202.png/100px-CurrencyItem-202.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6f/CurrencyItem-202.png/100px-CurrencyItem-202.png]
 纯雨滴神秘学界昂贵无比的货币。可用于征集与恢复细胞活性。 ×60、养成材料、参与抽奖等奖励。
 
 ## 目录
@@ -36,11 +36,11 @@ UTTU烁光专栏二期·火彩之约专题采访是与闪魂Shining Soul联动�
 代表宝石
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8f/%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E5%8D%81%E5%9B%9B%E8%A1%8C%E8%AF%97.png/157px-%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E5%8D%81%E5%9B%9B%E8%A1%8C%E8%AF%97.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8f/%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E5%8D%81%E5%9B%9B%E8%A1%8C%E8%AF%97.png/157px-%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E5%8D%81%E5%9B%9B%E8%A1%8C%E8%AF%97.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c3/HeadIconSmall-302301.png/100px-HeadIconSmall-302301.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c3/HeadIconSmall-302301.png/100px-HeadIconSmall-302301.png]
 十四行诗 |
 数羊羔：我注意到你佩戴宝石的位置，它并不在他人第一眼就能看到的地方。
 十四行诗：是的，它不像一枚徽章……我也并非因为奖励而得到它。
@@ -49,16 +49,16 @@ UTTU烁光专栏二期·火彩之约专题采访是与闪魂Shining Soul联动�
 十四行诗：当我拿起笔时，微微低头……我就能看见它，它也在帮我记录这样的时光。
 数羊羔：很高兴你找到了最适合你的佩戴方式。 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/2e/%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E9%BB%84%E8%89%B2%E8%93%9D%E5%AE%9D%E7%9F%B3.png/169px-%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E9%BB%84%E8%89%B2%E8%93%9D%E5%AE%9D%E7%9F%B3.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/2e/%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E9%BB%84%E8%89%B2%E8%93%9D%E5%AE%9D%E7%9F%B3.png/169px-%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E9%BB%84%E8%89%B2%E8%93%9D%E5%AE%9D%E7%9F%B3.png]
 
 黄色蓝宝石
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/db/%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E5%8D%A1%E5%8D%A1%E5%B0%BC%E4%BA%9A.png/160px-%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E5%8D%A1%E5%8D%A1%E5%B0%BC%E4%BA%9A.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/db/%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E5%8D%A1%E5%8D%A1%E5%B0%BC%E4%BA%9A.png/160px-%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E5%8D%A1%E5%8D%A1%E5%B0%BC%E4%BA%9A.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/3d/HeadIconSmall-308001.png/100px-HeadIconSmall-308001.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/3d/HeadIconSmall-308001.png/100px-HeadIconSmall-308001.png]
 卡卡尼亚 |
 空心木：一枚罕见的、令人自省的祖母绿，它深邃而不失光芒。
 卡卡尼亚：它的多切面可以倒映出同一人的不同身影，随着切割工艺的进步，你看到的会越来越多。
@@ -71,16 +71,16 @@ UTTU烁光专栏二期·火彩之约专题采访是与闪魂Shining Soul联动�
 卡卡尼亚：如果一个人希望自己拥有宝石般璀璨的心。
 卡卡尼亚：那么这个人就已经拥有。 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/b2/%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E6%B2%99%E5%BC%97%E8%8E%B1.png/169px-%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E6%B2%99%E5%BC%97%E8%8E%B1.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/b2/%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E6%B2%99%E5%BC%97%E8%8E%B1.png/169px-%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E6%B2%99%E5%BC%97%E8%8E%B1.png]
 
 沙弗莱宝石
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/0d/%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E5%A4%A9%E4%BD%BF%E5%A8%9C%E5%A8%9C.png/183px-%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E5%A4%A9%E4%BD%BF%E5%A8%9C%E5%A8%9C.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/0d/%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E5%A4%A9%E4%BD%BF%E5%A8%9C%E5%A8%9C.png/183px-%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E5%A4%A9%E4%BD%BF%E5%A8%9C%E5%A8%9C.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/4b/HeadIconSmall-310001.png/100px-HeadIconSmall-310001.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/4b/HeadIconSmall-310001.png/100px-HeadIconSmall-310001.png]
 天使娜娜 |
 空心木：不得不说，你本已足够夺目，闪耀的宝石更使你成为万中无一的焦点。
 天使娜娜：总有人追着我奉上他们的爱，他们的脸我记都记不过来，不过，我也从来没有为此烦恼过……
@@ -91,16 +91,16 @@ UTTU烁光专栏二期·火彩之约专题采访是与闪魂Shining Soul联动�
 天使娜娜：我确实不喜欢危险，但我还是希望能够拥有这颗美丽的宝石，我们安稳、平静地作伴……
 空心木：很合理的愿望，这并不矛盾。 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a8/%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E7%BA%A2%E7%A2%A7%E7%8E%BA.png/169px-%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E7%BA%A2%E7%A2%A7%E7%8E%BA.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a8/%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E7%BA%A2%E7%A2%A7%E7%8E%BA.png/169px-%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E7%BA%A2%E7%A2%A7%E7%8E%BA.png]
 
 红碧玺
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a5/%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-37.png/162px-%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-37.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a5/%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-37.png/162px-%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-37.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8e/HeadIconSmall-306601.png/100px-HeadIconSmall-306601.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8e/HeadIconSmall-306601.png/100px-HeadIconSmall-306601.png]
 37 |
 数羊羔：你盯着蓝钻的时间如此之久，使我们的访谈快要成为一种助眠手段。
 37：全内反射！它的制作者寻找到了完美的临界角，当光线的入射角大于临界角时，它的折射只处于石头的内部，这是这颗宝石比一般石头要更亮的原因。
@@ -113,16 +113,16 @@ UTTU烁光专栏二期·火彩之约专题采访是与闪魂Shining Soul联动�
 37：不过，至少完美的现象也在这里——正确的答案，完美的圆，可达成的全内反射。
 数羊羔：我想这两者同样重要。 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/99/%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E6%B5%B7%E8%93%9D%E5%AE%9D%E7%9F%B3.png/169px-%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E6%B5%B7%E8%93%9D%E5%AE%9D%E7%9F%B3.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/99/%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E6%B5%B7%E8%93%9D%E5%AE%9D%E7%9F%B3.png/169px-%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E6%B5%B7%E8%93%9D%E5%AE%9D%E7%9F%B3.png]
 
 海蓝宝石
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E6%96%B0%E5%B7%B4%E5%88%AB%E5%A1%94.png/175px-%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E6%96%B0%E5%B7%B4%E5%88%AB%E5%A1%94.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E6%96%B0%E5%B7%B4%E5%88%AB%E5%A1%94.png/175px-%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E6%96%B0%E5%B7%B4%E5%88%AB%E5%A1%94.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/ac/HeadIconSmall-305201.png/100px-HeadIconSmall-305201.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/ac/HeadIconSmall-305201.png/100px-HeadIconSmall-305201.png]
 新巴别塔 |
 空心木：绝佳的搭配，精彩的展示案例。
 新巴别塔：谢谢，宝石本身也是一种商品，我选择最能吸引我的。而如何在它身上看到更夺目的前景，这是我最关心的。
@@ -132,16 +132,16 @@ UTTU烁光专栏二期·火彩之约专题采访是与闪魂Shining Soul联动�
 新巴别塔：满足视觉，激发想象，抵达渴望。
 新巴别塔：就像这颗宝石一般。 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8e/%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E9%BB%84%E7%A2%A7%E7%8E%BA.png/169px-%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E9%BB%84%E7%A2%A7%E7%8E%BA.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8e/%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E9%BB%84%E7%A2%A7%E7%8E%BA.png/169px-%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E9%BB%84%E7%A2%A7%E7%8E%BA.png]
 
 黄碧玺
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/b4/%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E4%BC%8A%E7%B4%A2%E5%B0%94%E5%BE%B7.png/170px-%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E4%BC%8A%E7%B4%A2%E5%B0%94%E5%BE%B7.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/b4/%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E4%BC%8A%E7%B4%A2%E5%B0%94%E5%BE%B7.png/170px-%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E4%BC%8A%E7%B4%A2%E5%B0%94%E5%BE%B7.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d3/HeadIconSmall-308101.png/100px-HeadIconSmall-308101.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d3/HeadIconSmall-308101.png/100px-HeadIconSmall-308101.png]
 伊索尔德 |
 数羊羔：轻柔的哼唱，伴随紫水晶带来的梦境，能够采访您是一种幸运。
 伊索尔德：一只洁白的小羊——你来看今天的演出？当我佩戴它时，没有演出，今天只有宴会，家族的宴会。
@@ -153,7 +153,7 @@ UTTU烁光专栏二期·火彩之约专题采访是与闪魂Shining Soul联动�
 伊索尔德：紫水晶般的眼睛——可眼球总归不会如此坚硬。
 伊索尔德：我不需要这样的眼睛，但……如果我的心也如此坚硬就好了。 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c4/%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E7%B4%AB%E8%89%B2%E8%93%9D%E5%AE%9D%E7%9F%B3.png/169px-%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E7%B4%AB%E8%89%B2%E8%93%9D%E5%AE%9D%E7%9F%B3.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c4/%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E7%B4%AB%E8%89%B2%E8%93%9D%E5%AE%9D%E7%9F%B3.png/169px-%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF-%E7%B4%AB%E8%89%B2%E8%93%9D%E5%AE%9D%E7%9F%B3.png]
 
 紫色蓝宝石
 |
@@ -173,13 +173,13 @@ UTTU烁光专栏二期·火彩之约专题采访是与闪魂Shining Soul联动�
 
 -
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/ec/H5-UTTU%E7%83%81%E5%85%89%E4%B8%93%E6%A0%8F%E4%BA%8C%E6%9C%9F%C2%B7%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF.jpg/320px-H5-UTTU%E7%83%81%E5%85%89%E4%B8%93%E6%A0%8F%E4%BA%8C%E6%9C%9F%C2%B7%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF.jpg]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/ec/H5-UTTU%E7%83%81%E5%85%89%E4%B8%93%E6%A0%8F%E4%BA%8C%E6%9C%9F%C2%B7%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF.jpg/320px-H5-UTTU%E7%83%81%E5%85%89%E4%B8%93%E6%A0%8F%E4%BA%8C%E6%9C%9F%C2%B7%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF.jpg]
 
 宣传图
 
 -
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF_title.png/501px-%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF_title.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/45/%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF_title.png/501px-%E7%81%AB%E5%BD%A9%E4%B9%8B%E7%BA%A6%E4%B8%93%E9%A2%98%E9%87%87%E8%AE%BF_title.png]
 
 标题
 

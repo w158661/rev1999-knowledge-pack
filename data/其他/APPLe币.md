@@ -2,10 +2,10 @@
 
 > 来源:  https://res1999.huijiwiki.com/wiki/APPLe%E5%B8%81
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/c/c9/CurrencyItem-100404.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/c/c9/CurrencyItem-100404.png]
 
 APPLe币
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f2/CurrencyIcon-100404_1.png/24px-CurrencyIcon-100404_1.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f2/CurrencyIcon-100404_1.png/24px-CurrencyIcon-100404_1.png]
 
 编号ID：2#1413
 

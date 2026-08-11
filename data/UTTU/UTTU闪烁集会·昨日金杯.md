@@ -2,7 +2,7 @@
 
 > 来源:  https://res1999.huijiwiki.com/wiki/UTTU%E9%97%AA%E7%83%81%E9%9B%86%E4%BC%9A%C2%B7%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d7/Banner_%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF.png/800px-Banner_%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d7/Banner_%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF.png/800px-Banner_%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF.png]
 
 【雷米特杯失窃案】
 
@@ -17,17 +17,17 @@
 开启条件：通关主线故事第三章《故事一无所有》
 
 昨日金杯（Trophy of the Past Glory）是1.1版本「雷米特杯失窃案」的UTTU闪烁集会限时季度挑战，完成活动将获得
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/59/HeadIconSmall-302801.png/100px-HeadIconSmall-302801.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/59/HeadIconSmall-302801.png/100px-HeadIconSmall-302801.png]
 APPLe衣着「
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/ac/Item_heroskin-302803.png/100px-Item_heroskin-302803.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/ac/Item_heroskin-302803.png/100px-Item_heroskin-302803.png]
 胡士托的回声绅士的躁动，富含维生素C的靡靡之音。」、主题头像「
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/da/Item-170101.png/100px-Item-170101.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/da/Item-170101.png/100px-Item-170101.png]
 怪盗蒙太奇一段过往的掠影，一些时代的片段，一份珍贵的纪念。谨以此物，为见证诸多故事的朋友们献上诚挚的敬意。
 可于个人信息界面作为头像使用。」和养成材料等奖励。
 
@@ -54,9 +54,9 @@ APPLe衣着「
 ## 活动内容[编辑]
 
 本次活动使用活动代币
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 UTTU购物票据由《UTTU》杂志提供的票据，可于[市场货架]处进行兑换。
 仅限[UTTU闪烁集会-昨日金杯]活动举办期间使用。，可在UTTU超级市场和成就中获得，可用于在“市场货架”购买物品。
 
@@ -65,9 +65,9 @@ UTTU购物票据由《UTTU》杂志提供的票据，可于[市场货架]处进�
 - UTTU超级市场：集会的中心，可以在其中阅读“闪烁总刊”，即参与挑战，获得UTTU购物票据。挑战实际共30层，在20层之前显示上限为20层。
 
 - UTTU零售：可以在其中阅读“闪烁侧刊”，即参与挑战，获取名人卡。每次挑战都消耗
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f9/CurrencyItem-100102.png/100px-CurrencyItem-100102.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f9/CurrencyItem-100102.png/100px-CurrencyItem-100102.png]
 可阅次数此为“闪烁侧刊”扉页上的一句友善的提醒。可用于挑战UTTU零售。
 仅限[UTTU闪烁集会]举办期间使用。
 活动期间每日5：00（UTC+8）自动获得5次，可阅次数每天5:00自动获得5次，最多储存10次。
@@ -90,25 +90,25 @@ UTTU零售
 掉落
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c5/Season01_market01.png/80px-Season01_market01.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c5/Season01_market01.png/80px-Season01_market01.png]
 
 《筑梦人》
 The Dream Builder
 |
 01 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
 Lv.5 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 2400
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/48/Seasoncelebritycard-08.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/48/Seasoncelebritycard-08.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9b/Season01_green_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9b/Season01_green_frame.png]
 
 荷官之手·绿
 
@@ -118,12 +118,12 @@ Lv.5 |
 
 02 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
 Lv.10 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 2400
 
@@ -131,18 +131,18 @@ Lv.10 |
 
 03 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
 Lv.25 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 2400
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/48/Seasoncelebritycard-08.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/48/Seasoncelebritycard-08.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Season01_blue_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Season01_blue_frame.png]
 
 荷官之手·蓝
 
@@ -150,19 +150,19 @@ Lv.25 |
 
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6a/Season01_market02.png/80px-Season01_market02.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6a/Season01_market02.png/80px-Season01_market02.png]
 
 《预选赛》
 Qualifier
 |
 04 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
 Lv.25 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 2400
 
@@ -170,12 +170,12 @@ Lv.25 |
 
 05 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
 Lv.25 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 2700
 
@@ -183,20 +183,20 @@ Lv.25 |
 
 06 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
 Lv.35 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 2700
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/e/ea/Season01_color_bg.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/e/ea/Season01_color_bg.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/18/Seasoncelebritycard-1007.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/18/Seasoncelebritycard-1007.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/47/Season01_color_dec.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/47/Season01_color_dec.png]
 
 绿蛙儿口袋
 
@@ -204,19 +204,19 @@ Lv.35 |
 
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/78/Season01_market03.png/80px-Season01_market03.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/78/Season01_market03.png/80px-Season01_market03.png]
 
 《坏时节》
 Troubled Time
 |
 07 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
 Lv.35 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 2400
 
@@ -224,12 +224,12 @@ Lv.35 |
 
 08 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
 Lv.35 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 2700
 
@@ -237,20 +237,20 @@ Lv.35 |
 
 09 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
 Lv.40 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 2700
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/e/ea/Season01_color_bg.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/e/ea/Season01_color_bg.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7c/Seasoncelebritycard-1001.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7c/Seasoncelebritycard-1001.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/47/Season01_color_dec.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/47/Season01_color_dec.png]
 
 一场好梦
 
@@ -258,19 +258,19 @@ Lv.40 |
 
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c9/Season01_market04.png/80px-Season01_market04.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c9/Season01_market04.png/80px-Season01_market04.png]
 
 《马拉卡纳》
 Maracanã Stadium
 |
 10 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
 Lv.40 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 3000
 
@@ -278,12 +278,12 @@ Lv.40 |
 
 11 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
 Lv.40 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 3000
 
@@ -291,20 +291,20 @@ Lv.40 |
 
 12 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
 Lv.45 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 3000
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/e/ea/Season01_color_bg.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/e/ea/Season01_color_bg.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/f/fe/Seasoncelebritycard-1003.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/f/fe/Seasoncelebritycard-1003.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/47/Season01_color_dec.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/47/Season01_color_dec.png]
 
 雨中曲
 
@@ -313,19 +313,19 @@ Lv.45 |
 
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/Season01_market05.png/80px-Season01_market05.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/Season01_market05.png/80px-Season01_market05.png]
 
 《4-2-2-2》
 4-2-2-2
 |
 13 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
 Lv.45 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 3000
 
@@ -333,12 +333,12 @@ Lv.45 |
 
 14 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
 Lv.45 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 3000
 
@@ -346,20 +346,20 @@ Lv.45 |
 
 15 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
 Lv.50 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 3200
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/e/ea/Season01_color_bg.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/e/ea/Season01_color_bg.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/a/a0/Seasoncelebritycard-1006.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/a/a0/Seasoncelebritycard-1006.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/47/Season01_color_dec.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/47/Season01_color_dec.png]
 
 一无所有
 
@@ -368,19 +368,19 @@ Lv.50 |
 
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c3/Season01_market06.png/80px-Season01_market06.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c3/Season01_market06.png/80px-Season01_market06.png]
 
 《爱与和平》
 Love and Peace
 |
 16 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
 Lv.50 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 3200
 
@@ -388,12 +388,12 @@ Lv.50 |
 
 17 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
 Lv.50 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 3200
 
@@ -401,12 +401,12 @@ Lv.50 |
 
 18 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
 Lv.50 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 3200
 
@@ -414,12 +414,12 @@ Lv.50 |
 
 19 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
 Lv.50 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 3200
 
@@ -427,18 +427,18 @@ Lv.50 |
 
 20 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
 Lv.50 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 3500
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/16/Seasoncelebritycard-00.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/16/Seasoncelebritycard-00.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/5/55/Team_frame2.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/5/55/Team_frame2.png]
 
 自选名人卡·橙
 
@@ -446,19 +446,19 @@ Lv.50 |
 
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/ef/Season01_market07.png/80px-Season01_market07.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/ef/Season01_market07.png/80px-Season01_market07.png]
 
 《世界杯》
 The World Cup
 |
 21 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/36/Dongxi_da_003.png/30px-Dongxi_da_003.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/36/Dongxi_da_003.png/30px-Dongxi_da_003.png]
 Lv.1 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 1200
 
@@ -466,12 +466,12 @@ Lv.1 |
 
 22 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/36/Dongxi_da_003.png/30px-Dongxi_da_003.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/36/Dongxi_da_003.png/30px-Dongxi_da_003.png]
 Lv.1 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 1200
 
@@ -479,12 +479,12 @@ Lv.1 |
 
 23 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/36/Dongxi_da_003.png/30px-Dongxi_da_003.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/36/Dongxi_da_003.png/30px-Dongxi_da_003.png]
 Lv.1 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 1200
 
@@ -492,12 +492,12 @@ Lv.1 |
 
 24 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/36/Dongxi_da_003.png/30px-Dongxi_da_003.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/36/Dongxi_da_003.png/30px-Dongxi_da_003.png]
 Lv.1 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 1200
 
@@ -505,12 +505,12 @@ Lv.1 |
 
 25 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/36/Dongxi_da_003.png/30px-Dongxi_da_003.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/36/Dongxi_da_003.png/30px-Dongxi_da_003.png]
 Lv.1 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 1200
 
@@ -518,12 +518,12 @@ Lv.1 |
 
 26 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/36/Dongxi_da_003.png/30px-Dongxi_da_003.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/36/Dongxi_da_003.png/30px-Dongxi_da_003.png]
 Lv.1 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 1500
 
@@ -531,12 +531,12 @@ Lv.1 |
 
 27 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/36/Dongxi_da_003.png/30px-Dongxi_da_003.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/36/Dongxi_da_003.png/30px-Dongxi_da_003.png]
 Lv.1 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 1500
 
@@ -544,12 +544,12 @@ Lv.1 |
 
 28 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/36/Dongxi_da_003.png/30px-Dongxi_da_003.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/36/Dongxi_da_003.png/30px-Dongxi_da_003.png]
 Lv.1 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 1500
 
@@ -557,12 +557,12 @@ Lv.1 |
 
 29 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/36/Dongxi_da_003.png/30px-Dongxi_da_003.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/36/Dongxi_da_003.png/30px-Dongxi_da_003.png]
 Lv.1 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 1500
 
@@ -570,12 +570,12 @@ Lv.1 |
 
 30 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/36/Dongxi_da_003.png/30px-Dongxi_da_003.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/36/Dongxi_da_003.png/30px-Dongxi_da_003.png]
 Lv.1 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 1500
 
@@ -588,12 +588,12 @@ Lv.1 |
 
 01 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
 Lv.50 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 1500
 
@@ -601,12 +601,12 @@ Lv.50 |
 
 02 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
 Lv.50 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 1500
 
@@ -614,12 +614,12 @@ Lv.50 |
 
 03 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
 Lv.50 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 1500
 
@@ -627,12 +627,12 @@ Lv.50 |
 
 04 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
 Lv.50 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 1500
 
@@ -640,12 +640,12 @@ Lv.50 |
 
 05 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fe/Dongxi_da_002.png/30px-Dongxi_da_002.png]
 Lv.50 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 1500
 
@@ -654,9 +654,9 @@ Lv.50 |
 首通奖励总和
 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 
 7500
 
@@ -696,13 +696,13 @@ Lv.50 |
 
 综合能力
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/e/ea/Season01_color_bg.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/e/ea/Season01_color_bg.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7c/Seasoncelebritycard-1001.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7c/Seasoncelebritycard-1001.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/47/Season01_color_dec.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/47/Season01_color_dec.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7b/Season01_color_signature.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7b/Season01_color_signature.png]
 
 维尔汀
 
@@ -712,13 +712,13 @@ Lv.50 |
 
 激情上限-2，至终的仪式花费的激情-2
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/e/ea/Season01_color_bg.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/e/ea/Season01_color_bg.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/f/fe/Seasoncelebritycard-1003.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/f/fe/Seasoncelebritycard-1003.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/47/Season01_color_dec.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/47/Season01_color_dec.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7b/Season01_color_signature.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7b/Season01_color_signature.png]
 
 维尔汀
 
@@ -729,13 +729,13 @@ Lv.50 |
 进入战斗时，每个角色的随机1张咒语阶次+1（最多触发1次）
 每2回合开始时，每个角色的随机1张咒语阶次+1
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/e/ea/Season01_color_bg.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/e/ea/Season01_color_bg.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/5/58/Seasoncelebritycard-1004.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/5/58/Seasoncelebritycard-1004.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/47/Season01_color_dec.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/47/Season01_color_dec.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7b/Season01_color_signature.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7b/Season01_color_signature.png]
 
 维尔汀
 
@@ -746,13 +746,13 @@ Lv.50 |
 己方角色拥有至终的仪式时，每次行动及每回合结束都会使下次至终的仪式伤害提升20%，且免疫激情降低效果
 咒语上限+2（角色退场时此咒语上限降低）
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/e/ea/Season01_color_bg.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/e/ea/Season01_color_bg.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/a/a0/Seasoncelebritycard-1006.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/a/a0/Seasoncelebritycard-1006.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/47/Season01_color_dec.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/47/Season01_color_dec.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7b/Season01_color_signature.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7b/Season01_color_signature.png]
 
 维尔汀
 
@@ -763,13 +763,13 @@ Lv.50 |
 每2回合开始时，此回合己方行动点+1
 咒语上限+2（角色退场时此咒语上限降低）
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/e/ea/Season01_color_bg.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/e/ea/Season01_color_bg.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/18/Seasoncelebritycard-1007.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/18/Seasoncelebritycard-1007.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/47/Season01_color_dec.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/47/Season01_color_dec.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7b/Season01_color_signature.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7b/Season01_color_signature.png]
 
 维尔汀
 
@@ -779,11 +779,11 @@ Lv.50 |
 
 进入战斗时，己方全体激情+5（最多触发1次）
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/7/72/Seasoncelebritycard-01.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/72/Seasoncelebritycard-01.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9b/Season01_green_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9b/Season01_green_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/d/d3/Signature_characterget-3029.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/d/d3/Signature_characterget-3029.png]
 
 斯奈德
 
@@ -793,11 +793,11 @@ Lv.50 |
 
 濒死时，回复30%已损失生命（最多触发1次）
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/7/72/Seasoncelebritycard-01.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/72/Seasoncelebritycard-01.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Season01_blue_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Season01_blue_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/d/d3/Signature_characterget-3029.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/d/d3/Signature_characterget-3029.png]
 
 斯奈德
 
@@ -807,11 +807,11 @@ Lv.50 |
 
 濒死时，回复50%已损失生命（最多触发1次）
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/7/72/Seasoncelebritycard-01.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/72/Seasoncelebritycard-01.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/d/d3/Signature_characterget-3029.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/d/d3/Signature_characterget-3029.png]
 
 斯奈德
 
@@ -821,11 +821,11 @@ Lv.50 |
 
 濒死时，回复50%已损失生命，之后造成伤害提升20%（最多触发1次）
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/7/72/Seasoncelebritycard-01.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/72/Seasoncelebritycard-01.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/d/d3/Signature_characterget-3029.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/d/d3/Signature_characterget-3029.png]
 
 斯奈德
 
@@ -835,11 +835,11 @@ Lv.50 |
 
 濒死时，回复50%已损失生命，之后造成伤害提升40%（最多触发1次）
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/f/fd/Seasoncelebritycard-02.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/f/fd/Seasoncelebritycard-02.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/d/d3/Signature_characterget-3029.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/d/d3/Signature_characterget-3029.png]
 
 斯奈德
 
@@ -849,11 +849,11 @@ Lv.50 |
 
 使用3阶治疗类咒语后，下回合使己方随机一名其他友方的1张咒语阶次+1
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/f/fd/Seasoncelebritycard-02.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/f/fd/Seasoncelebritycard-02.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/d/d3/Signature_characterget-3029.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/d/d3/Signature_characterget-3029.png]
 
 斯奈德
 
@@ -864,11 +864,11 @@ Lv.50 |
 创伤加成提升 20%
 使用2阶以上治疗类咒语后，下回合使己方随机一名其他友方的1张咒语阶次+1
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/2c/Seasoncelebritycard-03.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/2c/Seasoncelebritycard-03.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/d/d3/Signature_characterget-3029.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/d/d3/Signature_characterget-3029.png]
 
 斯奈德
 
@@ -878,11 +878,11 @@ Lv.50 |
 
 使用3阶反制类咒语后，下回合使己方随机一名其他友方的1张咒语阶次+1
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/2c/Seasoncelebritycard-03.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/2c/Seasoncelebritycard-03.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/d/d3/Signature_characterget-3029.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/d/d3/Signature_characterget-3029.png]
 
 斯奈德
 
@@ -893,11 +893,11 @@ Lv.50 |
 创伤加成提升 20%
 使用2阶以上反制类咒语后，下回合使己方随机一名其他友方的1张咒语阶次+1
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/6/6e/Seasoncelebritycard-07.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/6/6e/Seasoncelebritycard-07.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9b/Season01_green_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9b/Season01_green_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/17/Signature_characterget-3064.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/17/Signature_characterget-3064.png]
 
 挖掘艺术
 
@@ -907,11 +907,11 @@ Lv.50 |
 
 进入战斗时，激情+2（最多触发1次）
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/6/6e/Seasoncelebritycard-07.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/6/6e/Seasoncelebritycard-07.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Season01_blue_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Season01_blue_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/17/Signature_characterget-3064.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/17/Signature_characterget-3064.png]
 
 挖掘艺术
 
@@ -921,11 +921,11 @@ Lv.50 |
 
 进入战斗时，激情+3（最多触发1次）
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/6/6e/Seasoncelebritycard-07.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/6/6e/Seasoncelebritycard-07.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/17/Signature_characterget-3064.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/17/Signature_characterget-3064.png]
 
 挖掘艺术
 
@@ -935,11 +935,11 @@ Lv.50 |
 
 进入战斗时，激情+5（最多触发1次）
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/6/6e/Seasoncelebritycard-07.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/6/6e/Seasoncelebritycard-07.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/17/Signature_characterget-3064.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/17/Signature_characterget-3064.png]
 
 挖掘艺术
 
@@ -950,11 +950,11 @@ Lv.50 |
 创伤加成提升 20%
 进入战斗时，激情+5（最多触发1次）
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/48/Seasoncelebritycard-08.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/48/Seasoncelebritycard-08.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9b/Season01_green_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9b/Season01_green_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/d/da/Signature_characterget-3032.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/d/da/Signature_characterget-3032.png]
 
 百夫长
 
@@ -964,11 +964,11 @@ Lv.50 |
 
 进入战斗时，最右侧咒语阶次+1（最多触发1次）
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/48/Seasoncelebritycard-08.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/48/Seasoncelebritycard-08.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Season01_blue_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Season01_blue_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/d/da/Signature_characterget-3032.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/d/da/Signature_characterget-3032.png]
 
 百夫长
 
@@ -978,11 +978,11 @@ Lv.50 |
 
 进入战斗时，所有咒语阶次+1（最多触发1次）
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/48/Seasoncelebritycard-08.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/48/Seasoncelebritycard-08.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/d/da/Signature_characterget-3032.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/d/da/Signature_characterget-3032.png]
 
 百夫长
 
@@ -992,11 +992,11 @@ Lv.50 |
 
 进入战斗时，所有咒语阶次+2（最多触发1次）
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/f/f2/Seasoncelebritycard-09.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/f/f2/Seasoncelebritycard-09.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9b/Season01_green_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9b/Season01_green_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7a/Signature_characterget-3018.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7a/Signature_characterget-3018.png]
 
 雾行者
 
@@ -1006,11 +1006,11 @@ Lv.50 |
 
 使用2/3阶咒语时，暴击率提升10%
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/f/f2/Seasoncelebritycard-09.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/f/f2/Seasoncelebritycard-09.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Season01_blue_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Season01_blue_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7a/Signature_characterget-3018.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7a/Signature_characterget-3018.png]
 
 雾行者
 
@@ -1020,11 +1020,11 @@ Lv.50 |
 
 使用2/3阶咒语时，暴击率提升20%
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/f/f2/Seasoncelebritycard-09.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/f/f2/Seasoncelebritycard-09.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7a/Signature_characterget-3018.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7a/Signature_characterget-3018.png]
 
 雾行者
 
@@ -1034,11 +1034,11 @@ Lv.50 |
 
 使用2/3阶咒语时，暴击率提升30%
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/f/f2/Seasoncelebritycard-09.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/f/f2/Seasoncelebritycard-09.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7a/Signature_characterget-3018.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7a/Signature_characterget-3018.png]
 
 雾行者
 
@@ -1048,11 +1048,11 @@ Lv.50 |
 
 使用2/3阶咒语时，暴击率提升50%
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/18/Seasoncelebritycard-10.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/18/Seasoncelebritycard-10.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9b/Season01_green_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9b/Season01_green_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/1d/Signature_characterget-3025.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/1d/Signature_characterget-3025.png]
 
 星锑
 
@@ -1062,11 +1062,11 @@ Lv.50 |
 
 每次行动后，暴击率提升1%（效果可叠加，不可驱散）
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/18/Seasoncelebritycard-10.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/18/Seasoncelebritycard-10.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Season01_blue_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Season01_blue_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/1d/Signature_characterget-3025.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/1d/Signature_characterget-3025.png]
 
 星锑
 
@@ -1076,11 +1076,11 @@ Lv.50 |
 
 每次行动后，暴击率、暴击创伤提升1%（效果可叠加，不可驱散）
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/18/Seasoncelebritycard-10.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/18/Seasoncelebritycard-10.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/1d/Signature_characterget-3025.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/1d/Signature_characterget-3025.png]
 
 星锑
 
@@ -1090,11 +1090,11 @@ Lv.50 |
 
 每次行动后，暴击率、暴击创伤提升2%（效果可叠加，不可驱散）
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/18/Seasoncelebritycard-10.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/18/Seasoncelebritycard-10.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/1d/Signature_characterget-3025.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/1d/Signature_characterget-3025.png]
 
 星锑
 
@@ -1104,11 +1104,11 @@ Lv.50 |
 
 每次行动后，暴击率、暴击创伤提升3%（效果可叠加，不可驱散）
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/3/32/Seasoncelebritycard-13.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/3/32/Seasoncelebritycard-13.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9b/Season01_green_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9b/Season01_green_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/3/30/Signature_characterget-3017.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/3/30/Signature_characterget-3017.png]
 
 夏利
 
@@ -1118,11 +1118,11 @@ Lv.50 |
 
 每行动5次后，获得[激昂]状态增益 攻击时，创伤加成+50%（生效后减少1层）：攻击时，创伤加成提升50%(生效后减少1层）
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/3/32/Seasoncelebritycard-13.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/3/32/Seasoncelebritycard-13.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Season01_blue_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Season01_blue_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/3/30/Signature_characterget-3017.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/3/30/Signature_characterget-3017.png]
 
 夏利
 
@@ -1132,11 +1132,11 @@ Lv.50 |
 
 每行动4次后，获得[激昂]状态增益 攻击时，创伤加成+50%（生效后减少1层）：攻击时，创伤加成提升50%（生效后减少1层）
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/3/32/Seasoncelebritycard-13.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/3/32/Seasoncelebritycard-13.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/3/30/Signature_characterget-3017.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/3/30/Signature_characterget-3017.png]
 
 夏利
 
@@ -1146,11 +1146,11 @@ Lv.50 |
 
 每行动3次后，获得[激昂]状态增益 攻击时，创伤加成+50%（生效后减少1层）：攻击时，创伤加成提升50%（生效后减少1层）
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/3/32/Seasoncelebritycard-13.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/3/32/Seasoncelebritycard-13.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/3/30/Signature_characterget-3017.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/3/30/Signature_characterget-3017.png]
 
 夏利
 
@@ -1160,11 +1160,11 @@ Lv.50 |
 
 每行动2次后，获得[激昂]状态增益 攻击时，创伤加成+50%（生效后减少1层）：攻击时，创伤加成提升50%（生效后减少1层）
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/28/Seasoncelebritycard-14.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/28/Seasoncelebritycard-14.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9b/Season01_green_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9b/Season01_green_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/e/e0/Signature_characterget-3035.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/e/e0/Signature_characterget-3035.png]
 
 莉拉妮
 
@@ -1174,11 +1174,11 @@ Lv.50 |
 
 每次行动后，造成伤害提升1%（效果可叠加，不可驱散）
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/28/Seasoncelebritycard-14.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/28/Seasoncelebritycard-14.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Season01_blue_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Season01_blue_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/e/e0/Signature_characterget-3035.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/e/e0/Signature_characterget-3035.png]
 
 莉拉妮
 
@@ -1188,11 +1188,11 @@ Lv.50 |
 
 每次行动后，造成伤害提升2%（效果可叠加，不可驱散）
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/28/Seasoncelebritycard-14.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/28/Seasoncelebritycard-14.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/e/e0/Signature_characterget-3035.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/e/e0/Signature_characterget-3035.png]
 
 莉拉妮
 
@@ -1202,11 +1202,11 @@ Lv.50 |
 
 每次行动后，造成伤害提升3%（效果可叠加，不可驱散）
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/28/Seasoncelebritycard-14.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/28/Seasoncelebritycard-14.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/e/e0/Signature_characterget-3035.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/e/e0/Signature_characterget-3035.png]
 
 莉拉妮
 
@@ -1216,11 +1216,11 @@ Lv.50 |
 
 每次行动后，造成伤害提升4%（效果可叠加，不可驱散）
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4c/Seasoncelebritycard-15.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4c/Seasoncelebritycard-15.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/a/ad/Signature_characterget-3044.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/a/ad/Signature_characterget-3044.png]
 
 莫桑女士
 
@@ -1230,11 +1230,11 @@ Lv.50 |
 
 使用2/3阶咒语后，使生命百分比最低的己方单体回复攻击*80%的生命
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4c/Seasoncelebritycard-15.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4c/Seasoncelebritycard-15.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/a/ad/Signature_characterget-3044.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/a/ad/Signature_characterget-3044.png]
 
 莫桑女士
 
@@ -1244,11 +1244,11 @@ Lv.50 |
 
 使用2/3阶咒语后，使己方全体回复攻击*80%的生命
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7d/Seasoncelebritycard-16.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7d/Seasoncelebritycard-16.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/f/fc/Signature_characterget-3063.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/f/fc/Signature_characterget-3063.png]
 
 皮克勒斯
 
@@ -1258,11 +1258,11 @@ Lv.50 |
 
 使用2/3阶咒语后，净化自身[属性削弱][状态异常][控制]眩晕，石化，噩梦，冰冻，缴械，缄默，封印等限制角色行动的效果
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7d/Seasoncelebritycard-16.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/7d/Seasoncelebritycard-16.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/f/fc/Signature_characterget-3063.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/f/fc/Signature_characterget-3063.png]
 
 皮克勒斯
 
@@ -1273,11 +1273,11 @@ Lv.50 |
 创伤加成提升 20%
 使用2阶咒语后，净化自身[属性削弱][状态异常][控制]眩晕，石化，噩梦，冰冻，缴械，缄默，封印等限制角色行动的效果；使用3阶咒语后，净化己方全体
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/c/c1/Seasoncelebritycard-17.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/c/c1/Seasoncelebritycard-17.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9b/Season01_green_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9b/Season01_green_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/e/ee/Signature_characterget-3041.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/e/ee/Signature_characterget-3041.png]
 
 玛蒂尔达
 
@@ -1287,11 +1287,11 @@ Lv.50 |
 
 使用2/3阶咒语时，术法威力提升10%
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/c/c1/Seasoncelebritycard-17.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/c/c1/Seasoncelebritycard-17.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Season01_blue_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Season01_blue_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/e/ee/Signature_characterget-3041.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/e/ee/Signature_characterget-3041.png]
 
 玛蒂尔达
 
@@ -1301,11 +1301,11 @@ Lv.50 |
 
 使用2/3阶咒语时，术法威力提升20%
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/c/c1/Seasoncelebritycard-17.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/c/c1/Seasoncelebritycard-17.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/e/ee/Signature_characterget-3041.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/e/ee/Signature_characterget-3041.png]
 
 玛蒂尔达
 
@@ -1315,11 +1315,11 @@ Lv.50 |
 
 使用2/3阶咒语时，术法威力提升40%
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/c/c1/Seasoncelebritycard-17.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/c/c1/Seasoncelebritycard-17.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/e/ee/Signature_characterget-3041.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/e/ee/Signature_characterget-3041.png]
 
 玛蒂尔达
 
@@ -1329,11 +1329,11 @@ Lv.50 |
 
 使用2/3阶咒语时，术法威力提升60%
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/0/0f/Seasoncelebritycard-18.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/0/0f/Seasoncelebritycard-18.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9b/Season01_green_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9b/Season01_green_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/93/Signature_characterget-3052.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/93/Signature_characterget-3052.png]
 
 新巴别塔
 
@@ -1343,11 +1343,11 @@ Lv.50 |
 
 回合结束时，若自身生命高于50%，则进入[嘲讽]反制 吸引敌人注意。受到部分攻击时，会优先成为攻击目标状态
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/0/0f/Seasoncelebritycard-18.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/0/0f/Seasoncelebritycard-18.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Season01_blue_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Season01_blue_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/93/Signature_characterget-3052.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/93/Signature_characterget-3052.png]
 
 新巴别塔
 
@@ -1357,11 +1357,11 @@ Lv.50 |
 
 回合结束时，若自身生命高于50%，则进入[嘲讽]反制 吸引敌人注意。受到部分攻击时，会优先成为攻击目标状态，且受到伤害降低5%，持续1回合
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/0/0f/Seasoncelebritycard-18.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/0/0f/Seasoncelebritycard-18.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/93/Signature_characterget-3052.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/93/Signature_characterget-3052.png]
 
 新巴别塔
 
@@ -1371,11 +1371,11 @@ Lv.50 |
 
 回合结束时，若自身生命高于50%，则进入[嘲讽]反制 吸引敌人注意。受到部分攻击时，会优先成为攻击目标状态，且受到伤害降低15%，持续1回合
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/0/0f/Seasoncelebritycard-18.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/0/0f/Seasoncelebritycard-18.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/93/Signature_characterget-3052.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/93/Signature_characterget-3052.png]
 
 新巴别塔
 
@@ -1385,11 +1385,11 @@ Lv.50 |
 
 回合结束时，若自身生命高于50%，则进入[嘲讽]反制 吸引敌人注意。受到部分攻击时，会优先成为攻击目标状态，且受到伤害降低30%，持续1回合
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/8/88/Seasoncelebritycard-19.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/8/88/Seasoncelebritycard-19.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9b/Season01_green_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9b/Season01_green_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/f/f7/Signature_characterget-3030.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/f/f7/Signature_characterget-3030.png]
 
 拉拉泉
 
@@ -1399,11 +1399,11 @@ Lv.50 |
 
 本回合未主动使用过咒语，回复5%已损失生命
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/8/88/Seasoncelebritycard-19.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/8/88/Seasoncelebritycard-19.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Season01_blue_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Season01_blue_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/f/f7/Signature_characterget-3030.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/f/f7/Signature_characterget-3030.png]
 
 拉拉泉
 
@@ -1413,11 +1413,11 @@ Lv.50 |
 
 本回合未主动使用过咒语，回复10%已损失生命
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/8/88/Seasoncelebritycard-19.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/8/88/Seasoncelebritycard-19.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/f/f7/Signature_characterget-3030.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/f/f7/Signature_characterget-3030.png]
 
 拉拉泉
 
@@ -1427,11 +1427,11 @@ Lv.50 |
 
 本回合未主动使用过咒语，回复20%已损失生命
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/8/88/Seasoncelebritycard-19.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/8/88/Seasoncelebritycard-19.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/f/f7/Signature_characterget-3030.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/f/f7/Signature_characterget-3030.png]
 
 拉拉泉
 
@@ -1441,11 +1441,11 @@ Lv.50 |
 
 本回合未主动使用过咒语，回复35%已损失生命
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/90/Seasoncelebritycard-20.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/90/Seasoncelebritycard-20.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/27/Signature_characterget-3039.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/27/Signature_characterget-3039.png]
 
 泥鯭的士
 
@@ -1455,11 +1455,11 @@ Lv.50 |
 
 每3回合开始时，使最右侧咒语阶次+1
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/90/Seasoncelebritycard-20.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/90/Seasoncelebritycard-20.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/27/Signature_characterget-3039.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/27/Signature_characterget-3039.png]
 
 泥鯭的士
 
@@ -1469,11 +1469,11 @@ Lv.50 |
 
 每2回合开始时，使最右侧咒语阶次+1
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/5/59/Seasoncelebritycard-21.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/5/59/Seasoncelebritycard-21.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/3/3f/Signature_characterget-3031.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/3/3f/Signature_characterget-3031.png]
 
 铅玻璃
 
@@ -1483,11 +1483,11 @@ Lv.50 |
 
 使用治疗、反制类咒语后，赋予生命百分比最低的己方单体额外1层[坚固]状态增益 被攻击时，受创减免+25%（生效后减少1层）：被攻击时，受到伤害降低25%（生效后减少1层）
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/5/59/Seasoncelebritycard-21.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/5/59/Seasoncelebritycard-21.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/3/3f/Signature_characterget-3031.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/3/3f/Signature_characterget-3031.png]
 
 铅玻璃
 
@@ -1498,11 +1498,11 @@ Lv.50 |
 创伤加成提升 20%
 使用治疗、反制类咒语后，赋予己方全体额外1层[坚固]状态增益 被攻击时，受创减免+25%（生效后减少1层）：被攻击时，受到伤害降低25%（生效后减少1层）
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/18/Seasoncelebritycard-23.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/18/Seasoncelebritycard-23.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Signature_characterget-3048.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Signature_characterget-3048.png]
 
 远旅
 
@@ -1513,11 +1513,11 @@ Lv.50 |
 创伤加成提升 20%
 至终的仪式赋予的状态将延长1回合
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/26/Seasoncelebritycard-24.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/26/Seasoncelebritycard-24.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9b/Season01_green_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9b/Season01_green_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/0/0c/Signature_characterget-3004.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/0/0c/Signature_characterget-3004.png]
 
 红弩箭
 
@@ -1527,11 +1527,11 @@ Lv.50 |
 
 释放单体至终的仪式时，本次攻击暴击率+20%
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/26/Seasoncelebritycard-24.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/26/Seasoncelebritycard-24.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Season01_blue_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Season01_blue_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/0/0c/Signature_characterget-3004.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/0/0c/Signature_characterget-3004.png]
 
 红弩箭
 
@@ -1541,11 +1541,11 @@ Lv.50 |
 
 释放单体至终的仪式时，本次攻击暴击率+30%
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/26/Seasoncelebritycard-24.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/26/Seasoncelebritycard-24.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/0/0c/Signature_characterget-3004.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/0/0c/Signature_characterget-3004.png]
 
 红弩箭
 
@@ -1555,11 +1555,11 @@ Lv.50 |
 
 释放单体至终的仪式时，本次攻击暴击率+40%
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/26/Seasoncelebritycard-24.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/26/Seasoncelebritycard-24.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/0/0c/Signature_characterget-3004.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/0/0c/Signature_characterget-3004.png]
 
 红弩箭
 
@@ -1569,11 +1569,11 @@ Lv.50 |
 
 释放单体至终的仪式时，本次攻击暴击率+50%
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9f/Seasoncelebritycard-25.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9f/Seasoncelebritycard-25.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9b/Season01_green_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9b/Season01_green_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4b/Signature_characterget-3015.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4b/Signature_characterget-3015.png]
 
 狼群
 
@@ -1583,11 +1583,11 @@ Lv.50 |
 
 释放群体至终的仪式时，本次攻击穿透率+20%
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9f/Seasoncelebritycard-25.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9f/Seasoncelebritycard-25.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Season01_blue_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Season01_blue_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4b/Signature_characterget-3015.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4b/Signature_characterget-3015.png]
 
 狼群
 
@@ -1597,11 +1597,11 @@ Lv.50 |
 
 释放群体至终的仪式时，本次攻击穿透率+30%
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9f/Seasoncelebritycard-25.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9f/Seasoncelebritycard-25.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4b/Signature_characterget-3015.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4b/Signature_characterget-3015.png]
 
 狼群
 
@@ -1611,11 +1611,11 @@ Lv.50 |
 
 释放群体至终的仪式时，本次攻击穿透率+40%
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9f/Seasoncelebritycard-25.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9f/Seasoncelebritycard-25.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4b/Signature_characterget-3015.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4b/Signature_characterget-3015.png]
 
 狼群
 
@@ -1625,11 +1625,11 @@ Lv.50 |
 
 释放群体至终的仪式时，本次攻击穿透率+50%
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Seasoncelebritycard-26.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Seasoncelebritycard-26.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9b/Season01_green_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9b/Season01_green_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/96/Signature_characterget-3062.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/96/Signature_characterget-3062.png]
 
 梅兰妮
 
@@ -1639,11 +1639,11 @@ Lv.50 |
 
 释放至终的仪式后，回复攻击*40%的生命
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Seasoncelebritycard-26.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Seasoncelebritycard-26.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Season01_blue_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Season01_blue_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/96/Signature_characterget-3062.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/96/Signature_characterget-3062.png]
 
 梅兰妮
 
@@ -1653,11 +1653,11 @@ Lv.50 |
 
 释放至终的仪式后，回复攻击*80%的生命
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Seasoncelebritycard-26.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Seasoncelebritycard-26.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/96/Signature_characterget-3062.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/96/Signature_characterget-3062.png]
 
 梅兰妮
 
@@ -1667,11 +1667,11 @@ Lv.50 |
 
 释放至终的仪式后，回复攻击*120%的生命
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Seasoncelebritycard-26.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Seasoncelebritycard-26.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/96/Signature_characterget-3062.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/96/Signature_characterget-3062.png]
 
 梅兰妮
 
@@ -1681,11 +1681,11 @@ Lv.50 |
 
 释放至终的仪式后，己方全体回复使用者攻击*120%的生命
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/7/72/Seasoncelebritycard-27.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/72/Seasoncelebritycard-27.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/e/ef/Signature_characterget-3033.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/e/ef/Signature_characterget-3033.png]
 
 TTT
 
@@ -1695,11 +1695,11 @@ TTT
 
 溢出暴击率转化为暴击创伤。每释放2次至终的仪式，下次至终的仪式暴击率+25%
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/7/72/Seasoncelebritycard-27.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/7/72/Seasoncelebritycard-27.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/e/ef/Signature_characterget-3033.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/e/ef/Signature_characterget-3033.png]
 
 TTT
 
@@ -1709,11 +1709,11 @@ TTT
 
 溢出暴击率转化为暴击创伤。每释放2次至终的仪式，下次至终的仪式暴击率+50%
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/15/Seasoncelebritycard-30.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/15/Seasoncelebritycard-30.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Season01_blue_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Season01_blue_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/a/ae/Signature_characterget-3028.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/a/ae/Signature_characterget-3028.png]
 
 APPLe
 
@@ -1723,11 +1723,11 @@ APPLe
 
 释放至终的仪式后，下回合开始时随机咒语阶次+1
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/15/Seasoncelebritycard-30.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/15/Seasoncelebritycard-30.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/a/ae/Signature_characterget-3028.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/a/ae/Signature_characterget-3028.png]
 
 APPLe
 
@@ -1737,11 +1737,11 @@ APPLe
 
 释放至终的仪式后，下回合开始时随机2张咒语阶次+1
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/15/Seasoncelebritycard-30.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/15/Seasoncelebritycard-30.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/a/ae/Signature_characterget-3028.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/a/ae/Signature_characterget-3028.png]
 
 APPLe
 
@@ -1752,11 +1752,11 @@ APPLe
 创伤加成提升 20%
 释放至终的仪式后，下回合开始时随机2张咒语阶次+1
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/2e/Seasoncelebritycard-31.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/2e/Seasoncelebritycard-31.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/21/Signature_characterget-3043.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/21/Signature_characterget-3043.png]
 
 坦南特
 
@@ -1767,11 +1767,11 @@ APPLe
 创伤加成提升 20%
 获得[钻石子弹]状态增益 攻击后，使目标2回合内现实防御-30%（生效后减少1层）[银质子弹]状态增益 攻击后，使主目标3回合内现实防御-20%（生效后减少1层）[麻醉弹]状态增益 攻击前驱散目标的[属性提升][状态增益][反制]赋予持续的反制状态，被攻击时触发效果，攻击后使目标陷入[眩晕]控制 无法行动1回合（生效后减少1层）时，数量额外+1
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9f/Seasoncelebritycard-32.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/9f/Seasoncelebritycard-32.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/d/d3/Signature_characterget-3029.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/d/d3/Signature_characterget-3029.png]
 
 斯奈德
 
@@ -1782,11 +1782,11 @@ APPLe
 创伤加成提升 20%
 获得[钻石子弹]状态增益 攻击后，使目标2回合内现实防御-30%（生效后减少1层）[银质子弹]状态增益 攻击后，使主目标3回合内现实防御-20%（生效后减少1层）时，若自身没有任何子弹，则额外获得1颗[麻醉弹]状态增益 攻击前驱散目标的[属性提升][状态增益][反制]赋予持续的反制状态，被攻击时触发效果，攻击后使目标陷入[眩晕]控制 无法行动1回合（生效后减少1层）：攻击前驱散目标的[属性提升][状态增益][反制]赋予持续的反制状态，被攻击时触发效果，攻击后使目标陷入[眩晕]控制 无法行动1回合
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Seasoncelebritycard-47.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Seasoncelebritycard-47.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/8/8e/Signature_characterget-3023.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/8/8e/Signature_characterget-3023.png]
 
 十四行诗
 
@@ -1796,11 +1796,11 @@ APPLe
 
 行动后，若自身激情不低于3点，则获得[激情保护]状态增益 免疫激情降低1回合
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Seasoncelebritycard-47.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/4/4e/Seasoncelebritycard-47.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/8/8e/Signature_characterget-3023.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/8/8e/Signature_characterget-3023.png]
 
 十四行诗
 
@@ -1811,11 +1811,11 @@ APPLe
 创伤加成提升 20%
 行动后，若自身激情不低于3点，则获得[激情保护]状态增益 免疫激情降低1回合
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/2a/Seasoncelebritycard-48.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/2a/Seasoncelebritycard-48.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/20/Season01_gold_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/3/35/Signature_characterget-3051.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/3/35/Signature_characterget-3051.png]
 
 温妮弗雷德
 
@@ -1825,11 +1825,11 @@ APPLe
 
 释放至终的仪式后，净化自身[属性削弱][状态异常][控制]眩晕，石化，噩梦，冰冻，缴械，缄默，封印等限制角色行动的效果
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/2/2a/Seasoncelebritycard-48.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/2/2a/Seasoncelebritycard-48.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/1/19/Season01_oran_frame.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/3/35/Signature_characterget-3051.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/3/35/Signature_characterget-3051.png]
 
 温妮弗雷德
 
@@ -1842,7 +1842,7 @@ APPLe
 
 ## 剧情[编辑]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/29/Main_icon.svg/16px-Main_icon.svg.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/29/Main_icon.svg/16px-Main_icon.svg.png]
 主条目：昨日金杯-剧情
 
 ## 成就条目[编辑]
@@ -1853,144 +1853,144 @@ APPLe
 
 完成[昨日金杯]所有成就 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 UTTU购物票据由《UTTU》杂志提供的票据，可于[市场货架]处进行兑换。
 仅限[UTTU闪烁集会-昨日金杯]活动举办期间使用。 ×1500
 |
 
 历程-超级市场翻阅进度至第15章 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/da/Item-170101.png/100px-Item-170101.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/da/Item-170101.png/100px-Item-170101.png]
 怪盗蒙太奇一段过往的掠影，一些时代的片段，一份珍贵的纪念。谨以此物，为见证诸多故事的朋友们献上诚挚的敬意。
 可于个人信息界面作为头像使用。 ×1
 |
 
 历程-超级市场翻阅进度至第25章 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a4/Item-170102.png/100px-Item-170102.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a4/Item-170102.png/100px-Item-170102.png]
 怪盗蒙太奇·闪烁装帧一段过往的掠影，一些时代的片段，一份珍贵的纪念。谨以此物，为见证诸多故事的朋友们献上诚挚的敬意。
 可于个人信息界面作为头像使用。 ×1
 |
 
 历程-完成10次UTTU零售的阅读 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 UTTU购物票据由《UTTU》杂志提供的票据，可于[市场货架]处进行兑换。
 仅限[UTTU闪烁集会-昨日金杯]活动举办期间使用。 ×500
 |
 
 历程-完成20次UTTU零售的阅读 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 UTTU购物票据由《UTTU》杂志提供的票据，可于[市场货架]处进行兑换。
 仅限[UTTU闪烁集会-昨日金杯]活动举办期间使用。 ×500
 |
 
 历程-完成25次UTTU零售的阅读 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 UTTU购物票据由《UTTU》杂志提供的票据，可于[市场货架]处进行兑换。
 仅限[UTTU闪烁集会-昨日金杯]活动举办期间使用。 ×500
 |
 
 收集-通过UTTU零售获得1张绿色名人卡 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 UTTU购物票据由《UTTU》杂志提供的票据，可于[市场货架]处进行兑换。
 仅限[UTTU闪烁集会-昨日金杯]活动举办期间使用。 ×300
 |
 
 收集-通过UTTU零售获得10张蓝色名人卡 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 UTTU购物票据由《UTTU》杂志提供的票据，可于[市场货架]处进行兑换。
 仅限[UTTU闪烁集会-昨日金杯]活动举办期间使用。 ×400
 |
 
 收集-通过UTTU零售获得10张金色名人卡 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 UTTU购物票据由《UTTU》杂志提供的票据，可于[市场货架]处进行兑换。
 仅限[UTTU闪烁集会-昨日金杯]活动举办期间使用。 ×500
 |
 
 收集-通过UTTU零售获得10张橙色名人卡 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 UTTU购物票据由《UTTU》杂志提供的票据，可于[市场货架]处进行兑换。
 仅限[UTTU闪烁集会-昨日金杯]活动举办期间使用。 ×800
 |
 
 累计完成任意4章特贩周的阅读 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 UTTU购物票据由《UTTU》杂志提供的票据，可于[市场货架]处进行兑换。
 仅限[UTTU闪烁集会-昨日金杯]活动举办期间使用。 ×800
 |
 
 挑战第12章中，8回合内击败永不停息0623Y号 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 UTTU购物票据由《UTTU》杂志提供的票据，可于[市场货架]处进行兑换。
 仅限[UTTU闪烁集会-昨日金杯]活动举办期间使用。 ×500
 |
 
 挑战第15章中，只使用攻击、治疗类神秘术和至终的仪式并完成阅读 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 UTTU购物票据由《UTTU》杂志提供的票据，可于[市场货架]处进行兑换。
 仅限[UTTU闪烁集会-昨日金杯]活动举办期间使用。 ×500
 |
 
 挑战第20章中，狂热的球迷登场后，3回合内将其击败 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 UTTU购物票据由《UTTU》杂志提供的票据，可于[市场货架]处进行兑换。
 仅限[UTTU闪烁集会-昨日金杯]活动举办期间使用。 ×500
 |
 
 挑战第16章之后，只使用攻击类神秘术和至终的仪式并完成阅读 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 UTTU购物票据由《UTTU》杂志提供的票据，可于[市场货架]处进行兑换。
 仅限[UTTU闪烁集会-昨日金杯]活动举办期间使用。 ×800
 |
 
 挑战第16章之后，在单个回合内击败2名或以上敌人并完成阅读 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 UTTU购物票据由《UTTU》杂志提供的票据，可于[市场货架]处进行兑换。
 仅限[UTTU闪烁集会-昨日金杯]活动举办期间使用。 ×800
 |
@@ -2000,231 +2000,231 @@ UTTU购物票据由《UTTU》杂志提供的票据，可于[市场货架]处进�
 | 物品 | 库存 | 单价 |
 
 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/ac/Item_heroskin-302803.png/100px-Item_heroskin-302803.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/ac/Item_heroskin-302803.png/100px-Item_heroskin-302803.png]
 胡士托的回声绅士的躁动，富含维生素C的靡靡之音。 | 1 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
 ‌ 25000 |
 
 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8e/Item-481005.png/100px-Item-481005.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/8/8e/Item-481005.png/100px-Item-481005.png]
 共鸣晶匣贮藏着共鸣晶体的木匣。开启后可从中挑选指定的高阶共鸣晶体，用以提升角色共鸣。内含
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/92/Item-120001.png/100px-Item-120001.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/92/Item-120001.png/100px-Item-120001.png]
 迂回的啸鸣 ×1 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/0b/Item-120002.png/100px-Item-120002.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/0b/Item-120002.png/100px-Item-120002.png]
 交错的战栗 ×1 |
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/39/Item-120003.png/100px-Item-120003.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/39/Item-120003.png/100px-Item-120003.png]
 虚伪的呓语 ×1 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/Bgequip6.png/100px-Bgequip6.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/36/Item-120004.png/100px-Item-120004.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/36/Item-120004.png/100px-Item-120004.png]
 嘶哑的回音 ×1 |
 
 ×1 | 1 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
 ‌ 8000 |
 
 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/4c/Item-120013.png/100px-Item-120013.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/4c/Item-120013.png/100px-Item-120013.png]
 悠远的振响不灭不息的振响。用于提升角色共鸣。 ×1 | 3 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
 ‌ 1600 |
 
 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fa/Item-115013.png/100px-Item-115013.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fa/Item-115013.png/100px-Item-115013.png]
 岩中典全章厚重的书卷。用于以岩为灵感的角色高阶洞悉仪式。 ×1 | 6 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
 ‌ 160 |
 
 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/Bgequip5.png/100px-Bgequip5.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/af/Equipment_icon-1005.png/100px-Equipment_icon-1005.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/af/Equipment_icon-1005.png/100px-Equipment_icon-1005.png]
 启寤Ⅳ洞明的灯火。用于心相印刻，提供大量经验。
 提供EXP：10000 ×1 | 2 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
 ‌ 2000 |
 
 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/36/Item-110103.png/100px-Item-110103.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/36/Item-110103.png/100px-Item-110103.png]
 啮咬盒古怪的盒子。沉甸甸的，偶有怪声传出。用于角色的洞悉与共鸣仪式，亦可作为合成高阶材料的素材。 ×1 | 5 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
 ‌ 450 |
 
 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f9/Item-110203.png/100px-Item-110203.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/f9/Item-110203.png/100px-Item-110203.png]
 盐封曼德拉曼德拉草。用于角色的洞悉与共鸣仪式，亦可作为合成高阶材料的素材。 ×1 | 5 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
 ‌ 350 |
 
 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/98/Item-120012.png/100px-Item-120012.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/98/Item-120012.png/100px-Item-120012.png]
 片刻的喧嚣如影随形的喧嚣。用于提升角色共鸣。 ×1 | 5 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
 ‌ 800 |
 
 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6d/Item-115012.png/100px-Item-115012.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6d/Item-115012.png/100px-Item-115012.png]
 岩中典孤卷不全的书卷。用于以岩为灵感的角色中阶洞悉仪式。 ×1 | 6 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
 ‌ 130 |
 
 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/30/Equipment_icon-1004.png/100px-Equipment_icon-1004.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/30/Equipment_icon-1004.png/100px-Equipment_icon-1004.png]
 启寤Ⅲ通明的映照。用于心相印刻，提供中量经验。
 提供EXP：4000 ×1 | 8 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
 ‌ 800 |
 
 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/eb/Item-111001.png/100px-Item-111001.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/eb/Item-111001.png/100px-Item-111001.png]
 罗马金币古老的金币。用于角色的洞悉与共鸣仪式，亦可作为合成高阶材料的素材。 ×1 | 10 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
 ‌ 180 |
 
 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/3d/Item-110502.png/100px-Item-110502.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/3d/Item-110502.png/100px-Item-110502.png]
 幸运咒语一只兔子脚，一张皱巴巴的点单纸。用于角色的洞悉与共鸣仪式，亦可作为合成高阶材料的素材。 ×1 | 10 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
 ‌ 120 |
 
 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/56/Item-180001.png/100px-Item-180001.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/5/56/Item-180001.png/100px-Item-180001.png]
 微频偏振溃散的余振，不足以成像。用于突破心相等级上限的初阶材料。 ×1 | 10 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
 ‌ 400 |
 
 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6a/Item-120011.png/100px-Item-120011.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/6a/Item-120011.png/100px-Item-120011.png]
 一瞬的躁动难以忽视的躁动。用于提升角色共鸣。 ×1 | 10 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
 ‌ 520 |
 
 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/eb/Item-115011.png/100px-Item-115011.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/eb/Item-115011.png/100px-Item-115011.png]
 岩中典残篇残破的书卷。用于以岩为灵感的角色初阶洞悉仪式。 ×1 | 6 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
 ‌ 100 |
 
 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/3d/Bgequip2.png/100px-Bgequip2.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/3/3d/Bgequip2.png/100px-Bgequip2.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fc/Item-110401.png/100px-Item-110401.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/f/fc/Item-110401.png/100px-Item-110401.png]
 银矿原石银矿原石。用于角色的洞悉与共鸣仪式，亦可作为合成高阶材料的素材。 ×1 | 15 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
 ‌ 30 |
 
 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a0/CurrencyItem-190006.png/100px-CurrencyItem-190006.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a0/CurrencyItem-190006.png/100px-CurrencyItem-190006.png]
 荒原齿贝遗落在荒原中的齿贝。可用于银行内[荒原构想]处的兑换。 ×30 | 8 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
 ‌ 350 |
 
 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a2/CurrencyItem-205.png/100px-CurrencyItem-205.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/a/a2/CurrencyItem-205.png/100px-CurrencyItem-205.png]
 微尘来自于至高音律的余振。可用于提升角色的等级。 ×5000 | 25 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
 ‌ 200 |
 
 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/e7/CurrencyItem-203.png/100px-CurrencyItem-203.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/e7/CurrencyItem-203.png/100px-CurrencyItem-203.png]
 利齿子儿神秘学家的货币。各方各面都有所需。 ×5000 | 15 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
 ‌ 350 |
 
 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/c/c6/Bgequip3.png/100px-Bgequip3.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/e7/CurrencyItem-203.png/100px-CurrencyItem-203.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/e7/CurrencyItem-203.png/100px-CurrencyItem-203.png]
 利齿子儿神秘学家的货币。各方各面都有所需。 ×10 | ∞ |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
 ‌ 10 |
 
 已选物品总价 |
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
+[图: https://huiji-public.huijistatic.com/res1999/uploads/9/91/CurrencyIcon-214_1.png]
 ‌ 25000 |
 
 ## 活动日历[编辑]
@@ -2245,9 +2245,9 @@ UTTU购物票据由《UTTU》杂志提供的票据，可于[市场货架]处进�
 |
 
 当晚21:00，另有大量漏洞被修复，补偿截止此时满5级的司辰
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/bf/Bgequip4.png/100px-Bgequip4.png]
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/08/CurrencyItem-214.png/100px-CurrencyItem-214.png]
 UTTU购物票据由《UTTU》杂志提供的票据，可于[市场货架]处进行兑换。
 仅限[UTTU闪烁集会-昨日金杯]活动举办期间使用。 ×1100，修复详情见下。
 |
@@ -2294,55 +2294,55 @@ UTTU购物票据由《UTTU》杂志提供的票据，可于[市场货架]处进�
 
 -
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d5/%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF.jpg/320px-%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF.jpg]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/d/d5/%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF.jpg/320px-%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF.jpg]
 
 宣传图
 
 -
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/4e/%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF%E4%B8%BB%E9%A1%B5%E9%9D%A2.jpg/402px-%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF%E4%B8%BB%E9%A1%B5%E9%9D%A2.jpg]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/4/4e/%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF%E4%B8%BB%E9%A1%B5%E9%9D%A2.jpg/402px-%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF%E4%B8%BB%E9%A1%B5%E9%9D%A2.jpg]
 
 活动主页面
 
 -
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF%E5%85%B3%E5%8D%A1%E9%80%89%E6%8B%A9.jpg/320px-%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF%E5%85%B3%E5%8D%A1%E9%80%89%E6%8B%A9.jpg]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/9/9b/%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF%E5%85%B3%E5%8D%A1%E9%80%89%E6%8B%A9.jpg/320px-%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF%E5%85%B3%E5%8D%A1%E9%80%89%E6%8B%A9.jpg]
 
 关卡选择页面
 
 -
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/0b/%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF%E8%A7%92%E8%89%B2%E9%80%89%E6%8B%A9.jpg/402px-%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF%E8%A7%92%E8%89%B2%E9%80%89%E6%8B%A9.jpg]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/0/0b/%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF%E8%A7%92%E8%89%B2%E9%80%89%E6%8B%A9.jpg/402px-%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF%E8%A7%92%E8%89%B2%E9%80%89%E6%8B%A9.jpg]
 
 角色选择页面
 
 -
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/e2/%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AFUTTU%E9%9B%B6%E5%94%AE.jpg/402px-%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AFUTTU%E9%9B%B6%E5%94%AE.jpg]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/e/e2/%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AFUTTU%E9%9B%B6%E5%94%AE.jpg/402px-%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AFUTTU%E9%9B%B6%E5%94%AE.jpg]
 
 UTTU零售页面
 
 -
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/b9/%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF%E7%89%B9%E8%B4%A9%E5%91%A8.jpg/402px-%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF%E7%89%B9%E8%B4%A9%E5%91%A8.jpg]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/b/b9/%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF%E7%89%B9%E8%B4%A9%E5%91%A8.jpg/402px-%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF%E7%89%B9%E8%B4%A9%E5%91%A8.jpg]
 
 特贩周页面
 
 -
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/28/%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF%E5%AE%A3%E4%BC%A0%E5%9B%BE1.jpg/29px-%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF%E5%AE%A3%E4%BC%A0%E5%9B%BE1.jpg]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/28/%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF%E5%AE%A3%E4%BC%A0%E5%9B%BE1.jpg/29px-%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF%E5%AE%A3%E4%BC%A0%E5%9B%BE1.jpg]
 
 宣传长图
 
 -
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/68/%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF%E5%AE%A3%E4%BC%A0%E5%9B%BE2.jpg/21px-%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF%E5%AE%A3%E4%BC%A0%E5%9B%BE2.jpg]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/6/68/%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF%E5%AE%A3%E4%BC%A0%E5%9B%BE2.jpg/21px-%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF%E5%AE%A3%E4%BC%A0%E5%9B%BE2.jpg]
 
 玩法介绍长图
 
 -
 
-[[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF%E6%BC%8F%E6%B4%9E1.jpg/320px-%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF%E6%BC%8F%E6%B4%9E1.jpg]
+[图: https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/7/73/%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF%E6%BC%8F%E6%B4%9E1.jpg/320px-%E6%98%A8%E6%97%A5%E9%87%91%E6%9D%AF%E6%BC%8F%E6%B4%9E1.jpg]
 
 （漏洞）GM选项
 
