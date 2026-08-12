@@ -1,21 +1,59 @@
 #!/usr/bin/env bash
 # 重返未来1999 数据包查询脚本 (macOS/Linux)
 # 用法: bash query.sh "关键词" [类型]
-#   类型可选: all(默认) | character | world | story | stage | fan | skill
+#   类型可选: 省略/auto(按关键词自动路由) | all(默认) | character | world | story | stage | fan | skill | item
+#   自动路由关键词表: character=角色/人物/介绍/是谁/关系/生日/语音; story=事件/暴雨/时间线/发生/历史/版本/剧情;
+#                     location(无此类型归 all)=地点/位置/在哪/势力/组织; stage=关卡/敌人/BOSS/难度/机制/战斗;
+#                     fan=文风/9味/九味/同人/写法/AI味; item=物品/道具/材料
+#   多关键词命中多类型或无命中 → all
 # 数据根自动推导: REV1999_DATA 环境变量 > 上级 data/ 目录 > 自身位置回溯
 # 2026-08-12 升级:
 #   - 组合词降级匹配: 整串 0 命中时按 空格/助词(UTF-8 助词表文件或内置列表)/属性后缀/角色名词典 拆分, OR 检索
 #   - character/story/world 类型补齐 扩充/ 与 雨前精编/ 指定卷
 #   - 结果排序: 命中词数多者优先 (台词/正文命中优先于目录名命中)
+#   - 类型参数省略或为 auto 时按关键词表自动路由类型
 set -u
 KEYWORD="${1:-}"
-TYPE="${2:-all}"
+ARG_TYPE="${2:-}"
 if [ -z "$KEYWORD" ]; then
   echo "用法: query.sh \"关键词\" [类型]"
-  echo "类型: all/character/world/story/stage/fan/skill"
+  echo "类型: 省略/auto=自动路由 | all/character/world/story/stage/fan/skill/item"
   exit 1
 fi
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+
+# ---- 类型自动路由（类型省略或为 auto 时启用；显式类型直接使用） ----
+resolve_type() {
+  local kw="$1" ex="$2"
+  if [ -n "$ex" ] && [ "$ex" != "auto" ]; then
+    echo "$ex"; return
+  fi
+  local matched="" w
+  add_match() {
+    local t="$1"; shift
+    local w
+    for w in "$@"; do
+      case "$kw" in *"$w"*) matched="$matched $t"; break;; esac
+    done
+  }
+  add_match character "角色" "人物" "介绍" "是谁" "关系" "生日" "语音"
+  add_match story "事件" "暴雨" "时间线" "发生" "历史" "版本" "剧情"
+  add_match all "地点" "位置" "在哪" "势力" "组织"    # location: 脚本无此类型，归 all
+  add_match stage "关卡" "敌人" "BOSS" "boss" "难度" "机制" "战斗"
+  add_match fan "文风" "9味" "九味" "同人" "写法" "AI味"
+  add_match item "物品" "道具" "材料"
+  local unique
+  unique="$(printf '%s\n' $matched | grep -v '^$' | sort -u)"
+  local n
+  n="$(printf '%s\n' "$unique" | grep -c .)"
+  if [ "$n" -eq 1 ]; then echo "$unique"; else echo "all"; fi   # 多命中或无命中 → all
+}
+TYPE="$(resolve_type "$KEYWORD" "$ARG_TYPE")"
+if [ -n "$ARG_TYPE" ] && [ "$ARG_TYPE" != "auto" ]; then
+  echo "查询类型: $TYPE (显式)"
+else
+  echo "查询类型: $TYPE (自动路由)"
+fi
 
 # ---- 数据根定位 ----
 DATA_ROOT=""
@@ -51,6 +89,8 @@ case "$TYPE" in
              EXTRA=("扩充/34_战斗关卡汇总索引.md") ;;
   fan)       SEARCH=("同人参考" "雨前精编")
              EXTRA=("扩充/14_同人圈九味考据.md") ;;
+  item)      SEARCH=("物品")
+             EXTRA=("扩充/09_物品衣着收藏全解.md") ;;
   skill)     SEARCH=() ;;
   *)         SEARCH=() ;;
 esac

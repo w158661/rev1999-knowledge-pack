@@ -1,17 +1,47 @@
 ﻿# 重返未来1999 数据包查询脚本 (Windows PowerShell)
 # 用法: powershell -ExecutionPolicy Bypass -File query.ps1 "关键词" [类型]
-#   类型可选: all(默认) | character | world | story | stage | fan | skill
+#   类型可选: 省略/auto(按关键词自动路由) | all(默认) | character | world | story | stage | fan | skill | item
+#   自动路由关键词表: character=角色/人物/介绍/是谁/关系/生日/语音; story=事件/暴雨/时间线/发生/历史/版本/剧情;
+#                     location(无此类型归 all)=地点/位置/在哪/势力/组织; stage=关卡/敌人/BOSS/难度/机制/战斗;
+#                     fan=文风/9味/九味/同人/写法/AI味; item=物品/道具/材料
+#   多关键词命中多类型或无命中 → all
 # 数据根自动推导: REV1999_DATA 环境变量 > 上级 data/ 目录 > 自身位置回溯
 # 2026-08-12 升级:
 #   - 组合词降级匹配: 整串 0 命中时按 空格/助词(UTF-8 助词表文件或内置列表)/属性后缀/角色名词典 拆分, OR 检索
 #   - character/story/world 类型补齐 扩充/ 与 雨前精编/ 指定卷
 #   - 结果排序: 命中词数多者优先 (台词/正文命中优先于目录名命中)
+#   - 类型参数省略或为 auto 时按关键词表自动路由类型
 $ErrorActionPreference = 'Continue'
 [Console]::OutputEncoding = [System.Text.Encoding]::UTF8
 
 $keyword = if ($args.Count -gt 0) { $args[0] } else { $null }
-$type = if ($args.Count -gt 1) { $args[1] } else { 'all' }
-if (-not $keyword) { Write-Host "用法: query.ps1 `"关键词`" [类型]"; Write-Host "类型: all/character/world/story/stage/fan/skill"; exit 1 }
+$argType = if ($args.Count -gt 1) { $args[1] } else { $null }
+if (-not $keyword) { Write-Host "用法: query.ps1 `"关键词`" [类型]"; Write-Host "类型: 省略/auto=自动路由 | all/character/world/story/stage/fan/skill/item"; exit 1 }
+
+# ---- 类型自动路由（类型省略或为 auto 时启用；显式类型直接使用） ----
+function Resolve-Type {
+    param([string]$kw, [string]$explicitType)
+    if ($explicitType -and $explicitType -ne 'auto') { return $explicitType }
+    $map = [ordered]@{
+        'character' = @('角色','人物','介绍','是谁','关系','生日','语音')
+        'story'     = @('事件','暴雨','时间线','发生','历史','版本','剧情')
+        'all'       = @('地点','位置','在哪','势力','组织')   # location: 脚本无此类型，归 all
+        'stage'     = @('关卡','敌人','BOSS','boss','难度','机制','战斗')
+        'fan'       = @('文风','9味','九味','同人','写法','AI味')
+        'item'      = @('物品','道具','材料')
+    }
+    $matched = @()
+    foreach ($t in $map.Keys) {
+        foreach ($w in $map[$t]) { if ($kw.Contains($w)) { $matched += $t; break } }
+    }
+    $matched = @($matched | Select-Object -Unique)
+    if ($matched.Count -ne 1) { return 'all' }   # 多命中或无命中 → all
+    return $matched[0]
+}
+
+$type = Resolve-Type $keyword $argType
+if ($argType -and $argType -ne 'auto') { Write-Host "查询类型: $type (显式)" }
+else { Write-Host "查询类型: $type (自动路由)" }
 
 $myScriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
 
@@ -80,6 +110,10 @@ switch ($type) {
     'fan'   {
         $targets = @('同人参考','雨前精编')
         $extraFiles += (Join-Path $kchong '14_同人圈九味考据.md')
+    }
+    'item'  {
+        $targets = @('物品')
+        $extraFiles += (Join-Path $kchong '09_物品衣着收藏全解.md')
     }
     'skill' { $skillOnly = $true }
     default { $targets = $null }
