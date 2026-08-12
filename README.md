@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/版本-v2.6-blue" alt="版本">
-  <img src="https://img.shields.io/badge/数据文件-6072-green" alt="数据文件">
+  <img src="https://img.shields.io/badge/数据文件-6073-green" alt="数据文件">
   <img src="https://img.shields.io/badge/技能-8-orange" alt="技能数">
   <img src="https://img.shields.io/badge/深度扩充-77-purple" alt="扩充卷">
   <img src="https://img.shields.io/badge/许可-CC%20BY--NC--SA%204.0-lightgrey" alt="许可">
@@ -48,7 +48,7 @@ rev1999-pack/
 │   ├── rev1999-story/    # 剧情时间线
 │   ├── rev1999-write/    # 写作辅助
 │   └── rev1999-query/    # 数据快速查询
-├── data/                # 6072 个数据文件 / 38 个子目录
+├── data/                # 6073 个数据文件 / 39 个子目录
 │   ├── skill_*.md       # 15 个知识文档
 │   ├── analysis_*.txt   # 16 个分析文件
 │   ├── 扩充/            # 75 个深度精读扩充卷
@@ -148,7 +148,7 @@ bash skills/rev1999/scripts/query.sh "黄昏的音序" stage   # 活动名直达
 | 模型适配 | 2 | 模型适配总纲与分模型方案 |
 | 文档 | 4 | 爬取记录/普查 |
 | 其余 | ~30 | 心相/征集/签到/沙盘/收藏/配音等 |
-| **合计** | **6072** | 38 个子目录（2026-08-11 实测口径；v2.6 清理冗余166文件） |
+| **合计** | **6073** | 39 个子目录（2026-08-12 实测口径；v2.6 清理冗余166文件） |
 
 ## 知识文档
 

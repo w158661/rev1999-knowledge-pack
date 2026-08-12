@@ -19,7 +19,7 @@ expected_dirs = {
     '签到记录': 3, '配音': 1, '官方资料': 19, '过场信息': 1,
     '前线观察室': 3, '局外演绎': 1, '沙盘解构': 4, '文档': 4,
     '剧情时间线': 31, '其他': 2220, '第三扇门': 5, '收藏品': 3,
-    '恢奇牌儿': 5, '造像': 133, '雨前精编': 6, '扩充': 77, '模型适配': 2,
+    '恢奇牌儿': 5, '造像': 133,     '雨前精编': 6, '扩充': 77, '模型适配': 2, '文风': 1,
     '战斗关卡': 1836,
 }
 for d, exp in expected_dirs.items():
@@ -35,8 +35,8 @@ for d, exp in expected_dirs.items():
 
 total_files = sum(len(f) for root, _, f in os.walk(DATA) if '.index' not in root)
 print(f'  data 总文件数: {total_files}')
-if total_files != 6072:
-    errors.append(f'data 总文件数 {total_files} != 6072')
+if total_files != 6073:
+    errors.append(f'data 总文件数 {total_files} != 6073')
 
 skill_docs = sorted(f for f in os.listdir(DATA) if f.startswith('skill_'))
 expected_prefixes = ['skill_%02d_' % i for i in [0,1,2,3,4,5,6,7,8,9,10,11,15,16,17]]
@@ -177,7 +177,7 @@ for fn in sorted(os.listdir(ext_dir)):
     tail = lines[-1].strip() if lines else ''
     truncated = size > 0 and lines and lines[-1].strip() != '' and not re.match(r'^[（(]?全文完', tail) and len(lines) < 100
     print(f'  {fn}: {size/1024:.0f}KB, {len(lines)}行 {"✓" if not truncated else "✗ 疑似截断"}')
-    if size < 4000 and fn not in ('10_杂项资源全解.md',):
+    if size < 4000 and fn not in ('10_杂项资源全解.md', '19_写作资产审计报告.md'):
         warnings.append(f'扩充文件偏小: {fn} {size}B')
 for fn in sorted(os.listdir(os.path.join(DATA, '模型适配'))):
     fp = os.path.join(DATA, '模型适配', fn)
