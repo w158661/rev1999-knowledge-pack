@@ -46,7 +46,11 @@ switch ($type) {
             (Join-Path $kchong '06_角色档案全量.md'),
             (Join-Path $kchong '41_种族分类体系与角色归类.md'),
             (Join-Path $kchong '42_全角色深度链接索引.md'),
-            (Join-Path $kqian '04_角色生平精编.md')
+            (Join-Path $kqian '04_角色生平精编.md'),
+            (Join-Path $dataRoot 'skill_03_角色百科A.md'),
+            (Join-Path $dataRoot 'skill_04_角色百科B.md'),
+            (Join-Path $dataRoot 'skill_11_角色语音风格库.md'),
+            (Join-Path $dataRoot 'skill_16_角色登场索引.md')
         )
     }
     'world' {
@@ -73,7 +77,10 @@ switch ($type) {
         $targets = @('战斗关卡')
         $extraFiles += (Join-Path $kchong '34_战斗关卡汇总索引.md')
     }
-    'fan'   { $targets = @('同人参考','雨前精编') }
+    'fan'   {
+        $targets = @('同人参考','雨前精编')
+        $extraFiles += (Join-Path $kchong '14_同人圈九味考据.md')
+    }
     'skill' { $skillOnly = $true }
     default { $targets = $null }
 }

@@ -150,8 +150,8 @@ for name, ok in checks:
 story_skill = open(os.path.join(ROOT, 'skills', 'rev1999-story', 'SKILL.md'), encoding='utf-8').read()
 s2_checks = [
     ('story表5TH为阿派朗2007', '阿派朗岛（岛上时间2007）' in story_skill),
-    ('story表6TH维也纳1913', '1913维也纳' in story_skill),
-    ('story表与skill_02一致(无1914)', '1914' not in story_skill),
+    ('story表6TH维也纳1914', '1914维也纳' in story_skill),
+    ('story表1913标注旧口径', '1913为旧口径' in story_skill),
     ('story 10次暴雨表与skill_02一致', '1999.12.31' in story_skill and '1987' in story_skill),
 ]
 for name, ok in s2_checks:
