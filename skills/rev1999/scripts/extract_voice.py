@@ -13,12 +13,23 @@ import sys
 import re
 
 def resolve_data_dir():
+    """解析数据目录（三级兜底：环境变量 > ../../../data 实际仓库布局 > ../../data 规范约定）"""
     if len(sys.argv) > 1:
         return sys.argv[1]
     env = os.environ.get("REV1999_DATA")
     if env:
         return env
-    return os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "data")
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    # 实际仓库布局: ../../../data/ (scripts -> rev1999 -> skills -> rev1999-pack -> data)
+    candidate = os.path.normpath(os.path.join(script_dir, "..", "..", "..", "data"))
+    if os.path.isdir(candidate):
+        return candidate
+    # 规范约定: ../../data/
+    candidate = os.path.normpath(os.path.join(script_dir, "..", "..", "data"))
+    if os.path.isdir(candidate):
+        return candidate
+    # 兜底返回实际仓库布局路径（即使不存在，由调用方报错）
+    return os.path.normpath(os.path.join(script_dir, "..", "..", "..", "data"))
 
 def extract_voice(content):
     """从角色文件内容中提取语音部分的中文台词"""

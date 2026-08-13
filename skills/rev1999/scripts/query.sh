@@ -61,12 +61,13 @@ if [ -n "${REV1999_DATA:-}" ] && [ -d "$REV1999_DATA" ]; then
   DATA_ROOT="$REV1999_DATA"
 fi
 if [ -z "$DATA_ROOT" ]; then
+  _probe_dir="$SCRIPT_DIR"
   for _ in 1 2 3 4; do
-    if [ -f "$SCRIPT_DIR/data/skill_00_主索引.md" ]; then
-      DATA_ROOT="$SCRIPT_DIR/data"
+    if [ -f "$_probe_dir/data/skill_00_主索引.md" ]; then
+      DATA_ROOT="$_probe_dir/data"
       break
     fi
-    SCRIPT_DIR="$(dirname "$SCRIPT_DIR")"
+    _probe_dir="$(dirname "$_probe_dir")"
   done
 fi
 if [ -z "$DATA_ROOT" ]; then
