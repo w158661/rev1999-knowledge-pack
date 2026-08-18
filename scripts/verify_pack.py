@@ -13,8 +13,8 @@ print('[1] 目录结构计数')
 print('=' * 60)
 expected_dirs = {
     '世界观设定': 10, '主线': 15, '支线': 23, '轩事': 39, '活动': 58,
-    'UTTU': 41, '版本': 16, '角色': 51, '角色列表': 143, '小径': 113,
-    '衣着': 148, '物品': 43, '征集': 2, '心相': 4, '律的调校': 1,
+    'UTTU': 41, '版本': 16, '角色': 51, '角色列表': 143, '小径': 114,
+    '衣着': 148, '物品': 43, '征集': 2, '心相': 6, '律的调校': 1,
     '荒原': 444, '鬃毛邮报': 76, '雨中悬想': 1, '人工梦游': 462,
     '签到记录': 3, '配音': 1, '官方资料': 19, '过场信息': 1,
     '前线观察室': 3, '局外演绎': 1, '沙盘解构': 4, '文档': 4,
@@ -35,8 +35,8 @@ for d, exp in expected_dirs.items():
 
 total_files = sum(len(f) for root, _, f in os.walk(DATA) if '.index' not in root)
 print(f'  data 总文件数: {total_files}')
-if total_files != 6098:
-    errors.append(f'data 总文件数 {total_files} != 6074')
+if total_files != 6101:
+    errors.append(f'data 总文件数 {total_files} != 6101')
 
 skill_docs = sorted(f for f in os.listdir(DATA) if f.startswith('skill_'))
 expected_prefixes = ['skill_%02d_' % i for i in [0,1,2,3,4,5,6,7,8,9,10,11,15,16,17]]

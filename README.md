@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/版本-v2.7.0-blue" alt="版本">
-  <img src="https://img.shields.io/badge/数据文件-6098-green" alt="数据文件">
+  <img src="https://img.shields.io/badge/数据文件-6101-green" alt="数据文件">
   <img src="https://img.shields.io/badge/技能-8-orange" alt="技能数">
   <img src="https://img.shields.io/badge/深度扩充-77-purple" alt="扩充卷">
   <img src="https://img.shields.io/badge/许可-CC%20BY--NC--SA%204.0-lightgrey" alt="许可">
@@ -48,7 +48,7 @@ rev1999-pack/
 │   ├── rev1999-story/    # 剧情时间线
 │   ├── rev1999-write/    # 写作辅助
 │   └── rev1999-query/    # 数据快速查询
-├── data/                # 6098 个数据文件 / 39 个子目录
+├── data/                # 6101 个数据文件 / 39 个子目录
 │   ├── skill_*.md       # 15 个知识文档
 │   ├── analysis_*.txt   # 16 个分析文件
 │   ├── 扩充/            # 77 个深度精读扩充卷
@@ -129,7 +129,7 @@ bash skills/rev1999/scripts/query.sh "黄昏的音序" stage   # 活动名直达
 | 衣着 | 148 | 皮肤/服装描述 |
 | 扩充 | 77 | 深度精读扩充卷（含 36~42 实测/调研/种族/链接系列） |
 | 角色列表 | 143 | 角色数据/机制 |
-| 小径 | 113 | 氛围文本/世界观细节 |
+| 小径 | 114 | 氛围文本/世界观细节 |
 | 活动 | 58 | 版本活动 |
 | 鬃毛邮报 | 76 | 游戏模式 |
 | 角色 | 51 | 角色故事/文学 |
@@ -148,7 +148,7 @@ bash skills/rev1999/scripts/query.sh "黄昏的音序" stage   # 活动名直达
 | 模型适配 | 2 | 模型适配总纲与分模型方案 |
 | 文档 | 4 | 爬取记录/普查 |
 | 其余 | ~30 | 心相/征集/签到/沙盘/收藏/配音等 |
-| **合计** | **6098** | 39 个子目录（2026-08-18 实测口径；v2.7.0 新增3.9版本25文件） |
+| **合计** | **6101** | 39 个子目录（2026-08-18 实测口径；v2.7.0 新增3.9版本28文件） |
 
 ## 知识文档
 
