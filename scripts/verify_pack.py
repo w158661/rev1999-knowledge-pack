@@ -210,7 +210,7 @@ print('=' * 60)
 print('[8] Windows 脚本（BOM / 行尾）')
 print('=' * 60)
 # 需要 UTF-8 BOM 的脚本：Windows PowerShell 5.1 无 BOM 时按 GBK 解析含中文的 .ps1，会直接语法报错
-for fn, need_bom in [(r'skills\rev1999\scripts\query.ps1', True), (r'package.ps1', True), (r'install.bat', False)]:
+for fn, need_bom in [(r'skills\rev1999\scripts\query.ps1', True), (r'package.ps1', True), (r'install-dsh.ps1', True), (r'install.bat', False)]:
     fp = os.path.join(ROOT, fn)
     if not os.path.exists(fp):
         errors.append(f'缺少脚本 {fn}')

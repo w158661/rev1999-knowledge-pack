@@ -92,6 +92,22 @@ Copy-Item -Recurse -Force skills\* .claude\skills\
 [Environment]::SetEnvironmentVariable('REV1999_DATA', 'C:\path\to\rev1999-pack\data', 'User')
 ```
 
+## DSH（DeepSeek Harness）安装
+```powershell
+powershell -ExecutionPolicy Bypass -File install-dsh.ps1
+```
+做三件事：① 把 `skills/rev1999*` 镜像到 `$DSH_HOME/skills/`（DSH 用户级技能根，所有项目可见）；② 把 `data/` 镜像到 `$DSH_HOME/rev1999-pack/data/`；③ 把用户环境变量 `REV1999_DATA` 指向该数据根并跑一次端到端自检。
+
+| 参数 | 说明 | 默认 / 备注 |
+|------|------|------|
+| `-DshHome <路径>` | 覆盖 DSH 主目录 | 默认取 `$env:DSH_HOME`，没有则用 `~/.dsh` |
+| `-Junction` | 数据改用目录联接而非复制 | 不占空间、随源目录实时更新，但源目录移动/删除即失效 |
+| `-SkillsOnly` | 只装技能，不动数据 | 给已经有数据根的人用 |
+| `-SkipVerify` | 跳过安装前的 `verify_pack.py` | - |
+| `-NoEnv` | 不改 `REV1999_DATA` | - |
+
+镜像用 `robocopy /MIR`，会删除目标目录里多出来的文件——别往 `$DSH_HOME/skills/rev1999*` 与 `$DSH_HOME/rev1999-pack/data` 里手工放东西。DSH 用 chokidar 监听技能根，装完即生效，无需重启。
+
 ## 纯净打包
 ```powershell
 powershell -ExecutionPolicy Bypass -File package.ps1                 # 输出到桌面

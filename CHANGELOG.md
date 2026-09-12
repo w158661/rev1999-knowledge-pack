@@ -4,6 +4,16 @@
 > 仓库：https://github.com/w158661/rev1999-knowledge-pack
 > 技能包作者QQ：3233826425
 
+## v2.8.1（2026-09-12）· 新增 DSH 一键安装
+
+- 新增 `install-dsh.ps1`：把技能镜像到 `$DSH_HOME/skills/`、数据镜像到 `$DSH_HOME/rev1999-pack/data/`、设置用户环境变量 `REV1999_DATA`、并跑一次端到端自检（`query.ps1` 命中数不得为 0）。
+- 支持 `-DshHome` / `-Junction`（目录联接，零拷贝）/ `-SkillsOnly` / `-SkipVerify` / `-NoEnv`；镜像用 `robocopy /MIR` 并排除 `__pycache__`/`*.pyc`/`data/.index`。
+- `verify_pack.py` 第 8 节把 `install-dsh.ps1` 纳入 UTF-8 BOM 硬检查。
+- 本机已用该脚本完成安装并自检通过（8 技能 / 6185 数据文件 / `query.ps1` 161 命中）。
+
+---
+
+
 ## v2.8.0（2026-09-12）· 2026-09 灰机wiki 增量入库 + 全包审查修复
 
 ### 数据增量（灰机wiki 增量核对）
