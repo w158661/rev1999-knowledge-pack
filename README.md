@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/版本-v2.7.0-blue" alt="版本">
-  <img src="https://img.shields.io/badge/数据文件-6101-green" alt="数据文件">
+  <img src="https://img.shields.io/badge/版本-v2.8.0-blue" alt="版本">
+  <img src="https://img.shields.io/badge/数据文件-6185-green" alt="数据文件">
   <img src="https://img.shields.io/badge/技能-8-orange" alt="技能数">
   <img src="https://img.shields.io/badge/深度扩充-77-purple" alt="扩充卷">
   <img src="https://img.shields.io/badge/许可-CC%20BY--NC--SA%204.0-lightgrey" alt="许可">
@@ -48,14 +48,17 @@ rev1999-pack/
 │   ├── rev1999-story/    # 剧情时间线
 │   ├── rev1999-write/    # 写作辅助
 │   └── rev1999-query/    # 数据快速查询
-├── data/                # 6101 个数据文件 / 39 个子目录
+├── data/                # 6185 个数据文件 / 40 个子目录
 │   ├── skill_*.md       # 15 个知识文档
 │   ├── analysis_*.txt   # 16 个分析文件
 │   ├── 扩充/            # 77 个深度精读扩充卷
 │   ├── 雨前精编/        # 《雨前演练》剧情精编（权威参考）
 │   ├── 同人参考/        # 同人《雨幕之下》内容提炼
 │   ├── 战斗关卡/        # 1851 个战斗关卡页（按章节分类）
+│   ├── 更新_2026-09/    # 83 个 2026-09 灰机wiki 新增页面 + 索引
 │   └── ...
+├── scripts/             # build_dataset.py（转训练集）/ verify_pack.py（全包校验）
+├── package.ps1          # 纯净打包（排除 .git/__pycache__/*.pyc/data/.index，自动先跑 verify_pack）
 ├── CHANGELOG.md         # 版本更新日志
 ├── install.sh / install.bat
 └── README.md            # 本文件
@@ -65,7 +68,7 @@ rev1999-pack/
 
 | 来源 | 说明 |
 |------|------|
-| [灰机wiki · 重返未来1999中文维基](https://res1999.huijiwiki.com/) | 全站 5860 个内容页面 100% 覆盖（主线/支线/角色/系统/战斗关卡等） |
+| [灰机wiki · 重返未来1999中文维基](https://res1999.huijiwiki.com/) | 全站内容页面覆盖（主线/支线/角色/系统/战斗关卡等）。2026-08 基准抓取 6040 页；2026-09-12 增量核对：wiki 文章命名空间 5989 个非重定向页，新增 83 页已补入 `data/更新_2026-09/` |
 | 《雨前演练 · Before the Rain》（github.com/huoyingfirefly/beforerain） | 社区剧情精编，交叉验证权威参考 |
 | 同人《雨幕之下》（作者 B站 F0Y208J524，QQ群 1065146736） | 角色外观服装分区描写/人设档案/文化背景/时间线/小说《夜曲：1929》 |
 | [重返未来：1999 官方网站](https://re.bluepoch.com/home/)（深蓝互动） | 官方开场文案与视觉（仅展示用途，版权归深蓝互动所有） |
@@ -88,6 +91,13 @@ Windows PowerShell：
 Copy-Item -Recurse -Force skills\* .claude\skills\
 [Environment]::SetEnvironmentVariable('REV1999_DATA', 'C:\path\to\rev1999-pack\data', 'User')
 ```
+
+## 纯净打包
+```powershell
+powershell -ExecutionPolicy Bypass -File package.ps1                 # 输出到桌面
+powershell -ExecutionPolicy Bypass -File package.ps1 -OutDir D:\dist -Version 2.8.0
+```
+排除 `.git/`、`__pycache__/`、`*.pyc/*.pyo`、`data/.index/`、`*.zip`、编辑器与系统文件；打包前自动执行 `scripts/verify_pack.py`（`-SkipVerify` 可跳过）。
 
 ## 使用方式
 
@@ -147,8 +157,9 @@ bash skills/rev1999/scripts/query.sh "黄昏的音序" stage   # 活动名直达
 | 物品 | 43 | 道具/材料 |
 | 模型适配 | 2 | 模型适配总纲与分模型方案 |
 | 文档 | 4 | 爬取记录/普查 |
+| 更新_2026-09 | 84 | 2026-09-12 灰机wiki 增量（第三扇门新三章/纳西索斯·世界上最小的涟漪/赫多涅·凡人或英雄/洋葱头·流行于世界/UTTU非纪实传说/3.9道具衣着造像荒原），见目录内 `00_索引.md` |
 | 其余 | ~30 | 心相/征集/签到/沙盘/收藏/配音等 |
-| **合计** | **6101** | 39 个子目录（2026-08-18 实测口径；v2.7.0 新增3.9版本28文件） |
+| **合计** | **6185** | 40 个子目录（2026-09-12 实测口径；v2.8.0 新增 `更新_2026-09/` 84 文件） |
 
 ## 知识文档
 

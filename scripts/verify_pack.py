@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """rev1999-pack 全面验证脚本"""
-import os, re, sys, codecs, glob
+import os, re, sys, glob
 
 sys.stdout.reconfigure(encoding='utf-8')
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -20,7 +20,7 @@ expected_dirs = {
     '前线观察室': 3, '局外演绎': 1, '沙盘解构': 4, '文档': 4,
     '剧情时间线': 31, '其他': 2220, '第三扇门': 5, '收藏品': 3,
     '恢奇牌儿': 5, '造像': 133,     '雨前精编': 6, '扩充': 77, '模型适配': 2, '文风': 1,
-    '战斗关卡': 1851,
+    '战斗关卡': 1851, '同人参考': 7, '更新_2026-09': 84,
 }
 for d, exp in expected_dirs.items():
     p = os.path.join(DATA, d)
@@ -35,8 +35,9 @@ for d, exp in expected_dirs.items():
 
 total_files = sum(len(f) for root, _, f in os.walk(DATA) if '.index' not in root)
 print(f'  data 总文件数: {total_files}')
-if total_files != 6101:
-    errors.append(f'data 总文件数 {total_files} != 6101')
+TOTAL_EXPECTED = 6185
+if total_files != TOTAL_EXPECTED:
+    errors.append(f'data 总文件数 {total_files} != {TOTAL_EXPECTED}')
 
 skill_docs = sorted(f for f in os.listdir(DATA) if f.startswith('skill_'))
 expected_prefixes = ['skill_%02d_' % i for i in [0,1,2,3,4,5,6,7,8,9,10,11,15,16,17]]
@@ -91,14 +92,12 @@ for root, _, files in os.walk(DATA):
     if os.path.basename(root) == '.index':
         continue
     for fn in files:
-        if re.search(r'[\u4e00-\u9fff]', fn):
-            for ch in fn:
-                if ord(ch) > 0x9fff and not (0x3400 <= ord(ch) <= 0x4dbf):
-                    pass
         # 常见 mojibake 字符：鍏 粬 涓 栫 鐣 瓒
-        if any(c in fn for c in '鍏粬涓栫鐣瓒棰唴鍒锋氮涔'):
-            mojibake.append(fp)
+        if any(c in fn for c in '鏈娴嬭繘鏄庢棩鐨勬垜'):
+            mojibake.append(os.path.join(root, fn))
 print(f'  疑似乱码文件名: {len(mojibake)}')
+for m in mojibake[:5]:
+    warnings.append(f'疑似乱码文件名: {os.path.relpath(m, ROOT)}')
 
 # ---------- 3. 引用完整性 ----------
 print('=' * 60)
@@ -208,13 +207,26 @@ for fn, kw in [('skill_03_角色百科A.md', '雨前演练'), ('skill_04_角色�
 
 # ---------- 8. Windows 脚本 ----------
 print('=' * 60)
-print('[8] Windows 脚本')
+print('[8] Windows 脚本（BOM / 行尾）')
 print('=' * 60)
-for fn in [r'skills\rev1999\scripts\query.ps1', r'install.bat']:
+# 需要 UTF-8 BOM 的脚本：Windows PowerShell 5.1 无 BOM 时按 GBK 解析含中文的 .ps1，会直接语法报错
+for fn, need_bom in [(r'skills\rev1999\scripts\query.ps1', True), (r'package.ps1', True), (r'install.bat', False)]:
     fp = os.path.join(ROOT, fn)
+    if not os.path.exists(fp):
+        errors.append(f'缺少脚本 {fn}')
+        print(f'  {fn}: 缺失 ✗')
+        continue
     raw = open(fp, 'rb').read()
     bom = raw[:3] == b'\xef\xbb\xbf'
     print(f'  {fn}: 存在✓, {len(raw)}B, UTF-8 BOM: {bom}')
+    if need_bom and not bom:
+        errors.append(f'{fn} 缺少 UTF-8 BOM —— Windows PowerShell 5.1 会按 GBK 解析中文脚本并语法报错')
+    if fn.endswith('.bat'):
+        crlf = raw.count(b'\r\n')
+        bare = raw.count(b'\n') - crlf
+        print(f'    CRLF={crlf} bareLF={bare}')
+        if bare:
+            warnings.append(f'{fn} 含 {bare} 处裸 LF，批处理建议统一 CRLF')
 
 print('=' * 60)
 print('结果汇总')

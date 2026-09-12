@@ -28,7 +28,13 @@ if not exist "%TARGET_DIR%" mkdir "%TARGET_DIR%"
 
 echo.
 echo ^>^>^> 安装技能...
-xcopy /e /i /q /y "%PACKAGE_DIR%\skills\*" "%TARGET_DIR%\" >nul
+REM 排除 Python 编译产物（__pycache__ / *.pyc）
+set "EXCLUDE_LIST=%TEMP%\rev1999_exclude.txt"
+>"%EXCLUDE_LIST%" echo __pycache__\
+>>"%EXCLUDE_LIST%" echo *.pyc
+>>"%EXCLUDE_LIST%" echo *.pyo
+xcopy /e /i /q /y /exclude:"%EXCLUDE_LIST%" "%PACKAGE_DIR%\skills\*" "%TARGET_DIR%\" >nul
+del /q "%EXCLUDE_LIST%" >nul 2>&1
 echo     已安装:
 for /d %%d in ("%TARGET_DIR%\rev1999*") do echo     - %%~nxd
 

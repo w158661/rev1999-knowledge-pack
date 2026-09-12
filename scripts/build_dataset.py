@@ -3,6 +3,9 @@
 《重返未来：1999》知识技能包 -> LLM 训练数据集转换脚本
 输出: JSONL (每条 = {"instruction", "input", "output", "metadata"})
 清洗: 移除 wiki 爬取痕迹([编辑]/[图: ...]/huiji 链接/多余空行)
+
+用法:
+    python build_dataset.py [--src <包根>] [--dst <输出目录>]
 """
 import os
 import re
@@ -12,8 +15,11 @@ import hashlib
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-SRC = r'C:\Users\Asus\Desktop\rev1999-pack'
-DST = r'C:\Users\Asus\Desktop\shujuji'
+# 路径解析（可移植）：默认 SRC = 本脚本所在包的根目录（scripts/ 的上一级），
+# DST = 包根的同级目录 rev1999-dataset；也可用 --src/--dst 或环境变量覆盖。
+_DEFAULT_SRC = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+SRC = os.environ.get('REV1999_PACK') or _DEFAULT_SRC
+DST = os.environ.get('REV1999_DATASET_OUT') or os.path.join(os.path.dirname(_DEFAULT_SRC), 'rev1999-dataset')
 
 # ---------------- 清洗规则 ----------------
 def clean_text(t: str) -> str:
@@ -111,6 +117,16 @@ def detect_category(relpath: str) -> str:
 
 
 def main():
+    global SRC, DST
+    import argparse
+    ap = argparse.ArgumentParser(description='rev1999 知识包 -> JSONL 训练数据集')
+    ap.add_argument('--src', default=SRC, help='知识包根目录（默认：脚本所在包）')
+    ap.add_argument('--dst', default=DST, help='输出目录（默认：包根同级 rev1999-dataset）')
+    args = ap.parse_args()
+    SRC, DST = os.path.abspath(args.src), os.path.abspath(args.dst)
+    if not os.path.isdir(os.path.join(SRC, 'data')):
+        print(f'错误: {SRC} 下没有 data/ 目录，不是有效的知识包根目录', file=sys.stderr)
+        return 2
     os.makedirs(DST, exist_ok=True)
     records = []
     stats = {}
@@ -176,7 +192,7 @@ def main():
     total_chars = sum(len(r['output']) for r in records)
     info = {
         'dataset': 'rev1999-knowledge-pack',
-        'version': 'v2.7.0',
+        'version': 'v2.8.0',
         'domain': '重返未来：1999',
         'format': 'jsonl',
         'schema': {'instruction': 'str', 'input': 'str', 'output': 'str', 'metadata': 'dict'},
@@ -193,7 +209,8 @@ def main():
     print(f'估算 tokens: {int(total_chars/1.5):,}')
     for k, v in sorted(stats.items(), key=lambda x: -x[1]):
         print(f'  {k}: {v}')
+    return 0
 
 
 if __name__ == '__main__':
-    main()
+    sys.exit(main())

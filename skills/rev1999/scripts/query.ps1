@@ -46,13 +46,22 @@ else { Write-Host "查询类型: $type (自动路由)" }
 $myScriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
 
 # ---- 数据根定位 ----
+# 有效数据根 = 目录内存在 skill_00_主索引.md 或 雨前精编/（与 query.sh / search_index.py 同一口径）
+function Test-DataRoot {
+    param([string]$Path)
+    if (-not $Path -or -not (Test-Path $Path)) { return $false }
+    return ((Test-Path (Join-Path $Path 'skill_00_主索引.md')) -or (Test-Path (Join-Path $Path '雨前精编')))
+}
 $dataRoot = $null
-if ($env:REV1999_DATA -and (Test-Path $env:REV1999_DATA)) { $dataRoot = $env:REV1999_DATA }
+if ($env:REV1999_DATA) {
+    if (Test-DataRoot $env:REV1999_DATA) { $dataRoot = $env:REV1999_DATA }
+    else { Write-Host ('警告: REV1999_DATA="' + $env:REV1999_DATA + '" 不是有效数据根（空目录或路径过期），已忽略并回退到自动推导') }
+}
 if (-not $dataRoot) {
     $scriptDir = $myScriptDir
     for ($i = 0; $i -lt 4; $i++) {
         $cand = Join-Path $scriptDir 'data'
-        if (Test-Path (Join-Path $cand 'skill_00_主索引.md')) { $dataRoot = $cand; break }
+        if (Test-DataRoot $cand) { $dataRoot = $cand; break }
         $scriptDir = Split-Path -Parent $scriptDir
     }
 }
@@ -60,7 +69,7 @@ if (-not $dataRoot) {
     $probe = Get-ChildItem -Path $PWD.Path -Recurse -Filter 'skill_00_主索引.md' -Depth 4 -ErrorAction SilentlyContinue | Select-Object -First 1
     if ($probe) { $dataRoot = $probe.DirectoryName }
 }
-if (-not $dataRoot) { Write-Host 'ERROR: 无法定位数据根 (设置 REV1999_DATA 或将本脚本放入 skills/rev1999/scripts/)'; exit 1 }
+if (-not $dataRoot) { Write-Host 'ERROR: 无法定位数据根 (设置有效的 REV1999_DATA——须含 skill_00_主索引.md——或将本脚本放入 skills/rev1999/scripts/)'; exit 1 }
 Write-Host "数据根: $dataRoot"
 
 # ---- 类型目标表（character/story/world 已补齐 扩充/ 与 雨前精编/ 指定卷） ----

@@ -22,32 +22,37 @@ except (AttributeError, Exception):
     pass
 
 
+DATA_MARKERS = ("skill_00_主索引.md", "雨前精编")
+
+
+def is_data_dir(path):
+    """判定目录是否为有效数据根（与 query.ps1 / query.sh 同一口径）"""
+    if not path:
+        return False
+    p = os.fspath(path)
+    return os.path.isdir(p) and any(os.path.exists(os.path.join(p, m)) for m in DATA_MARKERS)
+
+
 def _default_data_dir():
     """解析默认数据目录
 
     优先级:
-      1. 环境变量 REV1999_DATA
-      2. 脚本目录的 ../../data/ (规范约定)
-      3. 脚本目录的 ../../../data/ (实际仓库布局)
+      1. 环境变量 REV1999_DATA（须为有效数据根，否则忽略并给出警告）
+      2. 脚本目录的 ../../../data/ (实际仓库布局)
+      3. 脚本目录的 ../../data/ (规范约定)
     """
     env_data = os.environ.get("REV1999_DATA")
-    if env_data:
+    if is_data_dir(env_data):
         return env_data
+    if env_data:
+        print(f'警告: REV1999_DATA="{env_data}" 不是有效数据根（空目录或路径过期），已回退到脚本位置推导', file=sys.stderr)
 
     script_dir = Path(__file__).resolve().parent
-
-    # 规范约定: ../../data/
-    candidate = (script_dir / ".." / ".." / "data").resolve()
-    if os.path.isdir(candidate):
-        return str(candidate)
-
-    # 实际仓库布局: ../../../data/ (scripts -> rev1999 -> skills -> rev1999-pack -> data)
-    candidate = (script_dir / ".." / ".." / ".." / "data").resolve()
-    if os.path.isdir(candidate):
-        return str(candidate)
-
-    # 兜底返回规范约定路径（即使不存在，由调用方报错）
-    return str((script_dir / ".." / ".." / "data").resolve())
+    for parts in (("..", "..", "..", "data"), ("..", "..", "data")):
+        candidate = script_dir.joinpath(*parts).resolve()
+        if is_data_dir(candidate):
+            return str(candidate)
+    return str(script_dir.joinpath("..", "..", "..", "data").resolve())
 
 
 # ============================================================
@@ -784,7 +789,7 @@ def print_results(results, query, raw=False):
 
 def main():
     """主入口"""
-    if len(sys.argv) < 2:
+    if len(sys.argv) < 2 or sys.argv[1] in ("-h", "--help", "help"):
         print("用法:")
         print("  python search_index.py build                   构建索引")
         print("  python search_index.py search <关键词> [选项]   搜索")
@@ -815,10 +820,14 @@ def main():
         if a == "--datadir" and i + 1 < len(args):
             data_dir = args[i + 1]
             break
-    if not data_dir:
-        data_dir = os.environ.get("REV1999_DATA", "")
+    if data_dir and not is_data_dir(data_dir):
+        print(f'错误: --datadir "{data_dir}" 不是有效数据根（缺少 skill_00_主索引.md / 雨前精编/）', file=sys.stderr)
+        sys.exit(2)
     if not data_dir:
         data_dir = _default_data_dir()
+    if not is_data_dir(data_dir):
+        print(f'错误: 数据根 "{data_dir}" 无效（缺少 skill_00_主索引.md / 雨前精编/）。请用 --datadir 指定或设置 REV1999_DATA。', file=sys.stderr)
+        sys.exit(2)
 
     index = SearchIndex(data_dir)
 

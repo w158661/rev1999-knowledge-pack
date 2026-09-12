@@ -56,14 +56,26 @@ else
 fi
 
 # ---- 数据根定位 ----
+# 有效数据根 = 目录内存在 skill_00_主索引.md 或 雨前精编/（与 query.ps1 / search_index.py 同一口径）
+is_data_root() {
+  [ -n "${1:-}" ] || return 1
+  [ -d "$1" ] || return 1
+  [ -f "$1/skill_00_主索引.md" ] && return 0
+  [ -d "$1/雨前精编" ] && return 0
+  return 1
+}
 DATA_ROOT=""
-if [ -n "${REV1999_DATA:-}" ] && [ -d "$REV1999_DATA" ]; then
-  DATA_ROOT="$REV1999_DATA"
+if [ -n "${REV1999_DATA:-}" ]; then
+  if is_data_root "$REV1999_DATA"; then
+    DATA_ROOT="$REV1999_DATA"
+  else
+    echo "警告: REV1999_DATA=\"$REV1999_DATA\" 不是有效数据根（空目录或路径过期），已忽略并回退到自动推导"
+  fi
 fi
 if [ -z "$DATA_ROOT" ]; then
   _probe_dir="$SCRIPT_DIR"
   for _ in 1 2 3 4; do
-    if [ -f "$_probe_dir/data/skill_00_主索引.md" ]; then
+    if is_data_root "$_probe_dir/data"; then
       DATA_ROOT="$_probe_dir/data"
       break
     fi
@@ -71,7 +83,7 @@ if [ -z "$DATA_ROOT" ]; then
   done
 fi
 if [ -z "$DATA_ROOT" ]; then
-  echo "ERROR: 无法定位数据根 (设置 REV1999_DATA 或将本脚本放入 skills/rev1999/scripts/)" >&2
+  echo "ERROR: 无法定位数据根 (设置有效的 REV1999_DATA——须含 skill_00_主索引.md——或将本脚本放入 skills/rev1999/scripts/)" >&2
   exit 1
 fi
 echo "数据根: $DATA_ROOT"
