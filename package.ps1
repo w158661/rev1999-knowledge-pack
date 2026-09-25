@@ -8,11 +8,11 @@
     打包前默认先跑 scripts/verify_pack.py（-SkipVerify 可跳过）。
 .EXAMPLE
     powershell -ExecutionPolicy Bypass -File package.ps1
-    powershell -ExecutionPolicy Bypass -File package.ps1 -OutDir D:\dist -Version 2.8.0
+    powershell -ExecutionPolicy Bypass -File package.ps1 -OutDir D:\dist -Version 2.9.0
 #>
 param(
     [string]$OutDir = [Environment]::GetFolderPath("Desktop"),
-    [string]$Version = "2.8.0",
+    [string]$Version = "2.9.0",
     [switch]$SkipVerify,
     [switch]$KeepStaging
 )

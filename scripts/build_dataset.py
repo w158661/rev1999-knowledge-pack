@@ -192,7 +192,7 @@ def main():
     total_chars = sum(len(r['output']) for r in records)
     info = {
         'dataset': 'rev1999-knowledge-pack',
-        'version': 'v2.8.0',
+        'version': 'v2.9.0',
         'domain': '重返未来：1999',
         'format': 'jsonl',
         'schema': {'instruction': 'str', 'input': 'str', 'output': 'str', 'metadata': 'dict'},

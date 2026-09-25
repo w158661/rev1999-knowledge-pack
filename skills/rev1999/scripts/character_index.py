@@ -6,6 +6,11 @@
 防幻觉：索引完全基于原始数据文件，不依赖模型记忆。
 用法: python character_index.py [-d <数据目录>]    (-h 查看帮助)
 输出: data/skill_16_角色登场索引.md
+
+注意（2026-09-25）：
+  - 扫描范围仍为主线/支线/轩事；`小径/` 与 `更新_2026-09*/` 增量目录**不在扫描范围内**，
+    这些新增登场记录由人工补录进输出文件，**重跑本脚本会覆盖人工补录**，请先备份再合并。
+  - 同名地理名词等误匹配可用下方 FALSE_POSITIVE 表排除（已有：德雷克→德雷克海峡）。
 """
 
 import os
@@ -108,6 +113,12 @@ def is_pure_number(name):
     """判断角色名是否是纯数字（如 37、6、210）"""
     return bool(re.match(r'^\d+$', name))
 
+# 误匹配排除表：角色名 + 不该计入的紧邻片段（同名地理名词/专名等）
+# 例：主线 10TH 里的"德雷克海峡"是地理名词，不是角色"德雷克"登场。
+FALSE_POSITIVE = {
+    "德雷克": ["海峡"],
+}
+
 def count_occurrences(content, char):
     """统计角色名出现次数，纯数字名用词边界避免误匹配（37次/6TH/210人）"""
     if is_pure_number(char):
@@ -115,7 +126,12 @@ def count_occurrences(content, char):
         pattern = r'(?<![0-9a-zA-Z])' + re.escape(char) + r'(?![0-9a-zA-Z])'
     else:
         pattern = re.escape(char)
-    return len(re.findall(pattern, content))
+    n = len(re.findall(pattern, content))
+    for bad in FALSE_POSITIVE.get(char, []):
+        # 角色名紧邻排除片段的（前接或后接）不计入
+        n -= len(re.findall(pattern + re.escape(bad), content))
+        n -= len(re.findall(re.escape(bad) + pattern, content))
+    return max(n, 0)
 
 def main():
     data_dir = resolve_data_dir()
