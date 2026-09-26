@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """rev1999-pack 全面验证脚本"""
 import os, re, sys, glob
 
@@ -35,7 +35,7 @@ for d, exp in expected_dirs.items():
 
 total_files = sum(len(f) for root, _, f in os.walk(DATA) if '.index' not in root)
 print(f'  data 总文件数: {total_files}')
-TOTAL_EXPECTED = 6294
+TOTAL_EXPECTED = 6295
 if total_files != TOTAL_EXPECTED:
     errors.append(f'data 总文件数 {total_files} != {TOTAL_EXPECTED}')
 

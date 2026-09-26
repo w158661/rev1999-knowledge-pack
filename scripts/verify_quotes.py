@@ -54,11 +54,31 @@ def segments(q: str):
     return [p for p in (norm(x) for x in RE_GAP.split(q)) if len(p) >= 6]
 
 
+def locate(seg: str, where: dict):
+    """给一个（已归一化的）段找它在语料里的位置：先精确命中整行，再退化为包含它的行。"""
+    if seg in where:
+        return where[seg]
+    for n, loc in where.items():
+        if seg and seg in n:
+            return loc + "（行内片段）"
+    return None
+
+
+def explain(q: str, big: str, where: dict):
+    """逐段说明：每段命中与否、命中的落在哪一节。"""
+    segs = segments(q) or [norm(q)]
+    rows = []
+    for s in segs:
+        if s in big:
+            rows.append((s, True, locate(s, where)))
+        else:
+            rows.append((s, False, None))
+    return rows
+
+
 def judge(q: str, big: str):
     """返回 ('hit'|'partial'|'miss', 段数, 命中段数)"""
-    segs = segments(q)
-    if not segs:
-        segs = [norm(q)]
+    segs = segments(q) or [norm(q)]
     ok = [s for s in segs if s in big]
     if len(ok) == len(segs):
         return "hit", len(segs), len(ok)
@@ -68,13 +88,17 @@ def judge(q: str, big: str):
 
 
 def build_corpus(root: Path, langs):
-    """返回 (归一化大串, 逐行集合, 行数)"""
+    """返回 (归一化大串, 逐行集合, 行数, 段→位置索引)"""
     lines = []
+    where = {}
     for lang, kind_en, kind_cn, f in iter_files(root, langs):
         for chapter, section, who, text in parse_file(f):
-            lines.append((norm(text), lang, kind_cn, chapter, section, who, text))
+            n = norm(text)
+            lines.append((n, lang, kind_cn, chapter, section, who, text))
+            if n and n not in where:
+                where[n] = f"{kind_cn}·{chapter}·{section}·{who}"
     big = "".join(x[0] for x in lines)
-    return big, lines
+    return big, lines, where
 
 
 def iter_pack_files(pack: Path, only=None):
@@ -99,6 +123,9 @@ def main(argv=None):
     ap.add_argument("--only", help="只扫某一个文件（相对 --pack）")
     ap.add_argument("--report", help="输出 Markdown 报告")
     ap.add_argument("--max-miss", type=int, default=80, help="报告里最多列多少条未命中")
+    ap.add_argument("--detail", action="store_true",
+                    help="对非「全部段命中」的引文逐段定位（复核拼接引用用）")
+    ap.add_argument("--only-partial", action="store_true", help="只输出「部分命中」的引文")
     args = ap.parse_args(argv)
 
     if not args.root:
@@ -108,7 +135,7 @@ def main(argv=None):
     pack = Path(args.pack).expanduser().resolve()
     langs = [s.strip() for s in args.lang.split(",") if s.strip()]
 
-    big, corpus = build_corpus(root, langs)
+    big, corpus, where = build_corpus(root, langs)
     print(f"语料库：{len(corpus):,} 行台词，归一化后 {len(big):,} 字符（{root.name}，{','.join(langs)}）")
 
     total = hit = partial = 0
@@ -156,10 +183,15 @@ def main(argv=None):
         print(f"  {h:>4}/{t:<4}  {k}{flag}")
 
     if miss:
+        shown = [m for m in miss if (m[2] == "partial" or not args.only_partial)]
         print(f"\n-- 未命中示例（最多 {args.max_miss} 条）--")
-        for f, ln, verdict, segs, q, ctx in miss[:args.max_miss]:
+        for f, ln, verdict, segs, q, ctx in shown[:args.max_miss]:
             tag = "部分命中" if verdict == "partial" else "未命中"
             print(f"  [{tag} {segs}] {f}:{ln}\n    引文：{q}\n    上下文：{ctx}")
+            if args.detail:
+                for s, ok, loc in explain(q, big, where):
+                    mark = "✓" if ok else "✗"
+                    print(f"      {mark} {s[:60]}" + (f"   ← {loc}" if loc else ""))
 
     if args.report:
         rp = Path(args.report)
