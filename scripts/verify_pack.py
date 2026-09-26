@@ -35,7 +35,7 @@ for d, exp in expected_dirs.items():
 
 total_files = sum(len(f) for root, _, f in os.walk(DATA) if '.index' not in root)
 print(f'  data 总文件数: {total_files}')
-TOTAL_EXPECTED = 6291
+TOTAL_EXPECTED = 6294
 if total_files != TOTAL_EXPECTED:
     errors.append(f'data 总文件数 {total_files} != {TOTAL_EXPECTED}')
 
@@ -53,8 +53,8 @@ if len(analysis) != 16:
 
 skills = [d for d in os.listdir(os.path.join(ROOT, 'skills')) if os.path.isdir(os.path.join(ROOT, 'skills', d))]
 print(f'  skills 目录: {len(skills)} 个: {sorted(skills)}')
-if len(skills) != 8:
-    errors.append(f'skills 数量 {len(skills)} != 8')
+if len(skills) != 9:
+    errors.append(f'skills 数量 {len(skills)} != 9')
 
 # ---------- 2. UTF-8 可读性与空文件 ----------
 print('=' * 60)

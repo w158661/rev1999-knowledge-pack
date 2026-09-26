@@ -27,7 +27,7 @@
 
 《重返未来：1999》是一款 20 世纪复古神秘学策略 RPG。1999 年的最后一天，一场"暴雨"向天空倾泻，世界开始倒退。你将以"司辰"的身份，作为无数时代的见证者，带领神秘学家们逃离"暴雨"。
 
-本技能包是其**完整知识库与创作技能包**：**查 / 写 / 扮演 / 配队 / 新手 / OC / 剧情 / 综合** 八技能分层，覆盖世界观、剧情、角色、系统、九味写作法典、反AI病谱、上下文污染与逻辑核查协议、逐模型适配体系。
+本技能包是其**完整知识库与创作技能包**：**查 / 写 / 扮演 / 配队 / 新手 / OC / 剧情 / 原文 / 综合** 九技能分层，覆盖世界观、剧情、角色、系统、**剧情原文语料检索**、九味写作法典、反AI病谱、上下文污染与逻辑核查协议、逐模型适配体系。
 
 <p align="center">
   <img src="https://re.bluepoch.com/home/img/backstory/p1.png" alt="官网世界观视觉" width="480">
@@ -39,7 +39,7 @@
 
 ```
 rev1999-pack/
-├── skills/              # 8 个技能（每个含 SKILL.md，主技能含查询脚本）
+├── skills/              # 9 个技能（每个含 SKILL.md，主技能含查询脚本）
 │   ├── rev1999/         # 综合知识库（含 scripts/query.ps1、query.sh）
 │   ├── rev1999-roleplay/ # 角色扮演
 │   ├── rev1999-oc/       # OC创作
@@ -47,9 +47,13 @@ rev1999-pack/
 │   ├── rev1999-team/     # 队伍搭配
 │   ├── rev1999-story/    # 剧情时间线
 │   ├── rev1999-write/    # 写作辅助
+│   ├── rev1999-text/     # 剧情原文检索（语料库后端）
 │   └── rev1999-query/    # 数据快速查询
-├── data/                # 6291 个数据文件 / 41 个子目录
+├── data/                # 6294 个数据文件 / 41 个子目录
 │   ├── skill_*.md       # 15 个知识文档
+│   ├── skill_11*/       # 角色语音库（语料重建：203 主要角色 + 663 配角）
+│   ├── 角色索引.json    # 机器可读：每个说话人的句数/类别分布/登场章节/分层
+│   ├── 术语与角色名五语对照表.md  # 中英日韩繁对照（按剧情节号对齐）
 │   ├── analysis_*.txt   # 16 个分析文件
 │   ├── 扩充/            # 77 个深度精读扩充卷
 │   ├── 雨前精编/        # 《雨前演练》剧情精编（权威参考）
@@ -59,6 +63,8 @@ rev1999-pack/
 │   ├── 更新_2026-09-25/ # 80 个 4.0 首发批次页面 + 索引（另 23 个已归入角色列表/小径/活动/心相/衣着/造像）
 │   └── ...
 ├── scripts/             # wiki_crawl.py（wiki 增量爬取）/ build_dataset.py（转训练集）/ verify_pack.py（全包校验）
+│                        # extract_story_dialogue.py · build_voice_library.py（语料抽取·语音库重建）
+│                        # query_story.py（原文检索）/ verify_quotes.py（引文回源校验）/ build_glossary.py（五语对照）
 ├── package.ps1          # 纯净打包（排除 .git/__pycache__/*.pyc/data/.index，自动先跑 verify_pack）
 ├── CHANGELOG.md         # 版本更新日志
 ├── install.sh / install.bat
@@ -126,8 +132,13 @@ powershell -ExecutionPolicy Bypass -File package.ps1 -OutDir D:\dist -Version 2.
 | `/rev1999-team` | 队伍搭配建议 |
 | `/rev1999-story` | 查询剧情时间线 |
 | `/rev1999-write` | 1999风格同人写作辅助 |
+| `/rev1999-text` | **剧情原文检索**：查一句台词、核对引文、查某节原文、多语言对照 |
 | `/rev1999-newbie` | 新手引导（开荒/资源/阵容） |
 | `/rev1999-query` | 快速搜索原始数据 |
+
+> `rev1999-text` 需要一个**外部语料库**（第三方玩家整理的剧情文本，216 章 / 约 10.5 万行台词 / 五语言）：
+> https://github.com/Klu5ure/reverse-1999-story-text —— 克隆后用 `STORY_TEXT_ROOT` 指向它即可。
+> 语料库不入本包（版权与体积），本技能只分发工具与用法。
 
 每次加载技能时，AI 会输出固定首句（项目链接/作者/同人致谢/B站番推荐）。
 
